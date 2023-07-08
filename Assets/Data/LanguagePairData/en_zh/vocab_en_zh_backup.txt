@@ -1,0 +1,5489 @@
+我;wǒ;I, me;0;0;1
+我们;wǒmen;we, us (pl.);0;0;1
+你;nǐ;you;0;0;1
+你们;nǐmen;you (pl.);0;0;1
+他;tā;he, him;0;0;1
+她;tā;she, her;0;0;1
+他们;tāmen;they pl.;0;0;1
+她们;tāmen;they (females, pl.);0;0;1
+这;zhè;this;0;0;1
+那;nà;that;0;0;1
+哪;nǎ;where;0;0;0
+谁;shéi;who;0;0;0
+什么;shénme;what, why;0;0;0
+多少;duōshǎo;how many, how much;0;0;0
+几;jǐ;a few, how many;0;0;0
+怎么;zěnme;how;0;0;0
+怎么样;zěnmeyàng;how about;0;0;0
+一;yī;one;0;0;0
+二;èr;two;0;0;0
+三;sān;three;0;0;0
+四;sì;four;0;0;0
+五;wǔ;five;0;0;0
+六;liù;six;0;0;0
+七;qī;seven;0;0;0
+八;bā;eight;0;0;0
+九;jiǔ;nine;0;0;0
+十;shí;ten;0;0;0
+零;líng;zero;0;0;0
+个;gè;one, a, an;0;0;0
+岁;suì;year;0;0;0
+本;běn;volume;0;0;0
+些;xiē;some;0;0;0
+块;kuài;piece;0;0;0
+不;bù;no;0;0;0
+没;méi;no;0;0;0
+很;hěn;quite, very;0;0;0
+太;tài;too;0;0;0
+都;dōu;all;0;0;0
+和;hé;and;0;0;0
+在;zài;in, at;0;0;0
+喂;wèi;hello;0;0;0
+家;jiā;home;0;0;0
+学校;xuéxiào;school;0;0;0
+饭馆;fàndiàn;restaurant;0;0;0
+商店;shāngdiàn;store;0;0;0
+医院;yīyuàn;hospital;0;0;0
+火车站;huǒchēzhàn;train station;0;0;0
+中国;Zhōngguò;China;0;0;0
+北京;Běijīng;Beijing;0;0;0
+上;shàng;up;0;0;0
+下;xià;down;0;0;0
+前面;qiánmiàn;front;0;0;0
+后面;hòumiàn;behind;0;0;0
+里;lǐmiàn;inside;0;0;0
+今天;jīntiān;today;0;0;0
+明天;míngtiān;tomorrow;0;0;0
+昨天;zuótiān;yesterday;0;0;0
+上午;shàngwǔ;morning;0;0;0
+中午;zhōngwǔ;noon;0;0;0
+下午;xiàwǔ;afternoon;0;0;0
+年;nián;year;0;0;0
+月;yuè;month;0;0;0
+日;rì;day;0;0;0
+星期;xīngqī;week;0;0;0
+点;diǎn;dot, spot;0;0;0
+分钟;fēnzhōng;minute;0;0;0
+现在;xiànzài;now;0;0;0
+时候;shíhou;time;0;0;0
+爸爸;bàba;father;0;0;0
+妈妈;māma;mother;0;0;0
+儿子;érzi;son;0;0;0
+女儿;nǚér;daughter;0;0;0
+老师;lǎoshī;teacher;0;0;0
+学生;xuéshēng;student;0;0;0
+同学;tóngxué;classmate;0;0;0
+朋友;péngyǒu;friend;0;0;0
+医生;yīshēng;doctor;0;0;0
+先生;xiānsheng;sir;0;0;0
+小姐;xiǎojiě;Miss;0;0;0
+衣服;yīfu;cloth;0;0;0
+水;shuǐ;water;0;0;0
+菜;cài;dish;0;0;0
+米饭;mǐfàn;rice;0;0;0
+水果;shuǐguǒ;fruit;0;0;0
+苹果;píngguǒ;apple;0;0;0
+茶;chá;tea;0;0;0
+杯子;bēizi;cup;0;0;0
+钱;qián;money;0;0;0
+飞机;fēijī;airplane;0;0;0
+出租车;chūzūchē;taxi;0;0;0
+电视;diànshì;television;0;0;0
+电脑;diànnǎo;computer;0;0;0
+电影;diànyǐng;movie;0;0;0
+天气;tiānqì;weather;0;0;0
+猫;māo;cat;0;0;0
+狗;gǒu;dog;0;0;0
+东西;dōngxi;thing;0;0;0
+人;rén;person;0;0;0
+名字;míngzi;name;0;0;0
+书;shū;book;0;0;0
+汉语;hànyǔ;mandarin Chinese;0;0;0
+字;zì;character;0;0;0
+桌子;zhuōzi;desk;0;0;0
+椅子;yǐzi;chair;0;0;0
+谢谢;xièxie;thank;0;0;0
+不客气;búkèqì;you are welcome;0;0;0
+再见;zàijiàn;good-bye;0;0;0
+请;qǐng;please;0;0;0
+对不起;duìbùqǐ;sorry;0;0;0
+没关系;méiguānxì;It doesn't matter;0;0;0
+是;shì;be (am, is, are);0;0;0
+有;yǒu;have;0;0;0
+看;kàn;look;0;0;0
+听;tīng;listen;0;0;0
+说话;shuōhuà;speak;0;0;0
+读;dú;read;0;0;0
+写;xiě;write;0;0;0
+看见;kànjiàn;see;0;0;0
+叫;jiào;call;0;0;0
+来;lái;come;0;0;0
+回;huí;return;0;0;0
+去;qù;go;0;0;0
+吃;chī;eat;0;0;0
+喝;hē;drink;0;0;0
+睡觉;shuìjiào;sleep;0;0;0
+打电话;dǎdiànhuà;call up;0;0;0
+做;zuò;do;0;0;0
+买;mǎi;buy;0;0;0
+开;kāi;open;0;0;0
+坐;zuò;sit;0;0;0
+住;zhù;live;0;0;0
+学习;xuéxí;study;0;0;0
+工作;gōngzuò;work;0;0;0
+下雨;xiàyǔ;rain;0;0;0
+爱;ài;love;0;0;0
+喜欢;xǐhuān;love, like;0;0;0
+想;xiǎng;want;0;0;0
+认识;rènshi;know;0;0;0
+会;huì;can;0;0;0
+能;néng;can, be able to;0;0;0
+好;hǎo;good;0;0;0
+大;dà;big;0;0;0
+小;xiǎo;small;0;0;0
+多;duō;many, much;0;0;0
+少;shǎo;few, little;0;0;0
+冷;lěng;cold;0;0;0
+热;rè;hot;0;0;0
+高兴;gāoxìng;happy;0;0;0
+漂亮;piàoliang;beautiful;0;0;0
+您;nín;you;0;0;0
+它;tā;it;0;0;0
+大家;dàjiā;everyone;0;0;0
+每;měi;every;0;0;0
+为什么;wèishénme;why;0;0;0
+第一;dìyī;first;0;0;0
+公斤;gōngjīn;kilogram;0;0;0
+元;yuán;yuan;0;0;0
+件;jiàn;piece;0;0;0
+张;zhāng;sheet;0;0;0
+非常;fēicháng;very;0;0;0
+也;yě;likewise;0;0;0
+还;hái;still;0;0;0
+最;zuì;most;0;0;0
+真;zhēn;real;0;0;0
+正在;zhèngzài;be being 2;0;0;0
+已经;yǐjīng;already;0;0;0
+一起;yìqǐ;together;0;0;0
+再;zài;again;0;0;0
+就;jiǜ;at once;0;0;0
+因为;yīnwèi;because;0;0;0
+所以;suǒyǐ;so;0;0;0
+但是;dànshì;but;0;0;0
+从;cóng;from;0;0;0
+对;duì;right;0;0;0
+此;cǐ;this;0;0;0
+向;xiàng;towards;0;0;0
+离;lí;leave;0;0;0
+机场;jīchǎng;airport;0;0;0
+教室;jiàoshì;classroom;0;0;0
+房间;fángjiān;room;0;0;0
+路;lù;road;0;0;0
+左边;zuǒbiān;left;0;0;0
+右边;yòubiān;right;0;0;0
+外;wài;out;0;0;0
+旁边;pángbiān;side;0;0;0
+里;lǐ;inside;0;0;0
+早上;zǎoshàng;morning;0;0;0
+晚上;wǎnshàng;night;0;0;0
+小时;xiǎoshí;hour;0;0;0
+时间;shíjiān;time;0;0;0
+去年;qùnián;last year;0;0;0
+号;hào;number;0;0;0
+生日;shēngrì;birthday;0;0;0
+哥哥;gēge;older brother;0;0;0
+姐姐;jiějie;older sister;0;0;0
+弟弟;dìdi;younger brother;0;0;0
+妹妹;mèimei;younger sister;0;0;0
+丈夫;zhàngfu;husband;0;0;0
+妻子;qīzi;wife;0;0;0
+孩子;háizi;child;0;0;0
+男人;nánrén;man;0;0;0
+女人;nǚrén;woman;0;0;0
+服务员;fúwùyuán;waiter;0;0;0
+鱼;yú;fish;0;0;0
+羊肉;yángròu;mutton;0;0;0
+牛奶;niúnǎi;milk;0;0;0
+鸡蛋;jīdàn;egg;0;0;0
+西瓜;xīguā;watermelon;0;0;0
+咖啡;kāfēi;coffee;0;0;0
+自行车;zìxíngchē;bike;0;0;0
+船;chuán;boat;0;0;0
+雪;xuě;snow;0;0;0
+药;yào;medicine;0;0;0
+手机;shǒujī;cellphone;0;0;0
+手表;shǒubiǎo;watch;0;0;0
+眼睛;yǎnjīng;eye;0;0;0
+身体;shēntǐ;body;0;0;0
+公共汽车;gōnggòngqìchē;bus;0;0;0
+报纸;bàozhǐ;newspaper;0;0;0
+门;mén;door;0;0;0
+题;tí;topic;0;0;0
+课;kè;lesson;0;0;0
+姓;xìng;surname;0;0;0
+问题;wèntí;question;0;0;0
+事情;shìqing;matter;0;0;0
+考试;kǎoshì;exam;0;0;0
+票;piào;ticket;0;0;0
+意思;yìsi;meaning;0;0;0
+颜色;yánsè;color;0;0;0
+欢迎;huānyíng;welcome;0;0;0
+是;shì;am, is, are;0;0;0
+有;yǒu;have;0;0;0
+看;kàn;look;0;0;0
+听;tīng;listen;0;0;0
+跑步;pǎobù;run;0;0;0
+到;dào;arrive 7;0;0;0
+穿;chuān;wear;0;0;0
+洗;xǐ;wash;0;0;0
+给;gěi;give;0;0;0
+找;zhǎo;find;0;0;0
+懂;dǒng;understand;0;0;0
+笑;xiào;smile;0;0;0
+回答;huídá;answer;0;0;0
+告诉;gàosù;tell;0;0;0
+准备;zhǔnbèi;prepare;0;0;0
+开始;kāishǐ;begin;0;0;0
+介绍;jièshào;introduce;0;0;0
+帮助;bāngzhù;help;0;0;0
+玩;wán;play;0;0;0
+送;sòng;present;0;0;0
+等;děng;wait;0;0;0
+让;ràng;let;0;0;0
+起床;qǐchuáng;get up;0;0;0
+唱歌;chànggē;sing;0;0;0
+跳舞;tiàowǔ;dance;0;0;0
+旅游;lǚyóu;travel;0;0;0
+上班;shàngbān;be on duty;0;0;0
+生病;shēngbìng;fall ill;0;0;0
+休息;xiūxi;rest;0;0;0
+运动;yùndòng;exercise;0;0;0
+游泳;yóuyǒng;swim;0;0;0
+踢足球;tīzúqiú;play footbal;0;0;0
+打篮球;dǎlánqiú;play basketball;0;0;0
+完;wán;finish;0;0;0
+爱;ài;love;0;0;0
+觉得;juédé;think;0;0;0
+知道;zhīdao;know;0;0;0
+希望;xīwàng;hope;0;0;0
+会;huì;can 8;0;0;0
+可以;kěyǐ;can;0;0;0
+要;yào;ask for;0;0;0
+可能;kěnéng;may;0;0;0
+好吃;hǎochī;delicioous;0;0;0
+累;lèi;tired;0;0;0
+长;cháng;long;0;0;0
+新;xīn;new;0;0;0
+贵;guì;expensive;0;0;0
+便宜;piányi;cheap;0;0;0
+晴;qíng;fine;0;0;0
+阴;yīn;cloudy;0;0;0
+错;cuò;wrong;0;0;0
+快乐;kuàilè;happy 9;0;0;0
+阿姨;āyí;aunt;0;0;0
+啊;a;ah;0;0;0
+矮;ǎi;short;0;0;0
+爱好;àihào;hobby;0;0;0
+安静;ānjìng;Be quiet;0;0;0
+把;bǎ;hold;0;0;0
+白;bái;white;0;0;0
+百;bǎi;hundred;0;0;0
+班;bān;class;0;0;0
+搬;bān;move;0;0;0
+半;bàn;half;0;0;0
+办法;bànfǎ;Way;0;0;0
+办公室;bàngōngshì;Office;0;0;0
+帮忙;bāngmáng;Help;0;0;0
+包;bāo;package;0;0;0
+饱;bǎo;full;0;0;0
+北方;běifāng;north;0;0;0
+被;bèi;cover;0;0;0
+鼻子;bízi;nose;0;0;0
+比;bǐ;than;0;0;0
+比较;bǐjiào;compare;0;0;0
+比赛;bǐsài;Match;0;0;0
+必须;bìxū;Must;0;0;0
+变化;biànhuà;change;0;0;0
+表示;biǎoshì;Express;0;0;0
+表演;biǎoyǎn;perform;0;0;0
+别;bié;other;0;0;0
+别人;biéren;Others;0;0;0
+宾馆;bīnguǎn;hotel;0;0;0
+冰箱;bīngxiāng;Refrigerator;0;0;0
+菜单;càidān;menu;0;0;0
+参加;cānjiā;participate in;0;0;0
+草;cǎo;grass;0;0;0
+层;céng;layer;0;0;0
+茶;chá;tea;0;0;0
+差;chà;bad;0;0;0
+长;cháng;long;0;0;0
+超市;chāoshì;Supermarket;0;0;0
+衬衫;chènshān;shirt;0;0;0
+成绩;chéngjì;achievement;0;0;0
+城市;chéngshì;City;0;0;0
+吃;chī;eat;0;0;0
+迟到;chídào;Late;0;0;0
+出;chū;come out;0;0;0
+出现;chūxiàn;Appear;0;0;0
+厨房;chúfáng;Kitchen;0;0;0
+除了;chúle;except, besides;0;0;0
+穿;chuān;Wear;0;0;0
+船;chuán;ship;0;0;0
+春;chūn;spring;0;0;0
+词语;cíyǔ;terms, words;0;0;0
+次;cì;times;0;0;0
+聪明;cōngming;clever;0;0;0
+从;cóng;from;0;0;0
+错;cuò;Wrong;0;0;0
+打扫;dǎsǎo;Clean;0;0;0
+打算;dǎsuàn;Plan;0;0;0
+大;dà;big;0;0;0
+担心;dānxīn;Worry;0;0;0
+蛋糕;dàngāo;Cake 2;0;0;0
+当然;dāngrán;Of course;0;0;0
+到;dào;reach;0;0;0
+地;de;;0;0;0
+的;de;;0;0;0
+得;dé;;0;0;0
+灯;dēng;lamp;0;0;0
+等;děng;etc.;0;0;0
+低;dī;low;0;0;0
+地方;dìfang;local;0;0;0
+地铁;dìtiě;metro;0;0;0
+地图;dìtú;Map;0;0;0
+电梯;diàntī;Elevator.;0;0;0
+电子邮件;diànzǐyóujiàn;E-mail;0;0;0
+东;dōng;east;0;0;0
+动物;dòngwù;Animal;0;0;0
+都;dōu;all;0;0;0
+读;dú;read;0;0;0
+短;duǎn;short;0;0;0
+段;duàn;paragraph;0;0;0
+锻炼;duànliàn;Physical exercise;0;0;0
+对;duì;Yes;0;0;0
+多么;duōme;such;0;0;0
+而且;érqiě;And;0;0;0
+耳朵;ěrduo;Ears;0;0;0
+二;èr;Two;0;0;0
+发烧;fāshāo;Have a fever;0;0;0
+发现;fāxiàn;find, discover;0;0;0
+方便;fāngbiàn;convenient 3;0;0;0
+放心;fàngxīn;Don't worry;0;0;0
+附近;fùjìn;nearby;0;0;0
+复习;fùxí;Review;0;0;0
+干净;gānjìng;clean;0;0;0
+敢;gǎn;dare;0;0;0
+感冒;gǎnmào;get a cold;0;0;0
+刚才;gāngcái;just;0;0;0
+高;gāo;high;0;0;0
+根据;gēnjù;according to;0;0;0
+更;gèng;more;0;0;0
+公司;gōngsī;company;0;0;0
+公园;gōngyuán;Park;0;0;0
+故事;gùshi;Story;0;0;0
+刮风;guāfēng;Windy;0;0;0
+关;guān;shut;0;0;0
+关系;guānxì;relationship;0;0;0
+关心;guānxīn;Care for;0;0;0
+关于;guānyú;about;0;0;0
+贵;guì;Expensive;0;0;0
+国家;guójiā;Country;0;0;0
+果汁;guǒzhī;fruit juice;0;0;0
+过去;guòqù;Past times;0;0;0
+过;guo;too;0;0;0
+还;hái;still;0;0;0
+还是;háishì;still;0;0;0
+害怕;hàipà;Fear 4;0;0;0
+黑板;hēibǎn;blackboard;0;0;0
+很;hěn;very;0;0;0
+红;hóng;red;0;0;0
+护照;hùzhào;passport;0;0;0
+花;（动）;;0;0;0
+（动）;huā;spend (verb);0;0;0
+花园;huāyuán;Garden;0;0;0
+画;huà;painting;0;0;0
+坏;huài;bad;0;0;0
+环境;huánjìng;Environment;0;0;0
+换;huàn;change;0;0;0
+黄;huáng;yellow;0;0;0
+回;huí;return;0;0;0
+会议;huìyì;Meeting;0;0;0
+或者;huòzhě;perhaps;0;0;0
+几乎;jīhū;almost;0;0;0
+机会;jīhuì;Opportunity;0;0;0
+极;jí;extremely;0;0;0
+几;jǐ;several;0;0;0
+记得;jìde;remember;0;0;0
+季节;jìjié;Season;0;0;0
+家;jiā;home;0;0;0
+检查;jiǎnchá;inspect;0;0;0
+简单;jiǎndān;simple;0;0;0
+件;jiàn;piece;0;0;0
+健康;jiànkāng;Healthy;0;0;0
+见面;jiànmiàn;meet;0;0;0
+讲;jiǎng;speak;0;0;0
+教;jiāo;teach 5;0;0;0
+角;jiǎo;horn;0;0;0
+脚;jiǎo;foot;0;0;0
+叫;jiào;call;0;0;0
+街道;jiēdào;Street;0;0;0
+结婚;jiéhūn;marry;0;0;0
+结束;jiéshù;End;0;0;0
+节目;jiémù;program;0;0;0
+节日;jiérì;festival;0;0;0
+解决;jiějué;Solve;0;0;0
+借;jiè;borrow;0;0;0
+经常;jīngcháng;Often;0;0;0
+经过;jīngguò;After, through;0;0;0
+经理;jīnglǐ;manager;0;0;0
+九;jiǔ;Nine;0;0;0
+久;jiǔ;long;0;0;0
+旧;jiù;old,used;0;0;0
+举行;jǔxíng;hold;0;0;0
+句子;jùzi;sentence;0;0;0
+决定;juédìng;Decision;0;0;0
+可爱;kě'ài;Lovely;0;0;0
+客人;kèrén;Guest;0;0;0
+空调;kōngtiáo;Air conditioner;0;0;0
+口;kǒu;mouth;0;0;0
+哭;kū;cry 6;0;0;0
+裤子;kùzi;trousers;0;0;0
+块;kuài;block;0;0;0
+快;kuài;fast;0;0;0
+筷子;kuàizi;chopsticks;0;0;0
+来;lái;come;0;0;0
+蓝;lán;blue;0;0;0
+老;lǎo;old;0;0;0
+离开;líkāi;leave;0;0;0
+里;lǐ;in;0;0;0
+礼物;lǐwù;gift;0;0;0
+历史;lìshǐ;History;0;0;0
+脸;liǎn;face;0;0;0
+练习;liànxí;Practice;0;0;0
+两;liǎng;Two;0;0;0
+辆;liàng;Car;0;0;0
+了解;liǎojiě;understand;0;0;0
+邻居;línjū;neighbor;0;0;0
+零;líng;Zero;0;0;0
+六;liù;Six;0;0;0
+楼;lóu;floor;0;0;0
+路;lù;road;0;0;0
+马上;mǎshàng;Right off;0;0;0
+吗;ma;;0;0;0
+买;mǎi;buy;0;0;0
+卖;mài;sell;0;0;0
+满意;mǎnyì;Satisfied;0;0;0
+慢;màn;slow;0;0;0
+忙;máng;busy;0;0;0
+猫;māo;cat;0;0;0
+帽子;màozi;Hat;0;0;0
+没;méi;no;0;0;0
+面包;miànbāo;Bread;0;0;0
+面条;miàntiáo;noodle;0;0;0
+明白;míngbai;clear;0;0;0
+哪;（哪儿）;;0;0;0
+（哪儿）;nǎ(nǎr);Which (where);0;0;0
+奶奶;nǎinai;grandma;0;0;0
+南;nán;south;0;0;0
+难过;nánguò;sad;0;0;0
+呢;ne;;0;0;0
+能;néng;can;0;0;0
+你;nǐ;you;0;0;0
+年;nián;year;0;0;0
+年级;niánjí;grade;0;0;0
+年轻;niánqīng;Young;0;0;0
+鸟;niǎo;bird;0;0;0
+您;nín;you;0;0;0
+努力;nǔlì;Strive;0;0;0
+爬山;páshān;Mountain climbing;0;0;0
+盘子;pánzi;plate;0;0;0
+啤酒;píjiǔ;Beer;0;0;0
+葡萄;pútao;Grape;0;0;0
+普通话;pǔtōnghuà;Mandarin;0;0;0
+七;qī;Seven;0;0;0
+其实;qíshí;actually 8;0;0;0
+其他;qítā;Other;0;0;0
+骑;qí;ride;0;0;0
+奇怪;qíguài;strange;0;0;0
+铅笔;qiānbǐ;pencil;0;0;0
+钱;qián;money;0;0;0
+清楚;qīngchu;clear;0;0;0
+晴;qíng;Sunny;0;0;0
+请;qǐng;please;0;0;0
+秋;qiū;autumn;0;0;0
+去;qù;go;0;0;0
+裙子;qúnzi;skirt;0;0;0
+然后;ránhòu;Then;0;0;0
+让;ràng;Give Way;0;0;0
+热;rè;hot;0;0;0
+热情;rèqíng;Enthusiasm;0;0;0
+人;rén;people, person;0;0;0
+认为;rènwéi;think;0;0;0
+认真;rènzhēn;earnest;0;0;0
+日;rì;day;0;0;0
+容易;róngyì;easily;0;0;0
+如果;rúguǒ;If;0;0;0
+三;sān;Three;0;0;0
+伞;sǎn;umbrella;0;0;0
+上网;shàngwǎng;Surf the Internet;0;0;0
+生气;shēngqì;get angry;0;0;0
+声音;shēngyīn;voice;0;0;0
+十;shí;Ten;0;0;0
+使;shǐ;make;0;0;0
+是;shì;yes;0;0;0
+世界;shìjiè;world;0;0;0
+舒服;shūfu;comfortable;0;0;0
+叔叔;shūshu;uncle;0;0;0
+树;shù;tree;0;0;0
+数学;shùxué;Mathematics;0;0;0
+刷牙;shuāyá;Brush one's teeth;0;0;0
+双;shuāng;double, pair;0;0;0
+水;shuǐ;water;0;0;0
+水平;shuǐpíng;level;0;0;0
+司机;sījī;Driver;0;0;0
+四;sì;Four;0;0;0
+送;sòng;give;0;0;0
+虽然;suīrán;although;0;0;0
+岁;suì;year;0;0;0
+太阳;tàiyáng;sun;0;0;0
+糖;táng;sugar;0;0;0
+特别;tèbié;Especially;0;0;0
+疼;téng;hurt;0;0;0
+提高;tígāo;increase;0;0;0
+体育;tǐyù;Sports;0;0;0
+同事;tóngshì;Colleague;0;0;0
+同意;tóngyì;Agree;0;0;0
+头发;tóufa;Hair;0;0;0
+突然;tūrán;suddenly;0;0;0
+图书馆;túshūguǎn;Library;0;0;0
+腿;tuǐ;leg;0;0;0
+外;wài;abroad, outside;0;0;0
+完;wán;finish;0;0;0
+完成;wánchéng;complete;0;0;0
+玩;wán;play;0;0;0
+碗;wǎn;bowl;0;0;0
+忘记;wàngjì;forget;0;0;0
+喂;wèi;feed;0;0;0
+为;wèi;for;0;0;0
+为了;wèile;in order to;0;0;0
+文化;wénhuà;Culture;0;0;0
+问;wèn;ask;0;0;0
+习惯;xíguàn;Habit;0;0;0
+洗;xǐ;wash;0;0;0
+洗手间;xǐshǒujiān;Restroom;0;0;0
+洗澡;xǐzǎo;Take a shower;0;0;0
+香蕉;xiāngjiāo;Banana;0;0;0
+相同;xiāngtóng;identical;0;0;0
+相信;xiāngxìn;believe;0;0;0
+想;xiǎng;think;0;0;0
+向;xiàng;towards;0;0;0
+像;xiàng;image;0;0;0
+小;xiǎo;Small;0;0;0
+小心;xiǎoxīn;watch out;0;0;0
+笑;xiào;laugh, smile;0;0;0
+校长;xiàozhǎng;Principal;0;0;0
+些;xiē;some;0;0;0
+鞋;xié;shoes;0;0;0
+写;xiě;write;0;0;0
+新闻;xīnwén;news;0;0;0
+新鲜;xīnxiān;fresh;0;0;0
+信;xìn;letter;0;0;0
+行李箱;xínglixiāng;Trunk;0;0;0
+姓;xìng;surname;0;0;0
+兴趣;xìngqù;Interest;0;0;0
+熊猫;xióngmāo;Panda;0;0;0
+需要;xūyào;Need;0;0;0
+选择;xuǎnzé;Choice;0;0;0
+眼镜;yǎnjìng;glasses;0;0;0
+要求;yāoqiú;Requirement;0;0;0
+药;yào;drug;0;0;0
+要;yào;want;0;0;0
+爷爷;yéye;grandpa;0;0;0
+也;yě;also;0;0;0
+一;yī;One;0;0;0
+一定;yídìng;Certain;0;0;0
+一共;yígòng;Altogether;0;0;0
+一会儿;yíhuìr;a while;0;0;0
+一样;yíyàng;equally;0;0;0
+以后;yǐhòu;In the future;0;0;0
+以前;yǐqián;before;0;0;0
+以为;yǐwéi;Think;0;0;0
+一般;yìbān;commonly;0;0;0
+一边;yìbiān;One side;0;0;0
+一直;yìzhí;always;0;0;0
+音乐;yīnyuè;Music;0;0;0
+银行;yínháng;Bank;0;0;0
+应该;yīnggāi;Should;0;0;0
+影响;yǐngxiǎng;Influence;0;0;0
+用;yòng;use;0;0;0
+游戏;yóuxì;Game;0;0;0
+有名;yǒumíng;Famous;0;0;0
+又;yòu;again;0;0;0
+遇到;yùdào;encounter;0;0;0
+元;yuán;element;0;0;0
+愿意;yuànyì;Be willing;0;0;0
+月;yuè;month;0;0;0
+月亮;yuèliang;Moon;0;0;0
+越;yuè;the more;0;0;0
+云;yún;cloud;0;0;0
+着急;zháojí;Worry;0;0;0
+找;zhǎo;look for;0;0;0
+照顾;zhàogù;look after;0;0;0
+照片;zhàopiàn;Photo;0;0;0
+照相机;zhàoxiàngjī;Camera;0;0;0
+中间;zhōngjiān;Middle;0;0;0
+终于;zhōngyú;finally;0;0;0
+种;zhǒng;species;0;0;0
+重要;zhòngyào;important;0;0;0
+周末;zhōumò;Weekend;0;0;0
+主要;zhǔyào;main;0;0;0
+住;zhù;live;0;0;0
+祝;zhù;wish;0;0;0
+注意;zhùyì;Be careful;0;0;0
+字典;zìdiǎn;Dictionaries;0;0;0
+自己;zìjǐ;Own, self;0;0;0
+总是;zǒngshì;always;0;0;0
+走;zǒu;go，walk;0;0;0
+最;zuì;most;0;0;0
+最近;zuìjìn;lately;0;0;0
+作业;zuòyè;task;0;0;0
+作用;zuòyòng;Effect;0;0;0
+爱情;àiqíng;Love;0;0;0
+安排;ānpái;arrange;0;0;0
+安全;ānquán;security;0;0;0
+暗;àn;dark;0;0;0
+按时;ànshí;on time;0;0;0
+按照;ànzhào;according to;0;0;0
+包括;bāokuò;Include;0;0;0
+保护;bǎohù;protect;0;0;0
+保证;bǎozhèng;ensure;0;0;0
+抱;bào;Hold;0;0;0
+抱歉;bàoqiàn;feel sorry;0;0;0
+报道;bàodào;report;0;0;0
+报名;bàomíng;sign up;0;0;0
+本来;běnlái;originally;0;0;0
+笨;bèn;stupid;0;0;0
+笔记本;bǐjìběn;Notebook;0;0;0
+毕业;bìyè;graduation;0;0;0
+遍;biàn;Times;0;0;0
+标准;biāozhǔn;standard;0;0;0
+表达;biǎodá;Expression;0;0;0
+表格;biǎogé;form;0;0;0
+表扬;biǎoyáng;Praise;0;0;0
+别;bié;other;0;0;0
+饼干;bǐnggān;Biscuits;0;0;0
+并且;bìngqiě;also;0;0;0
+博士;bóshì;doctor;0;0;0
+不但;búdàn;not only;0;0;0
+不过;búguò;However;0;0;0
+不得不;bùdébù;have to;0;0;0
+不管;bùguǎn;no matter 2;0;0;0
+不仅;bùjǐn;not only;0;0;0
+部分;bùfen;Part;0;0;0
+擦;cā;wipe;0;0;0
+猜;cāi;guess;0;0;0
+才;cái;just;0;0;0
+材料;cáiliào;Material Science;0;0;0
+菜;cài;food, dish;0;0;0
+参观;cānguān;visit;0;0;0
+差不多;chàbuduō;Almost;0;0;0
+尝;cháng;taste;0;0;0
+长;cháng;long;0;0;0
+长城;chángchéng;The Great Wall;0;0;0
+长江;chángjiāng;The Yangtze River;0;0;0
+场;chǎng;site;0;0;0
+超过;chāoguò;Exceed;0;0;0
+成功;chénggōng;Success;0;0;0
+成熟;chéngshú;mature;0;0;0
+成为;chéngwéi;Become;0;0;0
+诚实;chéngshí;honest;0;0;0
+乘坐;chéngzuò;ride;0;0;0
+吃;chī;eat;0;0;0
+吃惊;chījīng;Be amazed;0;0;0
+重新;chóngxīn;again;0;0;0
+抽烟;chōuyān;smoking;0;0;0
+出;chū;come out;0;0;0
+出差;chūchāi;A business travel 3;0;0;0
+出发;chūfā;Set out;0;0;0
+出生;chūshēng;Birth;0;0;0
+传真;chuánzhēn;Fax;0;0;0
+窗户;chuānghu;Window;0;0;0
+春;chūn;spring;0;0;0
+词典;cídiǎn;Dictionary;0;0;0
+从来;cónglái;Always;0;0;0
+粗心;cūxīn;careless;0;0;0
+错;cuò;Wrong;0;0;0
+答案;dá'àn;Answer;0;0;0
+打扮;dǎban;dress up;0;0;0
+打扰;dǎrǎo;Disturb;0;0;0
+打印;dǎyìn;Print;0;0;0
+打折;dǎzhé;Discount;0;0;0
+打针;dǎzhēn;To make an injection;0;0;0
+大;dà;large, big;0;0;0
+大概;dàgài;Probably;0;0;0
+大使馆;dàshǐguǎn;Embassy;0;0;0
+大约;dàyuē;about;0;0;0
+带;dài;belt;0;0;0
+戴;dài;wear;0;0;0
+代表;dàibiǎo;representative;0;0;0
+代替;dàitì;replace;0;0;0
+大夫;dàifu;Doctor 4;0;0;0
+当地;dāngdì;Local;0;0;0
+当时;dāngshí;at that time;0;0;0
+刀;dāo;knife;0;0;0
+导游;dǎoyóu;Guide;0;0;0
+到;dào;reach;0;0;0
+到处;dàochù;everywhere;0;0;0
+到底;dàodǐ;To the end;0;0;0
+道歉;dàoqiàn;apologize;0;0;0
+得意;déyì;Proud;0;0;0
+地;de;;0;0;0
+的;de;;0;0;0
+得;dé;;0;0;0
+得;děi;have to;0;0;0
+灯;dēng;lamp;0;0;0
+等;（动）;;0;0;0
+（动）;děng;Wait (verb);0;0;0
+地球;dìqiú;earth;0;0;0
+地址;dìzhǐ;address;0;0;0
+调查;diàochá;investigation;0;0;0
+丢;diū;lose 5;0;0;0
+冬;dōng;winter;0;0;0
+东;dōng;east;0;0;0
+动作;dòngzuò;action;0;0;0
+都;dōu;all;0;0;0
+读;dú;read;0;0;0
+堵车;dǔchē;Traffic jam;0;0;0
+肚子;dùzi;belly;0;0;0
+短;duǎn;short;0;0;0
+段;duàn;paragraph;0;0;0
+断;duàn;break;0;0;0
+对话;duìhuà;dialogue;0;0;0
+对面;duìmiàn;Opposite side;0;0;0
+顿;dùn;Meal;0;0;0
+多;duō;many;0;0;0
+儿童;értóng;children;0;0;0
+发生;fāshēng;Happen;0;0;0
+发展;fāzhǎn;Development;0;0;0
+法律;fǎlǜ;Law;0;0;0
+翻译;fānyì;translate;0;0;0
+烦恼;fánnǎo;annoyance 6;0;0;0
+反对;fǎnduì;Opposition;0;0;0
+反映;fǎnyìng;reflect;0;0;0
+范围;fànwéi;Range;0;0;0
+方法;fāngfǎ;Method;0;0;0
+方面;fāngmiàn;Aspect;0;0;0
+方向;fāngxiàng;direction;0;0;0
+访问;fǎngwèn;Visit;0;0;0
+放;fàng;discharge;0;0;0
+放弃;fàngqì;give up;0;0;0
+放暑假;fàngshǔjià;summer vacation;0;0;0
+分之;fēnzhī;percent;0;0;0
+丰富;fēngfù;rich;0;0;0
+风景;fēngjǐng;Scenery;0;0;0
+否则;fǒuzé;otherwise;0;0;0
+符合;fúhé;accord with;0;0;0
+父亲;fùqīn;father;0;0;0
+复印;fùyìn;To copy;0;0;0
+复杂;fùzá;complex;0;0;0
+负责;fùzé;Be responsible for;0;0;0
+改变;gǎibiàn;change;0;0;0
+干杯;gānbēi;Cheers!;0;0;0
+干燥;gānzào;Dry;0;0;0
+敢;gǎn;dare;0;0;0
+感动;gǎndòng;Be moved;0;0;0
+感觉;gǎnjué;feel 7;0;0;0
+感情;gǎnqíng;feeling;0;0;0
+感谢;gǎnxiè;Thank;0;0;0
+干;gān;dry;0;0;0
+刚刚;gānggāng;just;0;0;0
+高;gāo;high;0;0;0
+高级;gāojí;senior;0;0;0
+个子;gèzi;Height;0;0;0
+给;gěi;give;0;0;0
+跟;gēn;with;0;0;0
+公里;gōnglǐ;kilometre;0;0;0
+工具;gōngjù;tool;0;0;0
+工资;gōngzī;wages;0;0;0
+共同;gòngtóng;common;0;0;0
+狗;gǒu;Dog;0;0;0
+够;gòu;enough;0;0;0
+购物;gòuwù;Shopping;0;0;0
+孤单;gūdān;alone;0;0;0
+估计;gūjì;estimate;0;0;0
+鼓励;gǔlì;encourage;0;0;0
+鼓掌;gǔzhǎng;applause;0;0;0
+顾客;gùkè;customer;0;0;0
+故意;gùyì;deliberately;0;0;0
+关;guān;shut down, close;0;0;0
+关键;guānjiàn;key;0;0;0
+观众;guānzhòng;Audience;0;0;0
+管理;guǎnlǐ;Administration;0;0;0
+光;guāng;light;0;0;0
+广播;guǎngbō;Radio broadcast;0;0;0
+广告;guǎnggào;Advertisement;0;0;0
+逛;guàng;Stroll;0;0;0
+规定;guīdìng;Regulations;0;0;0
+贵;guì;Expensive;0;0;0
+国际;guójì;international;0;0;0
+果然;guǒrán;Sure enough;0;0;0
+过;（动）;;0;0;0
+（动）;guò;pass;0;0;0
+过程;guòchéng;process;0;0;0
+海洋;hǎiyáng;ocean;0;0;0
+害羞;hàixiū;Shy;0;0;0
+寒假;hánjià;The winter vacation;0;0;0
+汗;hàn;sweat;0;0;0
+航班;hángbān;flight;0;0;0
+好;hǎo;good;0;0;0
+好处;hǎochù;benefit;0;0;0
+好像;hǎoxiàng;Be like, seem;0;0;0
+号;hào;Number;0;0;0
+号码;hàomǎ;number;0;0;0
+喝;hē;drink;0;0;0
+和;hé;and 9;0;0;0
+河;hé;river;0;0;0
+合格;hégé;qualified;0;0;0
+合适;héshì;appropriate;0;0;0
+盒子;hézi;Box;0;0;0
+黑;hēi;black;0;0;0
+猴子;hóuzi;Monkey;0;0;0
+厚;hòu;thick;0;0;0
+后悔;hòuhuǐ;regret;0;0;0
+后来;hòulái;later;0;0;0
+忽然;hūrán;suddenly;0;0;0
+护士;hùshi;Nurse;0;0;0
+互相;hùxiāng;each other;0;0;0
+怀疑;huáiyí;doubt;0;0;0
+坏;huài;bad;0;0;0
+回忆;huíyì;Memory;0;0;0
+会;huì;can；be able to;0;0;0
+活动;huódòng;activity;0;0;0
+活泼;huópō;lively;0;0;0
+火;huǒ;fire;0;0;0
+获得;huòdé;Get;0;0;0
+基础;jīchǔ;Basics;0;0;0
+激动;jīdòng;Excited;0;0;0
+积极;jījí;positive;0;0;0
+积累;jīlěi;accumulation;0;0;0
+极;jí;extremely;0;0;0
+极其;jíqí;extremely;0;0;0
+集合;jíhé;aggregate;0;0;0
+及时;jíshí;timely;0;0;0
+即使;jíshǐ;even if;0;0;0
+几;jǐ;several;0;0;0
+寄;jì;send;0;0;0
+记者;jìzhě;Reporter;0;0;0
+计划;jìhuà;plan;0;0;0
+既然;jìrán;although;0;0;0
+技术;jìshù;technology;0;0;0
+继续;jìxù;Continue;0;0;0
+家;jiā;home;0;0;0
+家具;jiājù;furniture;0;0;0
+加班;jiābān;overtime work;0;0;0
+加油站;jiāyóuzhàn;Gas station;0;0;0
+假;jiǎ;false;0;0;0
+价格;jiàgé;Price;0;0;0
+坚持;jiānchí;Insist;0;0;0
+减肥;jiǎnféi;Reduce weight;0;0;0
+减少;jiǎnshǎo;reduce;0;0;0
+件;jiàn;piece;0;0;0
+将来;jiānglái;future;0;0;0
+讲;jiǎng;speak;0;0;0
+奖金;jiǎngjīn;bonus;0;0;0
+降低;jiàngdī;reduce;0;0;0
+教;jiāo;teach;0;0;0
+交;jiāo;hand over;0;0;0
+交流;jiāoliú;Communication;0;0;0
+交通;jiāotōng;traffic;0;0;0
+骄傲;jiāo'ào;Proud;0;0;0
+角;jiǎo;horn;0;0;0
+脚;jiǎo;foot;0;0;0
+饺子;jiǎozi;Dumplings;0;0;0
+叫;jiào;call;0;0;0
+教授;jiàoshòu;professor;0;0;0
+教育;jiàoyù;education;0;0;0
+接;jiē;meet, pick;0;0;0
+接受;jiēshòu;accept;0;0;0
+结果;jiéguǒ;Result;0;0;0
+节约;jiéyuē;save;0;0;0
+解释;jiěshì;explain;0;0;0
+借;jiè;borrow;0;0;0
+尽管;jǐnguǎn;although;0;0;0
+紧张;jǐnzhāng;Nervous;0;0;0
+近;jìn;near;0;0;0
+进;jìn;enter;0;0;0
+进行;jìnxíng;in process of;0;0;0
+禁止;jìnzhǐ;prohibit;0;0;0
+精彩;jīngcǎi;Marvellous;0;0;0
+精神;jīngshén;spirit;0;0;0
+经济;jīngjì;Economics;0;0;0
+经历;jīnglì;experience;0;0;0
+经验;jīngyàn;experience;0;0;0
+京剧;jīngjù;Beijing opera;0;0;0
+警察;jǐngchá;Policeman;0;0;0
+竟然;jìngrán;Unexpectedly;0;0;0
+竞争;jìngzhēng;compete;0;0;0
+镜子;jìngzi;Mirror;0;0;0
+究竟;jiūjìng;exactly;0;0;0
+九;jiǔ;Nine;0;0;0
+久;jiǔ;long;0;0;0
+旧;jiù;used, old;0;0;0
+举办;jǔbàn;hold;0;0;0
+拒绝;jùjué;refuse;0;0;0
+距离;jùlí;distance;0;0;0
+开玩笑;kāiwánxiào;Make fun of;0;0;0
+看;kàn;see;0;0;0
+看法;kànfǎ;view;0;0;0
+考虑;kǎolǜ;Consider;0;0;0
+科学;kēxué;science;0;0;0
+咳嗽;késou;cough;0;0;0
+渴;kě;thirsty;0;0;0
+可怜;kělián;Poor;0;0;0
+可是;kěshì;however;0;0;0
+可惜;kěxī;unfortunately;0;0;0
+肯定;kěndìng;sure;0;0;0
+空气;kōngqì;air;0;0;0
+恐怕;kǒngpà;I'm afraid;0;0;0
+口;kǒu;mouth;0;0;0
+哭;kū;cry;0;0;0
+苦;kǔ;bitter;0;0;0
+困难;kùnnan;difficulty;0;0;0
+扩大;kuòdà;Expand;0;0;0
+拉;lā;pull;0;0;0
+垃圾桶;lājītǒng;Trash;0;0;0
+辣;là;spicy;0;0;0
+来;lái;come;0;0;0
+来不及;láibují;There's not enough time;0;0;0
+来得及;láidejí;In time;0;0;0
+蓝;lán;blue;0;0;0
+懒;lǎn;lazy;0;0;0
+浪费;làngfèi;Waste;0;0;0
+浪漫;làngmàn;romantic;0;0;0
+老;lǎo;old;0;0;0
+老虎;lǎohǔ;Tiger;0;0;0
+冷静;lěngjìng;calm down;0;0;0
+离;lí;leave;0;0;0
+理发;lǐfà;Haircut;0;0;0
+理解;lǐjiě;Understand;0;0;0
+理想;lǐxiǎng;ideal;0;0;0
+礼貌;lǐmào;politeness;0;0;0
+厉害;lìhai;Fierce;0;0;0
+力气;lìqi;Strength;0;0;0
+例如;lìrú;for example;0;0;0
+联系;liánxì;contact;0;0;0
+脸;liǎn;face;0;0;0
+凉快;liángkuai;Pleasantly cool;0;0;0
+两;liǎng;Two;0;0;0
+亮;liàng;bright;0;0;0
+辆;liàng;Car (measure word);0;0;0
+聊天;liáotiān;chat;0;0;0
+另外;lìngwài;in addition;0;0;0
+留;liú;stay;0;0;0
+留学;liúxué;Overseas Study;0;0;0
+流泪;liúlèi;Shed tears;0;0;0
+流利;liúlì;fluent;0;0;0
+流行;liúxíng;Popular;0;0;0
+六;liù;Six;0;0;0
+楼;lóu;floor;0;0;0
+路;lù;road;0;0;0
+乱;luàn;chaos;0;0;0
+律师;lǜshī;Lawyer;0;0;0
+麻烦;máfan;trouble;0;0;0
+马;mǎ;Horse;0;0;0
+马虎;mǎhu;Careless;0;0;0
+吗;ma;;0;0;0
+买;mǎi;buy;0;0;0
+卖;mài;sell;0;0;0
+满;mǎn;full;0;0;0
+毛巾;máojīn;Towel;0;0;0
+美丽;měilì;beautiful;0;0;0
+密码;mìmǎ;Password;0;0;0
+免费;miǎnfèi;Free of charge;0;0;0
+民族;mínzú;Nation;0;0;0
+母亲;mǔqīn;mother;0;0;0
+目的;mùdì;objective;0;0;0
+拿;ná;take;0;0;0
+耐心;nàixīn;patience;0;0;0
+南;nán;south;0;0;0
+难;nán;difficult;0;0;0
+难道;nándào;could it be said that;0;0;0
+难受;nánshòu;Uncomfortable;0;0;0
+内容;nèiróng;content;0;0;0
+能;néng;can;0;0;0
+能力;nénglì;ability;0;0;0
+你;nǐ;you;0;0;0
+年;nián;year;0;0;0
+年龄;niánlíng;Age;0;0;0
+农村;nóngcūn;countryside;0;0;0
+弄;nòng;get, make;0;0;0
+暖和;nuǎnhuo;warm;0;0;0
+偶尔;ǒu'ěr;occasionally;0;0;0
+排列;páiliè;array;0;0;0
+判断;pànduàn;judge;0;0;0
+批评;pīpíng;criticism;0;0;0
+皮肤;pífū;skin;0;0;0
+脾气;píqi;Bad temper;0;0;0
+篇;piān;piece;0;0;0
+乒乓球;pīngpāngqiú;Table Tennis;0;0;0
+平时;píngshí;peacetime;0;0;0
+瓶子;píngzi;Bottle;0;0;0
+破;pò;broken;0;0;0
+普遍;pǔbiàn;universal;0;0;0
+其次;qícì;Secondly;0;0;0
+其中;qízhōng;among;0;0;0
+起飞;qǐfēi;take off;0;0;0
+起来;qǐlái;get up;0;0;0
+气候;qìhòu;climate;0;0;0
+千;qiān;thousand;0;0;0
+千万;qiānwàn;Must;0;0;0
+签证;qiānzhèng;visa;0;0;0
+钱;qián;money;0;0;0
+巧克力;qiǎokèlì;Chocolates;0;0;0
+亲戚;qīnqi;Relative;0;0;0
+轻;qīng;light;0;0;0
+轻松;qīngsōng;Relaxed;0;0;0
+情况;qíngkuàng;Situation;0;0;0
+请;qǐng;please;0;0;0
+请假;qǐngjià;leave;0;0;0
+请客;qǐngkè;Treat;0;0;0
+穷;qióng;poor;0;0;0
+秋;qiū;autumn;0;0;0
+区别;qūbié;Difference;0;0;0
+取;qǔ;take;0;0;0
+去;qù;go;0;0;0
+全部;quánbù;whole;0;0;0
+缺点;quēdiǎn;shortcoming;0;0;0
+缺少;quēshǎo;Lack;0;0;0
+却;què;but;0;0;0
+确实;quèshí;Exactly;0;0;0
+群;qún;group;0;0;0
+然而;rán'ér;however;0;0;0
+热闹;rènao;lively;0;0;0
+人民币;rénmínbì;RMB;0;0;0
+任何;rènhé;whatever, any;0;0;0
+任务;rènwu;task;0;0;0
+仍然;réngrán;still;0;0;0
+日;rì;day;0;0;0
+日记;rìjì;diary;0;0;0
+入口;rùkǒu;Entrance;0;0;0
+软;ruǎn;soft;0;0;0
+三;sān;Three;0;0;0
+伞;sǎn;umbrella;0;0;0
+散步;sànbù;Take a walk;0;0;0
+森林;sēnlín;Forest;0;0;0
+沙发;shāfā;Sofa;0;0;0
+商量;shāngliang;discuss;0;0;0
+伤心;shāngxīn;Sad;0;0;0
+上;shàng;upper;0;0;0
+稍微;shāowēi;slightly;0;0;0
+少;shǎo;less;0;0;0
+社会;shèhuì;Sociology;0;0;0
+谁;shéi;who;0;0;0
+深;shēn;deep;0;0;0
+申请;shēnqǐng;Apply;0;0;0
+甚至;shènzhì;Even to the extent that;0;0;0
+生活;shēnghuó;Life;0;0;0
+生命;shēngmìng;life;0;0;0
+失败;shībài;fail;0;0;0
+失望;shīwàng;Disappointment;0;0;0
+师傅;shīfu;Master worker;0;0;0
+湿润;shīrùn;Moist;0;0;0
+狮子;shīzi;Lion;0;0;0
+十;shí;Ten;0;0;0
+十分;shífēn;very;0;0;0
+实际;shíjì;Actual;0;0;0
+实在;shízài;really;0;0;0
+食品;shípǐn;food;0;0;0
+使;shǐ;make;0;0;0
+使用;shǐyòng;Use;0;0;0
+是;shì;yes;0;0;0
+试;shì;try;0;0;0
+市场;shìchǎng;market;0;0;0
+适合;shìhé;Fit;0;0;0
+适应;shìyìng;Adapt;0;0;0
+世纪;shìjì;century;0;0;0
+收入;shōurù;income;0;0;0
+收拾;shōushi;Tidy;0;0;0
+首都;shǒudū;capital;0;0;0
+首先;shǒuxiān;First;0;0;0
+瘦;shòu;thin;0;0;0
+受不了;shòubuliǎo;Cannot bear sth;0;0;0
+受到;shòudào;Suffer;0;0;0
+售货员;shòuhuòyuán;Salesperson;0;0;0
+书;shū;book;0;0;0
+输;shū;lose, fail;0;0;0
+熟悉;shúxī;be familiar with;0;0;0
+树;shù;tree;0;0;0
+数量;shùliàng;Number;0;0;0
+数字;shùzì;number;0;0;0
+顺便;shùnbiàn;Incidentally;0;0;0
+顺利;shùnlì;smoothly;0;0;0
+顺序;shùnxù;order;0;0;0
+说明;shuōmíng;Explain;0;0;0
+硕士;shuòshì;master;0;0;0
+速度;sùdù;speed;0;0;0
+塑料袋;sùliàodài;Plastic bag;0;0;0
+酸;suān;acid;0;0;0
+算;suàn;count;0;0;0
+随便;suíbiàn;casual;0;0;0
+随着;suízhe;along with;0;0;0
+岁;suì;year;0;0;0
+孙子;sūnzi;Grandson;0;0;0
+所有;suǒyǒu;All;0;0;0
+他;tā;he;0;0;0
+她;tā;she;0;0;0
+它;tā;it;0;0;0
+台;tái;platform;0;0;0
+抬;tái;Lift;0;0;0
+太;tài;too;0;0;0
+态度;tàidu;attitude;0;0;0
+谈;tán;talk;0;0;0
+弹钢琴;tángāngqín;Play the piano;0;0;0
+汤;tāng;soup;0;0;0
+糖;táng;sugar;0;0;0
+躺;tǎng;lie;0;0;0
+趟;tàng;Trip;0;0;0
+讨论;tǎolùn;discuss;0;0;0
+讨厌;tǎoyàn;Hate;0;0;0
+特点;tèdiǎn;Characteristic;0;0;0
+疼;téng;hurt;0;0;0
+提供;tígōng;provide;0;0;0
+提前;tíqián;in advance;0;0;0
+提醒;tíxǐng;remind;0;0;0
+填空;tiánkòng;Fill in the blanks;0;0;0
+条;tiáo;strip;0;0;0
+条件;tiáojiàn;condition;0;0;0
+停止;tíngzhǐ;Stop it;0;0;0
+挺;tǐng;quite;0;0;0
+通过;tōngguò;through;0;0;0
+通知;tōngzhī;notice;0;0;0
+同情;tóngqíng;Sympathy;0;0;0
+推迟;tuīchí;delay;0;0;0
+腿;tuǐ;leg;0;0;0
+脱;tuō;take off;0;0;0
+袜子;wàzi;Socks;0;0;0
+外;wài;abroad, outside;0;0;0
+玩;wán;play;0;0;0
+完;wán;finish;0;0;0
+完全;wánquán;completely;0;0;0
+碗;wǎn;bowl;0;0;0
+往往;wǎngwǎng;Often;0;0;0
+网球;wǎngqiú;Tennis;0;0;0
+网站;wǎngzhàn;website;0;0;0
+危险;wēixiǎn;danger;0;0;0
+喂;wèi;feed;0;0;0
+位;wèi;position;0;0;0
+为;wèi;by;0;0;0
+味道;wèidào;taste;0;0;0
+温度;wēndù;temperature;0;0;0
+文章;wénzhāng;Article;0;0;0
+问;wèn;ask;0;0;0
+握手;wòshǒu;Handshake;0;0;0
+污染;wūrǎn;contaminated;0;0;0
+无;wú;nothing;0;0;0
+无聊;wúliáo;Boring;0;0;0
+无论;wúlùn;no matter what;0;0;0
+五;wǔ;Five;0;0;0
+误会;wùhuì;Misunderstanding;0;0;0
+西;xī;west;0;0;0
+西红柿;xīhóngshì;Tomato;0;0;0
+吸引;xīyǐn;Attract;0;0;0
+洗衣机;xǐyījī;Washing machine;0;0;0
+现代;xiàndài;modern;0;0;0
+羡慕;xiànmù;Envy;0;0;0
+限制;xiànzhì;limit;0;0;0
+香;xiāng;fragrant;0;0;0
+相反;xiāngfǎn;Contrary;0;0;0
+详细;xiángxì;detailed;0;0;0
+响;xiǎng;ring;0;0;0
+想;xiǎng;think;0;0;0
+向;xiàng;towards;0;0;0
+像;xiàng;image;0;0;0
+消息;xiāoxi;message;0;0;0
+小;xiǎo;Small;0;0;0
+小说;xiǎoshuō;Novel;0;0;0
+笑话;xiàohua;joke;0;0;0
+效果;xiàoguǒ;Effect;0;0;0
+辛苦;xīnkǔ;hard;0;0;0
+心情;xīnqíng;mood;0;0;0
+信;xìn;letter;0;0;0
+信任;xìnrèn;trust;0;0;0
+信心;xìnxīn;confidence;0;0;0
+信用卡;xìnyòngkǎ;Credit card;0;0;0
+兴奋;xīngfèn;Excitement;0;0;0
+行;xíng;That's ok;0;0;0
+性别;xìngbié;Gender;0;0;0
+性格;xìnggé;character;0;0;0
+幸福;xìngfú;happiness;0;0;0
+许多;xǔduō;many;0;0;0
+压力;yālì;pressure;0;0;0
+牙膏;yágāo;toothpaste;0;0;0
+亚洲;yàzhōu;Asia;0;0;0
+呀;ya;ah;0;0;0
+盐;yán;salt;0;0;0
+严格;yángé;strict;0;0;0
+严重;yánzhòng;serious;0;0;0
+研究生;yánjiūshēng;Graduate student;0;0;0
+演出;yǎnchū;show;0;0;0
+演员;yǎnyuán;performer, actor;0;0;0
+阳光;yángguāng;Sunshine;0;0;0
+养成;yǎngchéng;Cultivate;0;0;0
+样子;yàngzi;A look;0;0;0
+邀请;yāoqǐng;Invitation;0;0;0
+钥匙;yàoshi;Key;0;0;0
+也许;yěxǔ;perhaps;0;0;0
+页;yè;page;0;0;0
+叶子;yèzi;Leaf;0;0;0
+一;yī;One;0;0;0
+一切;yíqiè;everything;0;0;0
+意见;yìjiàn;Opinion;0;0;0
+艺术;yìshù;Art;0;0;0
+阴;yīn;Yin;0;0;0
+因此;yīncǐ;therefore;0;0;0
+饮料;yǐnliào;Drinks;0;0;0
+引起;yǐnqǐ;cause;0;0;0
+印象;yìnxiàng;impression;0;0;0
+赢;yíng;win;0;0;0
+勇敢;yǒnggǎn;Brave;0;0;0
+永远;yǒngyuǎn;forever;0;0;0
+用;yòng;use;0;0;0
+优点;yōudiǎn;Advantage;0;0;0
+优秀;yōuxiù;excellent;0;0;0
+幽默;yōumò;Humor;0;0;0
+由;yóu;from;0;0;0
+由于;yóuyú;Because;0;0;0
+尤其;yóuqí;especially;0;0;0
+有趣;yǒuqù;interesting;0;0;0
+友好;yǒuhǎo;friendly;0;0;0
+友谊;yǒuyì;friendship;0;0;0
+又;yòu;also;0;0;0
+愉快;yúkuài;Cheerful;0;0;0
+于是;yúshì;Therefore;0;0;0
+与;yǔ;and;0;0;0
+语法;yǔfǎ;grammar;0;0;0
+语言;yǔyán;language;0;0;0
+羽毛球;yǔmáoqiú;Badminton;0;0;0
+预习;yùxí;Preview;0;0;0
+元;yuán;element, Yuan;0;0;0
+圆;yuán;circle;0;0;0
+原来;yuánlái;Original;0;0;0
+原谅;yuánliàng;Forgive;0;0;0
+原因;yuányīn;Reason;0;0;0
+远;yuǎn;far;0;0;0
+约会;yuēhuì;Date;0;0;0
+越;yuè;The more;0;0;0
+阅读;yuèdú;Read;0;0;0
+云;yún;cloud;0;0;0
+允许;yǔnxǔ;allow;0;0;0
+杂志;zázhì;Magazine;0;0;0
+在;zài;stay;0;0;0
+再;zài;again;0;0;0
+咱们;zánmen;We;0;0;0
+暂时;zànshí;temporary;0;0;0
+脏;zāng;dirty;0;0;0
+责任;zérèn;responsibility;0;0;0
+增加;zēngjiā;increase;0;0;0
+增长;zēngzhǎng;increase;0;0;0
+窄;zhǎi;narrow;0;0;0
+站;zhàn;station;0;0;0
+张;zhāng;Zhang;0;0;0
+长;zhǎng;grow;0;0;0
+招聘;zhāopìn;recruit;0;0;0
+真正;zhēnzhèng;real;0;0;0
+整理;zhěnglǐ;Arrangement;0;0;0
+整齐;zhěngqí;neat;0;0;0
+正常;zhèngcháng;normal;0;0;0
+正好;zhènghǎo;Just right;0;0;0
+正确;zhèngquè;Correct;0;0;0
+正式;zhèngshì;formal;0;0;0
+证明;zhèngmíng;Prove;0;0;0
+之;zhī;of;0;0;0
+只;zhī;only;0;0;0
+支持;zhīchí;Support;0;0;0
+知识;zhīshi;knowledge;0;0;0
+值得;zhídé;Worth;0;0;0
+直接;zhíjiē;direct;0;0;0
+植物;zhíwù;Botany, plant;0;0;0
+职业;zhíyè;Occupation;0;0;0
+指;zhǐ;finger, to point;0;0;0
+只;zhǐ;only;0;0;0
+只好;zhǐhǎo;have to;0;0;0
+只要;zhǐyào;as long as;0;0;0
+质量;zhìliàng;quality;0;0;0
+至少;zhìshǎo;at least;0;0;0
+制造;zhìzào;Manufacture;0;0;0
+中文;zhōngwén;Chinese;0;0;0
+重点;zhòngdiǎn;A key;0;0;0
+重视;zhòngshì;importance, attach importance to;0;0;0
+周围;zhōuwéi;around;0;0;0
+猪;zhū;pig;0;0;0
+逐渐;zhújiàn;gradually;0;0;0
+主动;zhǔdòng;active;0;0;0
+主意;zhǔyi;idea;0;0;0
+住;zhù;live;0;0;0
+祝;zhù;wish;0;0;0
+祝贺;zhùhè;Congratulate;0;0;0
+著名;zhùmíng;famous;0;0;0
+专门;zhuānmén;specialized;0;0;0
+专业;zhuānyè;major;0;0;0
+赚;zhuàn;earn;0;0;0
+撞;zhuàng;Hit;0;0;0
+准确;zhǔnquè;accuracy;0;0;0
+准时;zhǔnshí;on time;0;0;0
+仔细;zǐxì;careful;0;0;0
+字;zì;word, character;0;0;0
+自然;zìrán;natural;0;0;0
+总结;zǒngjié;summary;0;0;0
+组成;zǔchéng;Form;0;0;0
+组织;zǔzhī;organization;0;0;0
+嘴;zuǐ;mouth;0;0;0
+最;zuì;most;0;0;0
+最好;zuìhǎo;Best;0;0;0
+最后;zuìhòu;Last;0;0;0
+尊重;zūnzhòng;respect;0;0;0
+做生意;zuòshēngyi;Do business;0;0;0
+座;zuò;Seat;0;0;0
+座位;zuòwèi;seat;0;0;0
+作者;zuòzhě;author;0;0;0
+唉;āi;alas;0;0;0
+爱护;àihù;Care;0;0;0
+爱惜;àixī;Cherish;0;0;0
+爱心;àixīn;love;0;0;0
+安慰;ānwèi;comfort;0;0;0
+安装;ānzhuāng;install;0;0;0
+岸;àn;bank;0;0;0
+把握;bǎwò;grasp;0;0;0
+摆;bǎi;pendulum;0;0;0
+班主任;bānzhǔrèn;Headmaster;0;0;0
+办理;bànlǐ;handle;0;0;0
+棒;bàng;stick;0;0;0
+傍晚;bàngwǎn;Evening;0;0;0
+包裹;bāoguǒ;package;0;0;0
+包含;bāohán;Contain;0;0;0
+包子;bāozi;Steamed stuffed bun;0;0;0
+薄;báo;thin;0;0;0
+饱;bǎo;full;0;0;0
+宝贝;bǎobèi;baby;0;0;0
+宝贵;bǎoguì;valuable;0;0;0
+保持;bǎochí;keep;0;0;0
+保存;bǎocún;Preservation;0;0;0
+保留;bǎoliú;Retain;0;0;0
+保险;bǎoxiǎn;Insurance;0;0;0
+报告;bàogào;Presentation;0;0;0
+悲观;bēiguān;Pessimism;0;0;0
+背景;bèijǐng;background;0;0;0
+被;bèi;cover;0;0;0
+被子;bèizi;quilt;0;0;0
+本;běn;book;0;0;0
+本科;běnkē;Undergraduate;0;0;0
+本领;běnlǐng;ability;0;0;0
+本质;běnzhì;essence;0;0;0
+笨;bèn;stupid;0;0;0
+比例;bǐlì;Proportion;0;0;0
+比如;bǐrú;such as;0;0;0
+彼此;bǐcǐ;each other;0;0;0
+毕竟;bìjìng;after all;0;0;0
+避免;bìmiǎn;avoid;0;0;0
+必然;bìrán;Inevitable;0;0;0
+必需;bìxū;essential;0;0;0
+必要;bìyào;necessary;0;0;0
+编辑;biānjí;edit;0;0;0
+鞭炮;biānpào;firecracker 2;0;0;0
+便;biàn;then, in that case;0;0;0
+遍;biàn;Times;0;0;0
+辩论;biànlùn;Debate;0;0;0
+标点;biāodiǎn;punctuation;0;0;0
+标志;biāozhì;sign;0;0;0
+表面;biǎomiàn;surface;0;0;0
+表明;biǎomíng;Indicate;0;0;0
+表情;biǎoqíng;Expression;0;0;0
+表现;biǎoxiàn;performance;0;0;0
+病毒;bìngdú;virus;0;0;0
+玻璃;bōli;Glass;0;0;0
+博物馆;bówùguǎn;Museum;0;0;0
+脖子;bózi;neck;0;0;0
+不必;búbì;need not;0;0;0
+不断;búduàn;Constantly;0;0;0
+不见得;bújiàndé;Not necessarily;0;0;0
+不耐烦;búnàifán;Impatient;0;0;0
+不要紧;búyàojǐn;Never mind;0;0;0
+补充;bǔchōng;supplement;0;0;0
+布;bù;cloth, textile;0;0;0
+不;bù;No;0;0;0
+不安;bù'ān;Uneasy, unstable;0;0;0
+不得了;bùdéliǎo;Very;0;0;0
+不好意思;bùhǎoyìsi;Sorry;0;0;0
+不免;bùmiǎn;unavoidable;0;0;0
+不然;bùrán;otherwise;0;0;0
+不如;bùrú;not as good as;0;0;0
+不足;bùzú;insufficient;0;0;0
+部门;bùmén;department 3;0;0;0
+步骤;bùzhòu;step;0;0;0
+擦;cā;wipe;0;0;0
+猜;cāi;guess;0;0;0
+才;cái;just;0;0;0
+财产;cáichǎn;property;0;0;0
+采访;cǎifǎng;interview;0;0;0
+采取;cǎiqǔ;take, adopt;0;0;0
+彩虹;cǎihóng;Rainbow;0;0;0
+菜;cài;food, dish;0;0;0
+参考;cānkǎo;Reference resources;0;0;0
+参与;cānyù;participate in;0;0;0
+餐厅;cāntīng;Restaurant;0;0;0
+残疾;cánjí;disability;0;0;0
+惭愧;cánkuì;Be ashamed;0;0;0
+操场;cāochǎng;Playground;0;0;0
+操心;cāoxīn;Worry;0;0;0
+草;cǎo;grass;0;0;0
+册;cè;volume, book;0;0;0
+厕所;cèsuǒ;Toilet;0;0;0
+测验;cèyàn;test;0;0;0
+层;céng;layer;0;0;0
+曾经;céngjīng;once;0;0;0
+插;chā;insert;0;0;0
+差别;chābié;difference;0;0;0
+叉子;chāzi;Fork;0;0;0
+茶;chá;tea;0;0;0
+差;chà;differ from;0;0;0
+产品;chǎnpǐn;product;0;0;0
+产生;chǎnshēng;produce;0;0;0
+尝;cháng;taste;0;0;0
+长;cháng;long;0;0;0
+长途;chángtú;Long-distance;0;0;0
+常识;chángshí;common sense;0;0;0
+场;chǎng;site;0;0;0
+朝代;cháodài;Dynasty;0;0;0
+炒;chǎo;fry;0;0;0
+吵;chǎo;Noisy 4;0;0;0
+吵架;chǎojià;quarrel;0;0;0
+车库;chēkù;Garage;0;0;0
+车厢;chēxiāng;carriage;0;0;0
+彻底;chèdǐ;thorough;0;0;0
+沉默;chénmò;silent;0;0;0
+趁;chèn;while;0;0;0
+称呼;chēnghu;to address;0;0;0
+称赞;chēngzàn;Praise;0;0;0
+乘;chéng;ride, take;0;0;0
+承担;chéngdān;bear;0;0;0
+承认;chéngrèn;Admit;0;0;0
+承受;chéngshòu;bear;0;0;0
+程度;chéngdù;degree;0;0;0
+程序;chéngxù;program;0;0;0
+成分;chéngfèn;component;0;0;0
+成果;chéngguǒ;Achievements;0;0;0
+成就;chéngjiù;achievement;0;0;0
+成立;chénglì;establish;0;0;0
+成语;chéngyǔ;idiom;0;0;0
+成长;chéngzhǎng;Grow up;0;0;0
+诚恳;chéngkěn;sincere;0;0;0
+吃亏;chīkuī;Suffer;0;0;0
+持续;chíxù;Continued;0;0;0
+池子;chízi;Pond;0;0;0
+尺子;chǐzi;Ruler;0;0;0
+翅膀;chìbǎng;Wing;0;0;0
+冲;chōng;punching;0;0;0
+充电器;chōngdiànqì;Charger;0;0;0
+充分;chōngfèn;To the full;0;0;0
+充满;chōngmǎn;full of;0;0;0
+重复;chóngfù;repeat;0;0;0
+宠物;chǒngwù;Pet;0;0;0
+抽屉;chōuti;drawer;0;0;0
+抽象;chōuxiàng;abstract;0;0;0
+出版;chūbǎn;publish;0;0;0
+出口;chūkǒu;Exit;0;0;0
+出色;chūsè;excellent;0;0;0
+出席;chūxí;Attend;0;0;0
+初级;chūjí;primary;0;0;0
+除;chú;except;0;0;0
+除非;chúfēi;Unless;0;0;0
+除夕;chúxī;the New Year's Eve;0;0;0
+处理;chǔlǐ;Handle;0;0;0
+穿;chuān;Wear;0;0;0
+船;chuán;ship;0;0;0
+传播;chuánbō;spread;0;0;0
+传递;chuándì;pass;0;0;0
+传染;chuánrǎn;contagion;0;0;0
+传说;chuánshuō;Legend;0;0;0
+传统;chuántǒng;tradition;0;0;0
+窗帘;chuānglián;Window curtains;0;0;0
+闯;chuǎng;rush;0;0;0
+创造;chuàngzào;create;0;0;0
+吹;chuī;blow;0;0;0
+春;chūn;spring;0;0;0
+磁带;cídài;Magnetic tape;0;0;0
+辞职;cízhí;Resignation;0;0;0
+此外;cǐwài;in addition;0;0;0
+次;cì;second;0;0;0
+次要;cìyào;secondary;0;0;0
+刺激;cìjī;stimulate;0;0;0
+匆忙;cōngmáng;hastily;0;0;0
+从此;cóngcǐ;from then on;0;0;0
+从而;cóng'ér;thus;0;0;0
+从前;cóngqián;before;0;0;0
+从事;cóngshì;Be engaged in;0;0;0
+促进;cùjìn;Promote;0;0;0
+促使;cùshǐ;Urge;0;0;0
+催;cuī;Reminder, urge;0;0;0
+存;cún;Deposit;0;0;0
+存在;cúnzài;existence;0;0;0
+错;cuò;Wrong;0;0;0
+错误;cuòwù;error;0;0;0
+措施;cuòshī;Measures;0;0;0
+答应;dāying;promise;0;0;0
+达到;dádào;Achieve;0;0;0
+打工;dǎgōng;Work;0;0;0
+打交道;dǎjiāodao;Dealing with;0;0;0
+打喷嚏;dǎpēntì;Sneeze;0;0;0
+打听;dǎting;Inquire;0;0;0
+打招呼;dǎzhāohu;Say hello;0;0;0
+大方;dàfang;generous;0;0;0
+大象;dàxiàng;Elephant;0;0;0
+大型;dàxíng;large;0;0;0
+贷款;dàikuǎn;extend credit to;0;0;0
+待遇;dàiyù;treatment;0;0;0
+单纯;dānchún;Simple;0;0;0
+单调;dāndiào;monotonous;0;0;0
+单独;dāndú;Alone;0;0;0
+单位;dānwèi;Company;0;0;0
+单元;dānyuán;unit;0;0;0
+担任;dānrèn;To serve as;0;0;0
+耽误;dānwu;delay;0;0;0
+胆小鬼;dǎnxiǎoguǐ;Coward;0;0;0
+淡;dàn;light;0;0;0
+当;dāng;When;0;0;0
+当代;dāngdài;Contemporary;0;0;0
+倒霉;dǎoméi;fall on evil days;0;0;0
+导演;dǎoyǎn;director;0;0;0
+导致;dǎozhì;cause;0;0;0
+倒;dào;inverted;0;0;0
+到;dào;reach;0;0;0
+到达;dàodá;Arrive;0;0;0
+道德;dàodé;Morality;0;0;0
+道理;dàolǐ;truth;0;0;0
+登机牌;dēngjīpái;Boarding pass;0;0;0
+登记;dēngjì;register;0;0;0
+等待;děngdài;wait for;0;0;0
+等候;děnghòu;Wait;0;0;0
+等于;děngyú;Be equal to;0;0;0
+低;dī;low;0;0;0
+滴;dī;drop;0;0;0
+的确;díquè;indeed;0;0;0
+敌人;dírén;Enemy;0;0;0
+底;dǐ;bottom;0;0;0
+递;dì;Delivery;0;0;0
+地道;dìdao;tunnel;0;0;0
+地理;dìlǐ;Geography;0;0;0
+地区;dìqū;region;0;0;0
+地毯;dìtǎn;Carpet;0;0;0
+地位;dìwèi;status;0;0;0
+地震;dìzhèn;earthquake;0;0;0
+点头;diǎntóu;Nod;0;0;0
+点心;diǎnxin;snack;0;0;0
+电池;diànchí;Battery;0;0;0
+电台;diàntái;radio station;0;0;0
+动画片;dònghuàpiàn;Cartoon;0;0;0
+豆腐;dòufu;Bean curd;0;0;0
+读;dú;read;0;0;0
+独立;dúlì;Independent;0;0;0
+独特;dútè;unique;0;0;0
+度过;dùguò;Spend;0;0;0
+短信;duǎnxìn;Short message;0;0;0
+段;duàn;paragraph;0;0;0
+断;duàn;break;0;0;0
+对比;duìbǐ;Contrast;0;0;0
+对待;duìdài;treat;0;0;0
+对方;duìfāng;the other party;0;0;0
+对手;duìshǒu;Opponent;0;0;0
+对象;duìxiàng;object;0;0;0
+对于;duìyú;about;0;0;0
+吨;dūn;ton;0;0;0
+蹲;dūn;squat;0;0;0
+顿;dùn;Meal;0;0;0
+多;duō;many;0;0;0
+多亏;duōkuī;thanks to;0;0;0
+多余;duōyú;surplus;0;0;0
+朵;duǒ;classifier of flower;0;0;0
+躲藏;duǒcáng;Hide oneself;0;0;0
+饿;è;hungry;0;0;0
+恶劣;èliè;Adverse;0;0;0
+而;ér;and;0;0;0
+发表;fābiǎo;Publish;0;0;0
+发愁;fāchóu;To be worried;0;0;0
+发达;fādá;To develop;0;0;0
+发抖;fādǒu;Tremble;0;0;0
+发挥;fāhuī;Develop;0;0;0
+发明;fāmíng;Invention;0;0;0
+发票;fāpiào;invoice;0;0;0
+发言;fāyán;give a speech;0;0;0
+罚款;fákuǎn;forfeit;0;0;0
+法院;fǎyuàn;Court;0;0;0
+翻;fān;Turn;0;0;0
+繁荣;fánróng;Boom;0;0;0
+凡是;fánshì;All, everything;0;0;0
+反而;fǎn'ér;Instead;0;0;0
+反复;fǎnfù;Repeatedly;0;0;0
+反应;fǎnyìng;reaction;0;0;0
+反正;fǎnzhèng;anyway;0;0;0
+方案;fāng'àn;programme;0;0;0
+方式;fāngshì;mode;0;0;0
+妨碍;fáng'ài;Hinder;0;0;0
+房东;fángdōng;landlord;0;0;0
+仿佛;fǎngfú;as if;0;0;0
+放松;fàngsōng;Relax;0;0;0
+肥皂;féizào;soap;0;0;0
+肺;fèi;lung;0;0;0
+废话;fèihuà;Crap;0;0;0
+费用;fèiyong;Cost;0;0;0
+分;fēn;minute;0;0;0
+分别;fēnbié;part;0;0;0
+分布;fēnbù;distribution;0;0;0
+分配;fēnpèi;distribution;0;0;0
+分析;fēnxī;Analysis;0;0;0
+纷纷;fēnfēn;one after another;0;0;0
+份;fèn;share (measure word);0;0;0
+奋斗;fèndòu;Struggle;0;0;0
+愤怒;fènnù;anger;0;0;0
+风格;fēnggé;style;0;0;0
+风俗;fēngsú;Customs;0;0;0
+风险;fēngxiǎn;risk;0;0;0
+疯狂;fēngkuáng;Insane;0;0;0
+讽刺;fěngcì;satire;0;0;0
+否定;fǒudìng;negative;0;0;0
+否认;fǒurèn;deny;0;0;0
+服从;fúcóng;Obey;0;0;0
+服装;fúzhuāng;costume;0;0;0
+辅导;fǔdǎo;Coach;0;0;0
+富;fù;rich;0;0;0
+付款;fùkuǎn;pay;0;0;0
+妇女;fùnǚ;Woman;0;0;0
+复制;fùzhì;copy;0;0;0
+改革;gǎigé;reform;0;0;0
+改进;gǎijìn;Improvement;0;0;0
+改善;gǎishàn;Improve;0;0;0
+改正;gǎizhèng;correction;0;0;0
+盖;gài;cover;0;0;0
+概括;gàikuò;Generalization;0;0;0
+概念;gàiniàn;concept;0;0;0
+干脆;gāncuì;simply;0;0;0
+感激;gǎnjī;Appreciate;0;0;0
+感受;gǎnshòu;feel;0;0;0
+感想;gǎnxiǎng;Feel;0;0;0
+赶紧;gǎnjǐn;Quickly;0;0;0
+赶快;gǎnkuài;hurry up;0;0;0
+干;gàn;dry;0;0;0
+干活儿;gànhuór;work on a job;0;0;0
+钢铁;gāngtiě;steel;0;0;0
+高;gāo;high;0;0;0
+高档;gāodàng;High-grade;0;0;0
+高速公路;gāosùgōnglù;Expressway;0;0;0
+告别;gàobié;farewell;0;0;0
+胳膊;gēbo;Arm;0;0;0
+鸽子;gēzi;Dove;0;0;0
+隔壁;gébì;next door;0;0;0
+革命;gémìng;revolution;0;0;0
+格外;géwài;especially;0;0;0
+个;gè;individual;0;0;0
+个别;gèbié;individual;0;0;0
+个人;gèrén;personal;0;0;0
+个性;gèxìng;personality;0;0;0
+各自;gèzì;Each;0;0;0
+给;gěi;give;0;0;0
+跟;gēn;with;0;0;0
+根;gēn;root;0;0;0
+根本;gēnběn;at all;0;0;0
+更加;gèngjiā;More;0;0;0
+公布;gōngbù;Publish;0;0;0
+公开;gōngkāi;open;0;0;0
+公平;gōngpíng;fair;0;0;0
+公寓;gōngyù;apartment;0;0;0
+公元;gōngyuán;A.D.;0;0;0
+公主;gōngzhǔ;princess;0;0;0
+工厂;gōngchǎng;factory;0;0;0
+工程师;gōngchéngshī;Engineer;0;0;0
+工人;gōngrén;Worker;0;0;0
+工业;gōngyè;Industry;0;0;0
+功夫;gōngfu;Kungfu;0;0;0
+功能;gōngnéng;function;0;0;0
+贡献;gòngxiàn;contribution;0;0;0
+沟通;gōutōng;Communicate;0;0;0
+狗;gǒu;Dog;0;0;0
+够;gòu;enough;0;0;0
+构成;gòuchéng;constitute;0;0;0
+姑姑;gūgu;aunt;0;0;0
+姑娘;gūniang;girl;0;0;0
+古代;gǔdài;Ancient;0;0;0
+古典;gǔdiǎn;classical;0;0;0
+古老;gǔlǎo;ancient;0;0;0
+鼓舞;gǔwǔ;Inspire;0;0;0
+股票;gǔpiào;shares;0;0;0
+骨头;gǔtou;Bone;0;0;0
+固定;gùdìng;fixed;0;0;0
+固体;gùtǐ;solid;0;0;0
+雇佣;gùyōng;hire;0;0;0
+挂号;guàhào;Register;0;0;0
+乖;guāi;Good behaved;0;0;0
+拐弯;guǎiwān;Turn;0;0;0
+怪不得;guàibude;No wonder;0;0;0
+官;guān;officer;0;0;0
+关;guān;shut;0;0;0
+关闭;guānbì;close;0;0;0
+关怀;guānhuái;Care;0;0;0
+观察;guānchá;observation;0;0;0
+观点;guāndiǎn;viewpoint;0;0;0
+观念;guānniàn;concept;0;0;0
+管子;guǎnzi;pipe;0;0;0
+冠军;guànjūn;Champion;0;0;0
+罐头;guàntou;Can, tin;0;0;0
+光;guāng;light;0;0;0
+光滑;guānghuá;smooth;0;0;0
+光临;guānglín;presence;0;0;0
+光明;guāngmíng;light;0;0;0
+光盘;guāngpán;CD;0;0;0
+光荣;guāngróng;glory;0;0;0
+广场;guǎngchǎng;square;0;0;0
+广大;guǎngdà;Vast;0;0;0
+广泛;guǎngfàn;widely;0;0;0
+规矩;guīju;Rules;0;0;0
+规律;guīlǜ;Law;0;0;0
+规模;guīmó;scale;0;0;0
+规则;guīzé;rule;0;0;0
+贵;guì;Expensive;0;0;0
+柜台;guìtái;Counter;0;0;0
+滚;gǔn;rolling;0;0;0
+锅;guō;pot;0;0;0
+国籍;guójí;nationality;0;0;0
+国庆节;guóqìngjié;National Day;0;0;0
+果实;guǒshí;fruit;0;0;0
+过分;guòfèn;excessive;0;0;0
+过敏;guòmǐn;allergy;0;0;0
+过期;guòqī;Be overdue;0;0;0
+海关;hǎiguān;Customs;0;0;0
+海鲜;hǎixiān;seafood;0;0;0
+行业;hángyè;industry;0;0;0
+豪华;háohuá;luxury;0;0;0
+好;hǎo;good;0;0;0
+好奇;hàoqí;Be curious;0;0;0
+喝;hē;drink;0;0;0
+河;hé;river;0;0;0
+和;hé;and;0;0;0
+和平;hépíng;peace;0;0;0
+何必;hébì;Why;0;0;0
+何况;hékuàng;Not to mention;0;0;0
+合法;héfǎ;legitimate;0;0;0
+合理;hélǐ;reasonable;0;0;0
+合同;hétong;contract;0;0;0
+合影;héyǐng;Group photo;0;0;0
+合作;hézuò;cooperation;0;0;0
+核心;héxīn;core;0;0;0
+黑;hēi;black;0;0;0
+后果;hòuguǒ;Consequence;0;0;0
+忽视;hūshì;Ignore;0;0;0
+呼吸;hūxī;breathing;0;0;0
+壶;hú;pot;0;0;0
+蝴蝶;húdié;Butterfly;0;0;0
+胡说;húshuō;Nonsense;0;0;0
+胡同;hútòng;Hutong;0;0;0
+胡须;húxū;beard;0;0;0
+糊涂;hútu;Confused;0;0;0
+花生;huāshēng;peanut;0;0;0
+滑冰;huábīng;skating;0;0;0
+划船;huáchuán;Rowing;0;0;0
+华裔;huáyì;Chinese born;0;0;0
+画;huà;painting;0;0;0
+话题;huàtí;Topic of conversation;0;0;0
+化学;huàxué;Chemistry;0;0;0
+怀念;huáiniàn;miss;0;0;0
+缓解;huǎnjiě;relieve;0;0;0
+换;huàn;change;0;0;0
+幻想;huànxiǎng;fantasy;0;0;0
+慌张;huāngzhāng;flurried;0;0;0
+黄;huáng;yellow;0;0;0
+黄瓜;huángguā;cucumber;0;0;0
+黄金;huángjīn;gold;0;0;0
+皇帝;huángdì;Emperor;0;0;0
+皇后;huánghòu;Queen;0;0;0
+挥;huī;Essential;0;0;0
+灰;huī;ash;0;0;0
+灰尘;huīchén;dust;0;0;0
+灰心;huīxīn;Lose heart;0;0;0
+恢复;huīfù;recovery;0;0;0
+回;huí;return;0;0;0
+汇率;huìlǜ;exchange rate;0;0;0
+婚礼;hūnlǐ;wedding;0;0;0
+婚姻;hūnyīn;Marriage;0;0;0
+活跃;huóyuè;active;0;0;0
+火;huǒ;fire;0;0;0
+火柴;huǒchái;Match;0;0;0
+伙伴;huǒbàn;Partner;0;0;0
+基本;jīběn;basic;0;0;0
+机器;jīqì;machine;0;0;0
+激烈;jīliè;fierce;0;0;0
+肌肉;jīròu;muscle;0;0;0
+极;jí;extremely;0;0;0
+及格;jígé;pass;0;0;0
+集体;jítǐ;collective;0;0;0
+集中;jízhōng;focus;0;0;0
+急忙;jímáng;Hastily;0;0;0
+记录;jìlù;Record;0;0;0
+记忆;jìyì;memory;0;0;0
+计算;jìsuàn;Calculation;0;0;0
+系领带;jìlǐngdài;wear a tie;0;0;0
+纪录;jìlù;Record;0;0;0
+纪律;jìlǜ;discipline;0;0;0
+纪念;jìniàn;memorialize;0;0;0
+寂寞;jìmò;lonely;0;0;0
+家庭;jiātíng;Family;0;0;0
+家务;jiāwù;Housework;0;0;0
+家乡;jiāxiāng;Hometown;0;0;0
+嘉宾;jiābīn;Distinguished guest;0;0;0
+夹子;jiāzi;Clip;0;0;0
+甲;jiǎ;nail;0;0;0
+假;jiǎ;false, fake;0;0;0
+假如;jiǎrú;If;0;0;0
+假装;jiǎzhuāng;pretend;0;0;0
+嫁;jià;get married to;0;0;0
+价值;jiàzhí;value;0;0;0
+驾驶;jiàshǐ;Drive;0;0;0
+煎;jiān;Fried;0;0;0
+肩膀;jiānbǎng;shoulder;0;0;0
+坚决;jiānjué;firm, determined;0;0;0
+坚强;jiānqiáng;Firm;0;0;0
+艰巨;jiānjù;arduous;0;0;0
+艰苦;jiānkǔ;hard;0;0;0
+尖锐;jiānruì;Sharp;0;0;0
+捡;jiǎn;pick up;0;0;0
+简历;jiǎnlì;resume;0;0;0
+简直;jiǎnzhí;simply;0;0;0
+剪刀;jiǎndāo;scissors;0;0;0
+健身房;jiànshēnfáng;Gym;0;0;0
+建立;jiànlì;establish;0;0;0
+建设;jiànshè;build;0;0;0
+建议;jiànyì;proposal;0;0;0
+建筑;jiànzhù;Architecture;0;0;0
+键盘;jiànpán;keyboard;0;0;0
+讲究;jiǎngjiu;Pay attention to;0;0;0
+讲座;jiǎngzuò;Lecture;0;0;0
+降落;jiàngluò;land;0;0;0
+酱油;jiàngyóu;soy sauce;0;0;0
+教;jiāo;teach;0;0;0
+浇;jiāo;pour it over;0;0;0
+交;jiāo;hand over;0;0;0
+交换;jiāohuàn;exchange;0;0;0
+交际;jiāojì;communication;0;0;0
+郊区;jiāoqū;Suburb;0;0;0
+胶水;jiāoshuǐ;glue;0;0;0
+脚;jiǎo;foot;0;0;0
+角;jiǎo;horn;0;0;0
+角度;jiǎodù;angle;0;0;0
+狡猾;jiǎohuá;cunning;0;0;0
+教材;jiàocái;teaching material;0;0;0
+教练;jiàoliàn;coach;0;0;0
+教训;jiàoxùn;lesson;0;0;0
+接触;jiēchù;Contact;0;0;0
+接待;jiēdài;Reception;0;0;0
+接近;jiējìn;near;0;0;0
+接着;jiēzhe;Next;0;0;0
+阶段;jiēduàn;stage;0;0;0
+结实;jiēshi;strong;0;0;0
+节;jié;section, festival;0;0;0
+节省;jiéshěng;save;0;0;0
+结构;jiégòu;structure;0;0;0
+结合;jiéhé;Combination;0;0;0
+结论;jiélùn;conclusion;0;0;0
+结账;jiézhàng;Checkout;0;0;0
+解放;jiěfàng;liberate;0;0;0
+解说员;jiěshuōyuán;Narrator;0;0;0
+借口;jièkǒu;Excuse;0;0;0
+戒烟;jièyān;Quit smoking;0;0;0
+戒指;jièzhi;Ring;0;0;0
+金属;jīnshǔ;Metal;0;0;0
+紧;jǐn;tight;0;0;0
+紧急;jǐnjí;urgent;0;0;0
+谨慎;jǐnshèn;cautious;0;0;0
+进;jìn;enter;0;0;0
+进步;jìnbù;progress;0;0;0
+进口;jìnkǒu;Imported;0;0;0
+近代;jìndài;Modern;0;0;0
+尽力;jìnlì;Try the best;0;0;0
+尽量;jìnliàng;as far as possible;0;0;0
+精力;jīnglì;energy;0;0;0
+经典;jīngdiǎn;classics;0;0;0
+经营;jīngyíng;Management;0;0;0
+景色;jǐngsè;scenery;0;0;0
+敬爱;jìng'ài;respect and love;0;0;0
+酒吧;jiǔbā;Bar;0;0;0
+旧;jiù;used, old;0;0;0
+就;jiù;;0;0;0
+救;jiù;save;0;0;0
+救护车;jiùhùchē;Ambulance;0;0;0
+舅舅;jiùjiu;uncle;0;0;0
+居然;jūrán;actually;0;0;0
+桔子;júzi;Orange;0;0;0
+举;jǔ;lift;0;0;0
+具备;jùbèi;Have, possess;0;0;0
+具体;jùtǐ;specific;0;0;0
+巨大;jùdà;huge;0;0;0
+聚会;jùhuì;Party;0;0;0
+俱乐部;jùlèbù;Club;0;0;0
+据说;jùshuō;allegedly;0;0;0
+决赛;juésài;Finals;0;0;0
+决心;juéxīn;Determination;0;0;0
+绝对;juéduì;Absolutely;0;0;0
+角色;juésè;role;0;0;0
+军事;jūnshì;Military;0;0;0
+均匀;jūnyún;uniformity;0;0;0
+卡车;kǎchē;Truck;0;0;0
+开;kāi;open;0;0;0
+开发;kāifā;Development;0;0;0
+开放;kāifàng;To open up;0;0;0
+开幕式;kāimùshì;The opening ceremony;0;0;0
+开心;kāixīn;Happy;0;0;0
+砍;kǎn;cut;0;0;0
+看;kàn;see;0;0;0
+看不起;kànbuqǐ;Despise;0;0;0
+看来;kànlái;it seems;0;0;0
+抗议;kàngyì;Protest;0;0;0
+烤鸭;kǎoyā;Roasted Duck;0;0;0
+棵;kē;Tree (measure word);0;0;0
+颗;kē;pellet (measure word);0;0;0
+可见;kějiàn;so;0;0;0
+可靠;kěkào;reliable;0;0;0
+可怕;kěpà;dreadful;0;0;0
+课程;kèchéng;curriculum;0;0;0
+克;kè;gram;0;0;0
+克服;kèfú;Overcome;0;0;0
+刻;kè;moment;0;0;0
+刻苦;kèkǔ;Hardworking;0;0;0
+客观;kèguān;objective;0;0;0
+客厅;kètīng;A living room;0;0;0
+空间;kōngjiān;space;0;0;0
+恐怖;kǒngbù;terror， horrible;0;0;0
+空闲;kòngxián;free;0;0;0
+控制;kòngzhì;control;0;0;0
+口;kǒu;mouth;0;0;0
+口味;kǒuwèi;Flavor;0;0;0
+哭;kū;cry;0;0;0
+苦;kǔ;bitter;0;0;0
+会计;kuàijì;accountant;0;0;0
+矿泉水;kuàngquánshuǐ;Mineral water;0;0;0
+困;kùn;sleepy;0;0;0
+辣椒;làjiāo;Pepper, spice;0;0;0
+蜡烛;làzhú;candle;0;0;0
+来;lái;come;0;0;0
+来自;láizì;Come from;0;0;0
+拦;lán;Stop;0;0;0
+蓝;lán;blue;0;0;0
+懒;lǎn;lazy;0;0;0
+烂;làn;rotten;0;0;0
+狼;láng;wolf;0;0;0
+劳动;láodòng;labour;0;0;0
+劳驾;láojià;Excuse me;0;0;0
+老;lǎo;old;0;0;0
+老百姓;lǎobǎixìng;Ordinary people;0;0;0
+老板;lǎobǎn;Boss;0;0;0
+老实;lǎoshi;honest;0;0;0
+老鼠;lǎoshǔ;Mouse;0;0;0
+姥姥;lǎolao;Grandma;0;0;0
+乐观;lèguān;optimistic;0;0;0
+了;le;;0;0;0
+雷;léi;Thunder;0;0;0
+类;lèi;class, category;0;0;0
+累;lèi;tired;0;0;0
+冷;lěng;cold;0;0;0
+离婚;líhūn;divorce;0;0;0
+厘米;límǐ;centimeter;0;0;0
+里;lǐ;in;0;0;0
+礼拜天;lǐbàitiān;Sunday;0;0;0
+理论;lǐlùn;theory;0;0;0
+理由;lǐyóu;Reason;0;0;0
+粒;lì;grain (measure word);0;0;0
+立方;lìfāng;cube;0;0;0
+立即;lìjí;immediately;0;0;0
+立刻;lìkè;immediately;0;0;0
+力量;lìliàng;Power;0;0;0
+利润;lìrùn;profit;0;0;0
+利息;lìxī;accrual;0;0;0
+利益;lìyì;interest;0;0;0
+利用;lìyòng;utilize;0;0;0
+连忙;liánmáng;Hurriedly;0;0;0
+连续剧;liánxùjù;serial TV drama;0;0;0
+联合;liánhé;union;0;0;0
+恋爱;liàn'ài;Love, in love;0;0;0
+良好;liánghǎo;good;0;0;0
+粮食;liángshi;foodstuff;0;0;0
+两;liǎng;Two;0;0;0
+亮;liàng;bright;0;0;0
+辆;liàng;Car (measure word);0;0;0
+了不起;liǎobuqǐ;Amazing;0;0;0
+临时;línshí;temporary;0;0;0
+铃;líng;bell;0;0;0
+零;líng;Zero;0;0;0
+零件;língjiàn;Spare parts;0;0;0
+零钱;língqián;Small change;0;0;0
+零食;língshí;snacks;0;0;0
+灵活;línghuó;flexible;0;0;0
+领导;lǐngdǎo;Leader;0;0;0
+领域;lǐngyù;field;0;0;0
+流传;liúchuán;spread;0;0;0
+浏览;liúlǎn;browse;0;0;0
+六;liù;Six;0;0;0
+龙;lóng;dragon;0;0;0
+楼;lóu;floor;0;0;0
+漏;lòu;leak;0;0;0
+路;lù;road;0;0;0
+露;lù;dew;0;0;0
+陆地;lùdì;land;0;0;0
+陆续;lùxù;One after another;0;0;0
+录取;lùqǔ;matriculate;0;0;0
+录音;lùyīn;Sound recording;0;0;0
+乱;luàn;chaos;0;0;0
+轮流;lúnliú;take turns;0;0;0
+论文;lùnwén;paper;0;0;0
+逻辑;luóji;logic;0;0;0
+落后;luòhòu;backward, fall behind;0;0;0
+麦克风;màikèfēng;Microphone;0;0;0
+馒头;mántou;Steamed buns;0;0;0
+满;mǎn;full;0;0;0
+满足;mǎnzú;satisfy;0;0;0
+慢;màn;slow;0;0;0
+忙;máng;busy;0;0;0
+猫;māo;cat;0;0;0
+毛;máo;hair;0;0;0
+毛病;máobìng;Trouble;0;0;0
+矛盾;máodùn;contradiction;0;0;0
+冒险;màoxiǎn;adventure;0;0;0
+贸易;màoyì;Trade;0;0;0
+眉毛;méimao;eyebrow;0;0;0
+煤炭;méitàn;coal;0;0;0
+每;měi;each;0;0;0
+美术;měishù;Fine Arts;0;0;0
+魅力;mèilì;charm;0;0;0
+迷路;mílù;Get lost;0;0;0
+谜语;míyǔ;Riddle;0;0;0
+米;mǐ;rice;0;0;0
+蜜蜂;mìfēng;honeybee;0;0;0
+密切;mìqiè;close;0;0;0
+秘密;mìmì;Secret;0;0;0
+秘书;mìshū;secretary;0;0;0
+棉花;miánhua;cotton;0;0;0
+面对;miànduì;Face;0;0;0
+面积;miànjī;The measure of area;0;0;0
+面临;miànlín;face;0;0;0
+苗条;miáotiao;slim;0;0;0
+描写;miáoxiě;describe;0;0;0
+秒;miǎo;second;0;0;0
+民主;mínzhǔ;democratic;0;0;0
+明确;míngquè;To make clear;0;0;0
+明显;míngxiǎn;obvious;0;0;0
+明信片;míngxìnpiàn;Postcard;0;0;0
+明星;míngxīng;Star;0;0;0
+名牌;míngpái;famous brand;0;0;0
+名片;míngpiàn;business card;0;0;0
+名胜古迹;míngshènggǔjì;Places of historic interest and scenic beauty;0;0;0
+命令;mìnglìng;call;0;0;0
+命运;mìngyùn;fate, destiny;0;0;0
+摸;mō;feel, touch;0;0;0
+模仿;mófǎng;imitate;0;0;0
+模糊;móhu;vague;0;0;0
+摩托车;mótuōchē;Motorcycle;0;0;0
+陌生;mòshēng;strange;0;0;0
+某;mǒu;some;0;0;0
+目标;mùbiāo;target;0;0;0
+目录;mùlù;Catalog;0;0;0
+目前;mùqián;at present;0;0;0
+木头;mùtou;wood;0;0;0
+拿;ná;take;0;0;0
+哪怕;nǎpà;even if;0;0;0
+南;nán;south;0;0;0
+难;nán;difficult;0;0;0
+难怪;nánguài;no wonder;0;0;0
+难看;nánkàn;ugly;0;0;0
+脑袋;nǎodai;head;0;0;0
+内;nèi;within;0;0;0
+内科;nèikē;Internal medicine;0;0;0
+嫩;nèn;tender, delicate;0;0;0
+能干;nénggàn;capable;0;0;0
+能源;néngyuán;energy;0;0;0
+你;nǐ;you;0;0;0
+年;nián;year;0;0;0
+年代;niándài;years;0;0;0
+年纪;niánjì;Age;0;0;0
+宁可;nìngkě;would rather;0;0;0
+牛仔裤;niúzǎikù;Jeans;0;0;0
+浓;nóng;strong;0;0;0
+农民;nóngmín;farmer;0;0;0
+农业;nóngyè;Agriculture;0;0;0
+弄;nòng;get;0;0;0
+女士;nǚshì;Madam;0;0;0
+偶然;ǒurán;accidental;0;0;0
+排队;páiduì;queue;0;0;0
+排球;páiqiú;Volleyball;0;0;0
+派;pài;send;0;0;0
+盼望;pànwàng;look forward to;0;0;0
+赔偿;péicháng;compensate for;0;0;0
+培养;péiyǎng;culture, foster;0;0;0
+佩服;pèifu;Admire;0;0;0
+配合;pèihé;Coordination;0;0;0
+盆;pén;basin, pot;0;0;0
+碰见;pèngjiàn;Meet;0;0;0
+披;pī;drape over one`s shoulders;0;0;0
+批;pī;batch;0;0;0
+批准;pīzhǔn;Approval;0;0;0
+皮鞋;píxié;leather shoes;0;0;0
+疲劳;píláo;fatigue;0;0;0
+片面;piànmiàn;one-sided;0;0;0
+飘;piāo;Gone with the wind;0;0;0
+票;piào;ticket;0;0;0
+频道;píndào;channel;0;0;0
+品种;pǐnzhǒng;Varieties;0;0;0
+平常;píngcháng;Usual;0;0;0
+平等;píngděng;equality;0;0;0
+平方;píngfāng;square;0;0;0
+平衡;pínghéng;balance;0;0;0
+平静;píngjìng;calm;0;0;0
+平均;píngjūn;Average;0;0;0
+评价;píngjià;evaluate;0;0;0
+破产;pòchǎn;bankruptcy;0;0;0
+破坏;pòhuài;Destruction;0;0;0
+迫切;pòqiè;urgent;0;0;0
+朴素;pǔsù;simple;0;0;0
+七;qī;Seven;0;0;0
+期待;qīdài;expect;0;0;0
+期间;qījiān;Period;0;0;0
+其余;qíyú;Rest;0;0;0
+奇迹;qíjì;Miracle;0;0;0
+启发;qǐfā;Inspire;0;0;0
+企图;qǐtú;Attempt;0;0;0
+企业;qǐyè;enterprise;0;0;0
+气氛;qìfēn;atmosphere;0;0;0
+汽油;qìyóu;gasoline;0;0;0
+牵;qiān;Pull;0;0;0
+千;qiān;thousand;0;0;0
+谦虚;qiānxū;Modest;0;0;0
+签字;qiānzì;Sign;0;0;0
+钱;qián;money;0;0;0
+前途;qiántú;future;0;0;0
+浅;qiǎn;shallow;0;0;0
+欠;qiàn;owe;0;0;0
+枪;qiāng;gun;0;0;0
+墙;qiáng;wall;0;0;0
+强调;qiángdiào;Emphasize;0;0;0
+强烈;qiángliè;strong;0;0;0
+抢;qiǎng;rob;0;0;0
+敲;qiāo;knock;0;0;0
+悄悄;qiāoqiāo;quietly;0;0;0
+桥;qiáo;Bridge;0;0;0
+瞧;qiáo;look;0;0;0
+巧妙;qiǎomiào;clever;0;0;0
+切;qiē;cut;0;0;0
+亲爱;qīn'ài;Dear;0;0;0
+亲切;qīnqiè;kind;0;0;0
+亲自;qīnzì;personally;0;0;0
+侵略;qīnlüè;aggression;0;0;0
+勤奋;qínfèn;hardworking;0;0;0
+勤劳;qínláo;industrious;0;0;0
+青;qīng;young;0;0;0
+青春;qīngchūn;Youth;0;0;0
+青少年;qīngshàonián;Teenagers;0;0;0
+轻;qīng;light;0;0;0
+轻视;qīngshì;Despise;0;0;0
+清淡;qīngdàn;light;0;0;0
+晴;qíng;Sunny;0;0;0
+情景;qíngjǐng;scene;0;0;0
+情绪;qíngxù;emotion;0;0;0
+请;qǐng;please;0;0;0
+请求;qǐngqiú;request;0;0;0
+庆祝;qìngzhù;Celebrate;0;0;0
+穷;qióng;poor;0;0;0
+秋;qiū;autumn;0;0;0
+球迷;qiúmí;fans;0;0;0
+趋势;qūshì;trend;0;0;0
+娶;qǔ;marry;0;0;0
+取;qǔ;take;0;0;0
+取消;qǔxiāo;cancel;0;0;0
+去;qù;go;0;0;0
+去世;qùshì;pass away;0;0;0
+圈;quān;circle;0;0;0
+全面;quánmiàn;comprehensive;0;0;0
+权力;quánlì;power;0;0;0
+权利;quánlì;right, interest;0;0;0
+劝;quàn;persuade;0;0;0
+缺乏;quēfá;Lack;0;0;0
+确定;quèdìng;Determine;0;0;0
+确认;quèrèn;confirm;0;0;0
+燃烧;ránshāo;burning;0;0;0
+嚷;rǎng;Shout;0;0;0
+让;ràng;Give Way;0;0;0
+绕;rào;Around;0;0;0
+热;rè;heat, hot;0;0;0
+热爱;rè'ài;Ardently love;0;0;0
+热烈;rèliè;warm;0;0;0
+热心;rèxīn;enthusiastic;0;0;0
+人;rén;people;0;0;0
+人才;réncái;talented people;0;0;0
+人口;rénkǒu;population;0;0;0
+人类;rénlèi;Human beings;0;0;0
+人生;rénshēng;Life;0;0;0
+人事;rénshì;Personnel matters;0;0;0
+人物;rénwù;character;0;0;0
+人员;rényuán;personnel;0;0;0
+忍不住;rěnbuzhù;Unable to bear;0;0;0
+日常;rìcháng;daily;0;0;0
+日程;rìchéng;schedule;0;0;0
+日历;rìlì;calendar;0;0;0
+日期;rìqī;Date;0;0;0
+日用品;rìyòngpǐn;Daily Necessities;0;0;0
+融化;rónghuà;thaw;0;0;0
+荣幸;róngxìng;To be honored;0;0;0
+荣誉;róngyù;Honor;0;0;0
+如何;rúhé;How;0;0;0
+如今;rújīn;nowadays;0;0;0
+软件;ruǎnjiàn;Software;0;0;0
+弱;ruò;weak;0;0;0
+洒;sǎ;sprinkle;0;0;0
+三;sān;Three;0;0;0
+伞;sǎn;umbrella;0;0;0
+嗓子;sǎngzi;throat;0;0;0
+沙漠;shāmò;Desert;0;0;0
+沙滩;shātān;beach;0;0;0
+傻;shǎ;silly;0;0;0
+晒;shài;The sun;0;0;0
+删除;shānchú;delete;0;0;0
+闪电;shǎndiàn;lightning;0;0;0
+善良;shànliáng;kind;0;0;0
+善于;shànyú;be good at;0;0;0
+扇子;shànzi;Fan;0;0;0
+商品;shāngpǐn;commodity;0;0;0
+商业;shāngyè;business;0;0;0
+上当;shàngdàng;When;0;0;0
+勺子;sháozi;Spoon;0;0;0
+少;shǎo;less;0;0;0
+蛇;shé;snake;0;0;0
+舌头;shétou;Tongue;0;0;0
+舍不得;shěbude;Hate to part with or use;0;0;0
+设备;shèbèi;equipment;0;0;0
+设计;shèjì;Design;0;0;0
+设施;shèshī;facilities;0;0;0
+射击;shèjī;Shooting;0;0;0
+摄影;shèyǐng;Photography;0;0;0
+谁;shéi;who;0;0;0
+伸;shēn;stretch;0;0;0
+深;shēn;deep;0;0;0
+深刻;shēnkè;profound;0;0;0
+身材;shēncái;figure;0;0;0
+身份;shēnfèn;identity;0;0;0
+神话;shénhuà;Myth;0;0;0
+神经;shénjīng;nerve;0;0;0
+神秘;shénmì;mysterious;0;0;0
+生产;shēngchǎn;production;0;0;0
+生动;shēngdòng;vivid;0;0;0
+声调;shēngdiào;Tone;0;0;0
+绳子;shéngzi;Rope;0;0;0
+省;shěng;province;0;0;0
+省略;shěnglüè;ellipsis;0;0;0
+剩;shèng;Left;0;0;0
+胜利;shènglì;victory;0;0;0
+诗;shī;poetry;0;0;0
+失眠;shīmián;insomnia;0;0;0
+失去;shīqù;Lose;0;0;0
+失业;shīyè;Unemployment;0;0;0
+时代;shídài;times, epoch;0;0;0
+时刻;shíkè;time;0;0;0
+时髦;shímáo;Fashionable;0;0;0
+时期;shíqī;period;0;0;0
+时尚;shíshàng;fashion;0;0;0
+实话;shíhuà;The truth;0;0;0
+实践;shíjiàn;practice;0;0;0
+实习;shíxí;Internship;0;0;0
+实现;shíxiàn;Realization;0;0;0
+实行;shíxíng;Implement;0;0;0
+实验;shíyàn;Experiment;0;0;0
+实用;shíyòng;Practical;0;0;0
+食物;shíwù;food;0;0;0
+石头;shítou;stone;0;0;0
+使;shǐ;send;0;0;0
+使劲儿;shǐjìnr;exert all one's strength;0;0;0
+始终;shǐzhōng;Throughout;0;0;0
+是;shì;yes;0;0;0
+是否;shìfǒu;Whether;0;0;0
+试;shì;try;0;0;0
+试卷;shìjuàn;test paper;0;0;0
+士兵;shìbīng;soldiers;0;0;0
+似的;shìde;Likely;0;0;0
+事实;shìshí;Fact;0;0;0
+事物;shìwù;Thing;0;0;0
+事先;shìxiān;Prior;0;0;0
+收;shōu;collect;0;0;0
+收获;shōuhuò;Harvest;0;0;0
+收据;shōujù;receipt;0;0;0
+手工;shǒugōng;manual;0;0;0
+手术;shǒushù;Operation;0;0;0
+手套;shǒutào;glove;0;0;0
+手续;shǒuxù;procedures;0;0;0
+手指;shǒuzhǐ;finger;0;0;0
+受伤;shòushāng;Injured;0;0;0
+寿命;shòumìng;Life;0;0;0
+书;shū;book;0;0;0
+书架;shūjià;bookshelf;0;0;0
+输;shū;transport;0;0;0
+输入;shūrù;import;0;0;0
+蔬菜;shūcài;Vegetables;0;0;0
+舒适;shūshì;Comfortable;0;0;0
+梳子;shūzi;comb;0;0;0
+熟练;shúliàn;skilled;0;0;0
+鼠标;shǔbiāo;mouse;0;0;0
+属于;shǔyú;belong to;0;0;0
+树;shù;tree;0;0;0
+数据;shùjù;data;0;0;0
+数码;shùmǎ;Digital;0;0;0
+双方;shuāngfāng;both sides;0;0;0
+水;shuǐ;water;0;0;0
+说不定;shuōbudìng;maybe;0;0;0
+说服;shuōfú;Persuade;0;0;0
+丝绸;sīchóu;silk;0;0;0
+丝毫;sīháo;A bit;0;0;0
+思考;sīkǎo;Reflection;0;0;0
+思想;sīxiǎng;thought;0;0;0
+私人;sīrén;private;0;0;0
+死;sǐ;die;0;0;0
+四;sì;Four;0;0;0
+似乎;sìhū;It seems that;0;0;0
+寺庙;sìmiào;Temple;0;0;0
+送;sòng;give;0;0;0
+宿舍;sùshè;dormitory;0;0;0
+酸;suān;acid;0;0;0
+算;suàn;count;0;0;0
+随时;suíshí;at any time;0;0;0
+损失;sǔnshī;loss;0;0;0
+缩短;suōduǎn;Shorten;0;0;0
+缩小;suōxiǎo;narrow;0;0;0
+锁;suǒ;lock;0;0;0
+所;suǒ;place;0;0;0
+所谓;suǒwèi;So-called;0;0;0
+台阶;táijiē;Steps;0;0;0
+太;tài;too;0;0;0
+太极拳;tàijíquán;Taiji boxing;0;0;0
+太太;tàitai;Ma'am;0;0;0
+谈判;tánpàn;negotiation;0;0;0
+坦率;tǎnshuài;frank;0;0;0
+汤;tāng;soup;0;0;0
+糖;táng;sugar;0;0;0
+躺;tǎng;lie;0;0;0
+烫;tàng;Hot;0;0;0
+趟;tàng;Trip;0;0;0
+桃;táo;peach;0;0;0
+逃;táo;flee;0;0;0
+逃避;táobì;escape;0;0;0
+特殊;tèshū;special;0;0;0
+特意;tèyì;specially;0;0;0
+特征;tèzhēng;Features;0;0;0
+疼;téng;hurt;0;0;0
+疼爱;téng'ài;Love dearly;0;0;0
+提倡;tíchàng;promote;0;0;0
+提纲;tígāng;outline;0;0;0
+提问;tíwèn;Put questions to;0;0;0
+题目;tímù;subject;0;0;0
+体会;tǐhuì;Experience;0;0;0
+体积;tǐjī;volume;0;0;0
+体贴;tǐtiē;Considerate;0;0;0
+体现;tǐxiàn;Reflect;0;0;0
+体验;tǐyàn;experience;0;0;0
+天空;tiānkōng;sky;0;0;0
+天真;tiānzhēn;naive;0;0;0
+甜;tián;sweet;0;0;0
+田野;tiányě;Field;0;0;0
+条;tiáo;strip;0;0;0
+调皮;tiáopí;naughty;0;0;0
+调整;tiáozhěng;adjustment;0;0;0
+挑战;tiǎozhàn;challenge;0;0;0
+通常;tōngcháng;usually;0;0;0
+通讯;tōngxùn;communication;0;0;0
+同时;tóngshí;meanwhile;0;0;0
+统一;tǒngyī;Unified;0;0;0
+统治;tǒngzhì;rule;0;0;0
+痛苦;tòngkǔ;Pain;0;0;0
+痛快;tòngkuài;Happy, to one`s great satisfaction;0;0;0
+投资;tóuzī;Investment;0;0;0
+透明;tòumíng;transparent;0;0;0
+突出;tūchū;prominent;0;0;0
+土地;tǔdì;land;0;0;0
+土豆;tǔdòu;Potato;0;0;0
+吐;tù;spit;0;0;0
+兔子;tùzi;Rabbit;0;0;0
+团;tuán;group;0;0;0
+推;tuī;push;0;0;0
+推辞;tuīcí;Refuse;0;0;0
+推广;tuīguǎng;Extension;0;0;0
+推荐;tuījiàn;Recommend;0;0;0
+腿;tuǐ;leg;0;0;0
+退;tuì;retreat;0;0;0
+退步;tuìbù;Backward;0;0;0
+退休;tuìxiū;retire;0;0;0
+脱;tuō;take off;0;0;0
+外交;wàijiāo;International Relations;0;0;0
+弯;wān;curved;0;0;0
+完;wán;finish;0;0;0
+完美;wánměi;perfect;0;0;0
+完善;wánshàn;perfect;0;0;0
+完整;wánzhěng;complete;0;0;0
+玩;wán;play;0;0;0
+玩具;wánjù;Toys;0;0;0
+碗;wǎn;bowl;0;0;0
+万一;wànyī;In case;0;0;0
+王子;wángzǐ;prince;0;0;0
+往;wǎng;to;0;0;0
+往返;wǎngfǎn;Return;0;0;0
+危害;wēihài;Harm;0;0;0
+微笑;wēixiào;Smile;0;0;0
+威胁;wēixié;threaten;0;0;0
+违反;wéifǎn;Violation;0;0;0
+维护;wéihù;Maintain;0;0;0
+围巾;wéijīn;scarf;0;0;0
+围绕;wéirào;around;0;0;0
+唯一;wéiyī;Only;0;0;0
+尾巴;wěiba;tail;0;0;0
+伟大;wěidà;great;0;0;0
+委屈;wěiqu;suffer from injustice;0;0;0
+委托;wěituō;Entrust;0;0;0
+喂;wèi;feed;0;0;0
+胃;wèi;stomach;0;0;0
+为;wèi;by;0;0;0
+位置;wèizhì;position;0;0;0
+未必;wèibì;not necessarily;0;0;0
+未来;wèilái;Future;0;0;0
+卫生间;wèishēngjiān;toilet;0;0;0
+温暖;wēnnuǎn;warm;0;0;0
+温柔;wēnróu;Tender;0;0;0
+闻;wén;smell;0;0;0
+文件;wénjiàn;file;0;0;0
+文具;wénjù;Stationery;0;0;0
+文明;wénmíng;civilization;0;0;0
+文学;wénxué;literature;0;0;0
+稳定;wěndìng;Stable;0;0;0
+问;wèn;ask;0;0;0
+问候;wènhòu;To greet;0;0;0
+卧室;wòshì;Bedroom;0;0;0
+屋子;wūzi;House;0;0;0
+无;wú;nothing;0;0;0
+无奈;wúnài;have no choice;0;0;0
+无数;wúshù;Countless;0;0;0
+五;wǔ;Five;0;0;0
+武器;wǔqì;arms;0;0;0
+武术;wǔshù;A martial art;0;0;0
+雾;wù;Fog;0;0;0
+物理;wùlǐ;Physics;0;0;0
+物质;wùzhì;material;0;0;0
+西;xī;west;0;0;0
+吸收;xīshōu;absorb;0;0;0
+系统;xìtǒng;system;0;0;0
+细节;xìjié;details;0;0;0
+戏剧;xìjù;drama;0;0;0
+瞎;xiā;blind;0;0;0
+吓;xià;scare;0;0;0
+夏;xià;summer;0;0;0
+下;xià;lower;0;0;0
+下载;xiàzài;download;0;0;0
+先;xiān;before;0;0;0
+鲜艳;xiānyàn;Colorful;0;0;0
+咸;xián;salty;0;0;0
+显得;xiǎnde;Appear, seem;0;0;0
+显然;xiǎnrán;Obviously;0;0;0
+显示;xiǎnshì;display;0;0;0
+县;xiàn;county;0;0;0
+现金;xiànjīn;cash;0;0;0
+现实;xiànshí;reality;0;0;0
+现象;xiànxiàng;phenomenon;0;0;0
+相处;xiāngchǔ;Get along with;0;0;0
+相当;xiāngdāng;Quite;0;0;0
+相对;xiāngduì;Relative;0;0;0
+相关;xiāngguān;correlate;0;0;0
+相似;xiāngsì;Be similar;0;0;0
+想念;xiǎngniàn;miss;0;0;0
+想象;xiǎngxiàng;imagine;0;0;0
+享受;xiǎngshòu;enjoy;0;0;0
+向;xiàng;towards;0;0;0
+像;xiàng;image;0;0;0
+项;xiàng;term;0;0;0
+项链;xiàngliàn;Necklace;0;0;0
+项目;xiàngmù;project;0;0;0
+橡皮;xiàngpí;rubber;0;0;0
+象棋;xiàngqí;Xiangqi;0;0;0
+象征;xiàngzhēng;Symbolize;0;0;0
+消费;xiāofèi;consumption;0;0;0
+消化;xiāohuà;Digestion;0;0;0
+消灭;xiāomiè;eliminate;0;0;0
+消失;xiāoshī;disappear;0;0;0
+销售;xiāoshòu;Sale;0;0;0
+小吃;xiǎochī;snack;0;0;0
+小伙子;xiǎohuǒzi;Young fellow;0;0;0
+小麦;xiǎomài;Wheat;0;0;0
+小气;xiǎoqi;Mean;0;0;0
+小偷;xiǎotōu;Thief;0;0;0
+效率;xiàolǜ;efficiency;0;0;0
+孝顺;xiàoshun;Filial piety;0;0;0
+协调;xiétiáo;coordinate;0;0;0
+写;xiě;write;0;0;0
+心理;xīnlǐ;Psychology;0;0;0
+心脏;xīnzàng;heart;0;0;0
+欣赏;xīnshǎng;Appreciate;0;0;0
+信;xìn;letter;0;0;0
+信封;xìnfēng;envelope;0;0;0
+信号;xìnhào;signal;0;0;0
+信息;xìnxī;information;0;0;0
+行动;xíngdòng;Get some action;0;0;0
+行人;xíngrén;pedestrian;0;0;0
+行为;xíngwéi;behavior;0;0;0
+形成;xíngchéng;formation;0;0;0
+形容;xíngróng;describe;0;0;0
+形式;xíngshì;form;0;0;0
+形势;xíngshì;situation;0;0;0
+形象;xíngxiàng;image;0;0;0
+形状;xíngzhuàng;shape;0;0;0
+醒;xǐng;wake up;0;0;0
+姓;xìng;surname;0;0;0
+性质;xìngzhì;Nature;0;0;0
+幸亏;xìngkuī;Thanks;0;0;0
+幸运;xìngyùn;lucky;0;0;0
+兄弟;xiōngdì;Brother;0;0;0
+雄伟;xióngwěi;Magnificent;0;0;0
+修;xiū;repair;0;0;0
+修改;xiūgǎi;modify;0;0;0
+休闲;xiūxián;Leisure time;0;0;0
+虚心;xūxīn;With an open mind, modest;0;0;0
+叙述;xùshù;Narration;0;0;0
+宣布;xuānbù;Announce;0;0;0
+宣传;xuānchuán;Propaganda;0;0;0
+选举;xuǎnjǔ;Election;0;0;0
+学期;xuéqī;Semester;0;0;0
+学术;xuéshù;learning;0;0;0
+学问;xuéwen;knowledge;0;0;0
+询问;xúnwèn;inquiry;0;0;0
+寻找;xúnzhǎo;Seek, look for;0;0;0
+训练;xùnliàn;training;0;0;0
+迅速;xùnsù;rapid;0;0;0
+延长;yáncháng;extend;0;0;0
+严肃;yánsù;serious;0;0;0
+宴会;yànhuì;banquet;0;0;0
+阳台;yángtái;balcony;0;0;0
+痒;yǎng;itch;0;0;0
+样式;yàngshì;style;0;0;0
+要不;yàobù;Or;0;0;0
+要是;yàoshi;If;0;0;0
+液体;yètǐ;liquid;0;0;0
+业务;yèwù;business;0;0;0
+业余;yèyú;amateur;0;0;0
+依然;yīrán;still;0;0;0
+一辈子;yíbèizi;A lifetime;0;0;0
+一旦;yídàn;once;0;0;0
+一路平安;yílùpíng'ān;Bon Voyage;0;0;0
+一致;yízhì;Agreement;0;0;0
+移动;yídòng;move;0;0;0
+移民;yímín;immigrant;0;0;0
+遗憾;yíhàn;pity;0;0;0
+疑问;yíwèn;Doubt;0;0;0
+乙;yǐ;;0;0;0
+以;yǐ;with;0;0;0
+以及;yǐjí;as well as;0;0;0
+以来;yǐlái;Since;0;0;0
+意外;yìwài;Accident;0;0;0
+意义;yìyì;Significance;0;0;0
+议论;yìlùn;Discussion;0;0;0
+义务;yìwù;obligation;0;0;0
+阴;yīn;Yin;0;0;0
+因而;yīn'ér;thus;0;0;0
+因素;yīnsù;Factor;0;0;0
+英俊;yīngjùn;Handsome and spirited;0;0;0
+英雄;yīngxióng;Hero;0;0;0
+赢;yíng;win;0;0;0
+迎接;yíngjiē;meet, welcome;0;0;0
+营养;yíngyǎng;Nutrition;0;0;0
+营业;yíngyè;Do business;0;0;0
+影子;yǐngzi;shadow;0;0;0
+硬;yìng;hard;0;0;0
+硬币;yìngbì;Coin;0;0;0
+硬件;yìngjiàn;Hardware;0;0;0
+应付;yìngfu;cope with;0;0;0
+应聘;yìngpìn;Apply for;0;0;0
+应用;yìngyòng;application;0;0;0
+拥抱;yōngbào;embrace;0;0;0
+拥挤;yōngjǐ;Crowded;0;0;0
+勇气;yǒngqì;courage;0;0;0
+用途;yòngtú;purpose;0;0;0
+优惠;yōuhuì;preferential;0;0;0
+优美;yōuměi;Graceful;0;0;0
+优势;yōushì;advantage;0;0;0
+悠久;yōujiǔ;long;0;0;0
+邮局;yóujú;Post Office;0;0;0
+游览;yóulǎn;visit;0;0;0
+犹豫;yóuyù;hesitate;0;0;0
+油炸;yóuzhá;Fried;0;0;0
+有;yǒu;have;0;0;0
+有利;yǒulì;favourable, beneficial;0;0;0
+幼儿园;yòu'éryuán;Kindergarten;0;0;0
+鱼;yú;fish;0;0;0
+娱乐;yúlè;entertainment;0;0;0
+与其;yǔqí;Rather than;0;0;0
+语气;yǔqì;tone;0;0;0
+宇宙;yǔzhòu;universe;0;0;0
+预报;yùbào;prediction;0;0;0
+预订;yùdìng;book;0;0;0
+预防;yùfáng;Prevention;0;0;0
+玉米;yùmǐ;Corn;0;0;0
+圆;yuán;circular;0;0;0
+元;yuán;element, Yuan;0;0;0
+元旦;uándàn;New year's Day;0;0;0
+缘故;yuángù;Reason;0;0;0
+原料;yuánliào;raw material;0;0;0
+原则;yuánzé;Principle;0;0;0
+远;yuǎn;far;0;0;0
+愿望;yuànwàng;desire, wish;0;0;0
+运气;yùnqi;luck;0;0;0
+运输;yùnshū;transport;0;0;0
+运用;yùnyòng;Application;0;0;0
+灾害;zāihài;disaster;0;0;0
+在;zài;stay;0;0;0
+再;zài;again;0;0;0
+再三;zàisān;repeatedly;0;0;0
+赞成;zànchéng;Agreement;0;0;0
+赞美;zànměi;Praise;0;0;0
+糟糕;zāogāo;Too bad;0;0;0
+造成;zàochéng;cause;0;0;0
+则;zé;be;0;0;0
+责备;zébèi;Reproach;0;0;0
+粘贴;zhāntiē;paste;0;0;0
+展开;zhǎnkāi;Open;0;0;0
+展览;zhǎnlǎn;exhibition;0;0;0
+站;zhàn;station;0;0;0
+占线;zhànxiàn;(line) Busy;0;0;0
+战争;zhànzhēng;War;0;0;0
+张;zhāng;Zhang;0;0;0
+长;zhǎng;grow;0;0;0
+涨;zhǎng;rise;0;0;0
+掌握;zhǎngwò;master;0;0;0
+账户;zhànghù;account;0;0;0
+招待;zhāodài;Entertain;0;0;0
+着凉;zháoliáng;get cold;0;0;0
+找;zhǎo;look for;0;0;0
+召开;zhàokāi;convene;0;0;0
+照常;zhàocháng;as usual;0;0;0
+哲学;zhéxué;Philosophy;0;0;0
+真理;zhēnlǐ;Truth;0;0;0
+真实;zhēnshí;real;0;0;0
+针对;zhēnduì;aim at;0;0;0
+珍惜;zhēnxī;cherish;0;0;0
+诊断;zhěnduàn;Diagnosis;0;0;0
+枕头;zhěntou;Pillow;0;0;0
+阵;zhèn;front;0;0;0
+振动;zhèndòng;Vibration;0;0;0
+睁;zhēng;open (eyes);0;0;0
+争论;zhēnglùn;debate;0;0;0
+争取;zhēngqǔ;strive for;0;0;0
+征求;zhēngqiú;ask for;0;0;0
+整个;zhěnggè;Whole;0;0;0
+整体;zhěngtǐ;Whole;0;0;0
+正;zhèng;just;0;0;0
+政策;zhèngcè;policy;0;0;0
+政府;zhèngfǔ;government;0;0;0
+政治;zhèngzhì;Politics;0;0;0
+证件;zhèngjiàn;Certificates;0;0;0
+证据;zhèngjù;evidence;0;0;0
+挣钱;zhèngqián;Earn money;0;0;0
+只;zhī;measure word of animal;0;0;0
+之;zhī;of;0;0;0
+支;zhī;branch (measure word);0;0;0
+支票;zhīpiào;Check;0;0;0
+执行;zhíxíng;implement;0;0;0
+执照;zhízhào;License;0;0;0
+指导;zhǐdǎo;guidance;0;0;0
+指挥;zhǐhuī;command;0;0;0
+只;zhǐ;only;0;0;0
+制定;zhìdìng;Formulate;0;0;0
+制度;zhìdù;system;0;0;0
+制作;zhìzuò;Make;0;0;0
+智慧;zhìhuì;wisdom;0;0;0
+至今;zhìjīn;so far;0;0;0
+至于;zhìyú;As for;0;0;0
+治疗;zhìliáo;Treatment;0;0;0
+秩序;zhìxù;order;0;0;0
+志愿者;zhìyuànzhě;Volunteer;0;0;0
+钟;zhōng;clock;0;0;0
+中介;zhōngjiè;intermediary;0;0;0
+中心;zhōngxīn;core;0;0;0
+中旬;zhōngxún;Mid;0;0;0
+重量;zhòngliàng;weight;0;0;0
+周到;zhōudào;thoughtful;0;0;0
+逐步;zhúbù;gradually;0;0;0
+竹子;zhúzi;Bamboo;0;0;0
+煮;zhǔ;cook;0;0;0
+主持;zhǔchí;Host;0;0;0
+主观;zhǔguān;subjective;0;0;0
+主人;zhǔrén;master;0;0;0
+主席;zhǔxí;Chairman;0;0;0
+主张;zhǔzhāng;opinion;0;0;0
+嘱咐;zhǔfù;Charge;0;0;0
+住;zhù;live;0;0;0
+祝;zhù;wish;0;0;0
+祝福;zhùfú;blessing;0;0;0
+注册;zhùcè;register;0;0;0
+抓紧;zhuājǐn;Pay close attention to, grasp;0;0;0
+专家;zhuānjiā;expert;0;0;0
+专心;zhuānxīn;Attentively;0;0;0
+转变;zhuǎnbiàn;change;0;0;0
+转告;zhuǎngào;Tell, transmit;0;0;0
+赚;zhuàn;earn;0;0;0
+装;zhuāng;pretend;0;0;0
+装饰;zhuāngshì;decorate;0;0;0
+撞;zhuàng;Hit;0;0;0
+状况;zhuàngkuàng;status;0;0;0
+状态;zhuàngtài;state;0;0;0
+追求;zhuīqiú;Pursuit;0;0;0
+资格;zīgé;Qualifications;0;0;0
+资金;zījīn;capital;0;0;0
+资料;zīliào;data;0;0;0
+资源;zīyuán;Resources;0;0;0
+姿势;zīshì;posture;0;0;0
+咨询;zīxún;Consultation;0;0;0
+紫;zǐ;purple;0;0;0
+字幕;zìmù;Subtitle;0;0;0
+自从;zìcóng;Since;0;0;0
+自动;zìdòng;automatic;0;0;0
+自豪;zìháo;Proud;0;0;0
+自觉;zìjué;Conscious;0;0;0
+自私;zìsī;selfish;0;0;0
+自信;zìxìn;self-confidence;0;0;0
+自由;zìyóu;free;0;0;0
+自愿;zìyuàn;voluntarily;0;0;0
+综合;zōnghé;comprehensive;0;0;0
+宗教;zōngjiào;Religion;0;0;0
+总裁;zǒngcái;CEO;0;0;0
+总共;zǒnggòng;In total;0;0;0
+总理;zǒnglǐ;prime minister;0;0;0
+总算;zǒngsuàn;finally;0;0;0
+总统;zǒngtǒng;President;0;0;0
+总之;zǒngzhī;in short, in brief;0;0;0
+走;zǒu;go;0;0;0
+租;zū;rent;0;0;0
+组合;zǔhé;combination;0;0;0
+祖国;zǔguó;Motherland;0;0;0
+祖先;zǔxiān;Ancestors;0;0;0
+阻止;zǔzhǐ;prevent;0;0;0
+嘴;zuǐ;mouth;0;0;0
+醉;zuì;drunk;0;0;0
+最;zuì;most;0;0;0
+最初;zuìchū;First, at the beginning;0;0;0
+罪犯;zuìfàn;Criminal;0;0;0
+尊敬;zūnjìng;respect;0;0;0
+遵守;zūnshǒu;comply with;0;0;0
+座;zuò;Seat;0;0;0
+作品;zuòpǐn;works;0;0;0
+作为;zuòwéi;As;0;0;0
+作文;zuòwén;composition;0;0;0
+哎哟;āiyō;Oh;0;0;0
+挨;ái;Next to;0;0;0
+癌症;áizhèng;cancer;0;0;0
+爱不释手;àibúshìshǒu;So much that one cannot bear to part with it;0;0;0
+爱戴;àidài;love and esteem;0;0;0
+暧昧;àimèi;ambiguous;0;0;0
+安居乐业;ānjūlèyè;Live and work in peace;0;0;0
+安宁;ānníng;peaceful;0;0;0
+安详;ānxiáng;serene;0;0;0
+安置;ānzhì;put;0;0;0
+暗示;ànshì;suggest secretly;0;0;0
+案件;ànjiàn;law case;0;0;0
+案例;ànlì;case;0;0;0
+按摩;ànmó;massage;0;0;0
+昂贵;ángguì;expensive;0;0;0
+凹凸;āotū;concave-convex;0;0;0
+熬;áo;Boil;0;0;0
+奥秘;àomì;secret;0;0;0
+扒;bā;hold on to;0;0;0
+疤;bā;scar;0;0;0
+巴不得;bābude;eagerly look forward to;0;0;0
+巴结;bājié;stutter;0;0;0
+拔苗助长;bámiáozhùzhǎng;Spoil things by excessive enthusiasm;0;0;0
+把关;bǎguān;hold the pass;0;0;0
+把手;bǎshou;knob;0;0;0
+把戏;bǎxì;acrobatics;0;0;0
+霸道;bàdào;overbearing;0;0;0
+罢工;bàgōng;Strike;0;0;0
+吧;ba;;0;0;0
+掰;bāi;break off with fingers and thumb;0;0;0
+白;bái;white;0;0;0
+百;bǎi;hundred;0;0;0
+百分点;bǎifēndiǎn;percentage;0;0;0
+摆;bǎi;pendulum;0;0;0
+摆脱;bǎituō;cast off;0;0;0
+拜访;bàifǎng;visit;0;0;0
+拜年;bàinián;congratulate the New Year;0;0;0
+拜托;bàituō;request;0;0;0
+败坏;bàihuài;Corrupt;0;0;0
+搬;bān;turn;0;0;0
+颁布;bānbù;promulgate;0;0;0
+颁发;bānfā;award;0;0;0
+斑纹;bānwén;stripe;0;0;0
+版本;bǎnběn;Edition;0;0;0
+半;bàn;half;0;0;0
+半途而废;bàntú'érfèi;Give up halfway;0;0;0
+伴侣;bànlǚ;partner;0;0;0
+伴随;bànsuí;go with;0;0;0
+扮演;bànyǎn;Play the role;0;0;0
+绑架;bǎngjià;Kidnap;0;0;0
+榜样;bǎngyàng;example;0;0;0
+磅;bàng;pound;0;0;0
+棒;bàng;stick；excellent;0;0;0
+包庇;bāobì;Shield;0;0;0
+包袱;bāofu;Burden;0;0;0
+包围;bāowéi;Surround;0;0;0
+包装;bāozhuāng;pack;0;0;0
+薄;báo;thin;0;0;0
+饱和;bǎohé;saturated;0;0;0
+饱经沧桑;bǎojīngcāngsāng;Have seen much of the changes in human life;0;0;0
+保管;bǎoguǎn;Safekeeping;0;0;0
+保密;bǎomì;secrecy;0;0;0
+保姆;bǎomǔ;nurse;0;0;0
+保守;bǎoshǒu;Conservative;0;0;0
+保卫;bǎowèi;Defend;0;0;0
+保养;bǎoyǎng;maintain;0;0;0
+保障;bǎozhàng;guarantee;0;0;0
+保重;bǎozhòng;take care of oneself;0;0;0
+抱负;bàofù;ambition;0;0;0
+抱怨;bàoyuàn;Complain;0;0;0
+报仇;bàochóu;revenge;0;0;0
+报酬;bàochou;remuneration;0;0;0
+报答;bàodá;reciprocate;0;0;0
+报到;bàodào;register,check in;0;0;0
+报复;bàofù;Payback;0;0;0
+报社;bàoshè;Newspaper office;0;0;0
+报销;bàoxiāo;submit and expense account;0;0;0
+爆发;bàofā;burst;0;0;0
+爆炸;bàozhà;blast;0;0;0
+曝光;bàoguāng;exposure;0;0;0
+暴力;bàolì;violence;0;0;0
+暴露;bàolù;Expose;0;0;0
+悲哀;bēi'āi;Grief;0;0;0
+悲惨;bēicǎn;miserable;0;0;0
+卑鄙;bēibǐ;despicable;0;0;0
+北极;běijí;arctic;0;0;0
+被动;bèidòng;passive;0;0;0
+被告;bèigào;Defendant;0;0;0
+背叛;bèipàn;sellout;0;0;0
+背诵;bèisòng;recite;0;0;0
+备份;bèifèn;backups;0;0;0
+备忘录;bèiwànglù;Memorandum;0;0;0
+贝壳;bèikè;shell;0;0;0
+奔波;bēnbō;rush about;0;0;0
+奔驰;bēnchí;run quickly;0;0;0
+本;běn;book (measure word);0;0;0
+本能;běnnéng;instinct;0;0;0
+本钱;běnqián;Capital;0;0;0
+本人;běnrén;oneself;0;0;0
+本身;běnshēn;itself;0;0;0
+本事;běnshi;Skill;0;0;0
+本着;běnzhe;In line with;0;0;0
+笨拙;bènzhuō;clumsy;0;0;0
+崩溃;bēngkuì;collapse breakdown;0;0;0
+甭;béng;Not;0;0;0
+蹦;bèng;Jump;0;0;0
+迸发;bèngfā;Burst;0;0;0
+逼迫;bīpò;force;0;0;0
+鼻涕;bítì;nasal mucus;0;0;0
+比方;bǐfāng;Example;0;0;0
+比喻;bǐyù;comparison;0;0;0
+比重;bǐzhòng;specific gravity;0;0;0
+弊病;bìbìng;ills;0;0;0
+弊端;bìduān;malpractice;0;0;0
+必定;bìdìng;Certainly;0;0;0
+闭塞;bìsè;Occlusion;0;0;0
+碧玉;bìyù;Jasper;0;0;0
+鞭策;biāncè;urge on;0;0;0
+编织;biānzhī;Weave;0;0;0
+边疆;biānjiāng;frontier;0;0;0
+边界;biānjiè;boundary;0;0;0
+边境;biānjìng;border;0;0;0
+边缘;biānyuán;edge;0;0;0
+扁;biǎn;flat;0;0;0
+贬低;biǎndī;depreciate;0;0;0
+贬义;biǎnyì;derogatory sense;0;0;0
+遍;biàn;Times;0;0;0
+遍布;biànbù;All over;0;0;0
+便;biàn;then;0;0;0
+便利;biànlì;facilitate;0;0;0
+便条;biàntiáo;Note;0;0;0
+便于;biànyú;Easy to;0;0;0
+变故;biàngù;Misfortune;0;0;0
+变迁;biànqiān;Changes;0;0;0
+变质;biànzhì;deteriorate;0;0;0
+辩护;biànhù;Defend;0;0;0
+辩解;biànjiě;Explain;0;0;0
+辩证;biànzhèng;dialectical;0;0;0
+辨认;biànrèn;distinguish;0;0;0
+辫子;biànzi;queue;0;0;0
+标本;biāoběn;specimen;0;0;0
+标记;biāojì;sign;0;0;0
+标题;biāotí;title;0;0;0
+飙升;biāoshēng;Soar;0;0;0
+表决;biǎojué;Vote;0;0;0
+表态;biǎotài;clarify one's position 5;0;0;0
+表彰;biǎozhāng;commend;0;0;0
+别墅;biéshù;Villa;0;0;0
+别致;biézhì;Unique;0;0;0
+别扭;bièniu;unnatural;0;0;0
+濒临;bīnlín;On the verge of;0;0;0
+冰雹;bīngbáo;hail;0;0;0
+并存;bìngcún;Coexist;0;0;0
+并非;bìngfēi;not so;0;0;0
+并列;bìngliè;Parallel;0;0;0
+拨打;bōdǎ;dial;0;0;0
+播放;bōfàng;play;0;0;0
+播种;bōzhòng;Sow;0;0;0
+波浪;bōlàng;wave;0;0;0
+波涛汹涌;bōtāoxiōngyǒng;Roaring waves;0;0;0
+剥削;bōxuē;exploitation;0;0;0
+博大精深;bódàjīngshēn;Broad and profound;0;0;0
+博览会;bólǎnhuì;exposition;0;0;0
+搏斗;bódòu;struggle;0;0;0
+伯母;bómǔ;Aunt;0;0;0
+薄弱;bóruò;weak;0;0;0
+不顾;búgù;disregard;0;0;0
+不愧;búkuì;Worthy;0;0;0
+不料;búliào;Unexpectedly;0;0;0
+不像话;búxiànghuà;unreasonable;0;0;0
+不屑一顾;búxièyígù;A contemptuous disregard;0;0;0
+补偿;bǔcháng;compensate 6;0;0;0
+补救;bǔjiù;remedy;0;0;0
+补贴;bǔtiē;subsidy;0;0;0
+哺乳;bǔrǔ;lactation;0;0;0
+捕捉;bǔzhuō;Catch;0;0;0
+不;bù;No;0;0;0
+不得已;bùdéyǐ;have no alternative but to;0;0;0
+不妨;bùfáng;might as well;0;0;0
+不敢当;bùgǎndāng;I really don't deserve this.;0;0;0
+不禁;bùjīn;Can not help but;0;0;0
+不堪;bùkān;can't bear;0;0;0
+不可思议;bùkěsīyì;It is beyond logic and above reason;0;0;0
+不时;bùshí;now and then;0;0;0
+不惜;bùxī;not spare;0;0;0
+不相上下;bùxiāngshàngxià;about the same;0;0;0
+不言而喻;bùyán'éryù;Self-evident;0;0;0
+不由得;bùyóude;Cannot help;0;0;0
+不择手段;bùzéshǒuduàn;Use unscrupulous divisive tactics;0;0;0
+不止;bùzhǐ;more than;0;0;0
+布告;bùgào;Notice;0;0;0
+布局;bùjú;distribution;0;0;0
+布置;bùzhì;Arrangement;0;0;0
+步伐;bùfá;pace;0;0;0
+部署;bùshǔ;deploy;0;0;0
+部位;bùwèi;part;0;0;0
+才干;cáigàn;Talent;0;0;0
+财富;cáifù;wealth;0;0;0
+财务;cáiwù;financial affairs;0;0;0
+财政;cáizhèng;finance;0;0;0
+裁缝;cáifeng;Tailor;0;0;0
+裁判;cáipàn;Referee;0;0;0
+裁员;cáiyuán;Layoffs 7;0;0;0
+采购;cǎigòu;Purchase;0;0;0
+采集;cǎijí;gather;0;0;0
+采纳;cǎinà;accept;0;0;0
+彩票;cǎipiào;lottery;0;0;0
+菜;cài;food;0;0;0
+参谋;cānmóu;Staff officer;0;0;0
+参照;cānzhào;refer to;0;0;0
+残酷;cánkù;cruel;0;0;0
+残留;cánliú;Residual;0;0;0
+残忍;cánrěn;brutal;0;0;0
+灿烂;cànlàn;splendid;0;0;0
+舱;cāng;cabin;0;0;0
+苍白;cāngbái;pale;0;0;0
+仓促;cāngcù;Hasty;0;0;0
+仓库;cāngkù;Warehouse;0;0;0
+操劳;cāoláo;work hard;0;0;0
+操练;cāoliàn;drill;0;0;0
+操纵;cāozòng;control;0;0;0
+操作;cāozuò;operation;0;0;0
+嘈杂;cáozá;noisy;0;0;0
+草;cǎo;grass;0;0;0
+草案;cǎo'àn;draft;0;0;0
+草率;cǎoshuài;cursory;0;0;0
+策划;cèhuà;plan;0;0;0
+策略;cèlüè;tactic;0;0;0
+测量;cèliáng;measure;0;0;0
+侧面;cèmiàn;side;0;0;0
+层出不穷;céngchūbùqióng;emerge in endlessly;0;0;0
+层次;céngcì;gradation;0;0;0
+插;chā;insert;0;0;0
+差距;chājù;disparity;0;0;0
+查获;cháhuò;hunt down and seize;0;0;0
+刹那;chànà;Instant;0;0;0
+诧异;chàyì;astonished;0;0;0
+拆;chāi;Remove;0;0;0
+柴油;cháiyóu;diesel oil;0;0;0
+搀;chān;mix;0;0;0
+缠绕;chánrào;twine;0;0;0
+产业;chǎnyè;industry;0;0;0
+阐述;chǎnshù;expatiate;0;0;0
+颤抖;chàndǒu;Tremble;0;0;0
+猖狂;chāngkuáng;furious;0;0;0
+昌盛;chāngshèng;Prosperity;0;0;0
+长;cháng;long;0;0;0
+尝试;chángshì;attempt;0;0;0
+偿还;chánghuán;repay;0;0;0
+常年;chángnián;perennial;0;0;0
+常务;chángwù;day-to-day;0;0;0
+场合;chǎnghé;occasion;0;0;0
+场面;chǎngmiàn;scene;0;0;0
+场所;chǎngsuǒ;place;0;0;0
+敞开;chǎngkāi;Open wide;0;0;0
+倡导;chàngdǎo;Advocate;0;0;0
+倡议;chàngyì;Initiative;0;0;0
+畅通;chàngtōng;unimpeded;0;0;0
+畅销;chàngxiāo;sell well;0;0;0
+抄;chāo;copy;0;0;0
+超级;chāojí;super;0;0;0
+超越;chāoyuè;Transcend;0;0;0
+钞票;chāopiào;Bank note;0;0;0
+朝;cháo;towards 9;0;0;0
+潮流;cháoliú;Trend;0;0;0
+潮湿;cháoshī;damp;0;0;0
+嘲笑;cháoxiào;Ridicule;0;0;0
+炒;chǎo;fry;0;0;0
+吵;chǎo;Noisy;0;0;0
+撤退;chètuì;haul off;0;0;0
+撤销;chèxiāo;repeal;0;0;0
+沉淀;chéndiàn;subside;0;0;0
+沉闷;chénmèn;oppressive;0;0;0
+沉思;chénsī;Meditation;0;0;0
+沉重;chénzhòng;heavy;0;0;0
+沉着;chénzhuó;composed;0;0;0
+陈旧;chénjiù;obsolete;0;0;0
+陈列;chénliè;display;0;0;0
+陈述;chénshù;present;0;0;0
+称心如意;chènxīnrúyì;As one wishes;0;0;0
+称;chēng;call;0;0;0
+称号;chēnghào;Title;0;0;0
+乘务员;chéngwùyuán;trainman;0;0;0
+承办;chéngbàn;Undertake;0;0;0
+承包;chéngbāo;Contract;0;0;0
+承诺;chéngnuò;Promise;0;0;0
+城堡;chéngbǎo;Castle;0;0;0
+成本;chéngběn;cost;0;0;0
+成交;chéngjiāo;Deal;0;0;0
+成天;chéngtiān;All day long;0;0;0
+成效;chéngxiào;Results, effects;0;0;0
+成心;chéngxīn;on purpose;0;0;0
+成员;chéngyuán;member;0;0;0
+惩罚;chéngfá;punish;0;0;0
+诚挚;chéngzhì;sincere;0;0;0
+澄清;chéngqīng;clarify;0;0;0
+呈现;chéngxiàn;Present;0;0;0
+秤;chèng;balance;0;0;0
+吃;chī;eat;0;0;0
+吃苦;chīkǔ;Hardship;0;0;0
+吃力;chīlì;Sweaty;0;0;0
+迟缓;chíhuǎn;tardy;0;0;0
+迟疑;chíyí;Hesitation;0;0;0
+持久;chíjiǔ;Lasting;0;0;0
+池塘;chítáng;pool;0;0;0
+赤道;chìdào;equator;0;0;0
+赤字;chìzì;deficit;0;0;0
+冲动;chōngdòng;impulse;0;0;0
+冲击;chōngjī;To attack;0;0;0
+冲突;chōngtū;conflict;0;0;0
+充当;chōngdāng;act as;0;0;0
+充沛;chōngpèi;Abundant;0;0;0
+充实;chōngshí;Enrich;0;0;0
+充足;chōngzú;adequate;0;0;0
+崇拜;chóngbài;worship;0;0;0
+崇高;chónggāo;lofty;0;0;0
+崇敬;chóngjìng;respect;0;0;0
+重叠;chóngdié;overlap;0;0;0
+重阳节;Chóngyángjié;Double Ninth Festival;0;0;0
+抽空;chōukòng;make time;0;0;0
+筹备;chóubèi;arrange;0;0;0
+踌躇;chóuchú;hesitate;0;0;0
+稠密;chóumì;thick;0;0;0
+丑恶;chǒu'è;ugly;0;0;0
+出路;chūlù;way out;0;0;0
+出卖;chūmài;sell;0;0;0
+出身;chūshēn;Birth;0;0;0
+出神;chūshén;Trance;0;0;0
+出息;chūxi;Good;0;0;0
+出洋相;chūyángxiàng;Make a fool;0;0;0
+初步;chūbù;preliminary;0;0;0
+储备;chǔbèi;store;0;0;0
+储存;chǔcún;Storage;0;0;0
+储蓄;chǔxù;save up;0;0;0
+处分;chǔfèn;prescription;0;0;0
+处境;chǔjìng;plight;0;0;0
+处置;chǔzhì;treat;0;0;0
+触犯;chùfàn;offend;0;0;0
+穿越;chuānyuè;Pass through;0;0;0
+川流不息;chuānliúbùxī;flowing up in an endless stream;0;0;0
+船;chuán;ship;0;0;0
+船舶;chuánbó;watercraft;0;0;0
+传达;chuándá;Convey;0;0;0
+传单;chuándān;fly sheet;0;0;0
+传授;chuánshòu;initiate;0;0;0
+喘气;chuǎnqì;Panting;0;0;0
+串;chuàn;strand, cluster;0;0;0
+床单;chuángdān;Sheet;0;0;0
+闯;chuǎng;rush;0;0;0
+创立;chuànglì;Found;0;0;0
+创新;chuàngxīn;innovate;0;0;0
+创业;chuàngyè;carve out;0;0;0
+创作;chuàngzuò;A literary creation;0;0;0
+吹;chuī;blow;0;0;0
+吹牛;chuīniú;brag;0;0;0
+吹捧;chuīpěng;flatter;0;0;0
+垂直;chuízhí;vertical;0;0;0
+春;chūn;spring;0;0;0
+纯粹;chúncuì;pure;0;0;0
+纯洁;chúnjié;pure;0;0;0
+词汇;cíhuì;vocabulary;0;0;0
+慈祥;cíxiáng;Kindly;0;0;0
+雌雄;cíxióng;male and female;0;0;0
+次品;cìpǐn;defective goods;0;0;0
+次序;cìxù;order;0;0;0
+伺候;cìhou;Wait;0;0;0
+从容不迫;cóngróngbúpò;take one's time;0;0;0
+凑合;còuhuo;gather together;0;0;0
+粗鲁;cūlǔ;rude;0;0;0
+摧残;cuīcán;devastate;0;0;0
+脆弱;cuìruò;fragile;0;0;0
+存;cún;Deposit;0;0;0
+磋商;cuōshāng;negotiate;0;0;0
+错;cuò;Wrong;0;0;0
+挫折;cuòzhé;frustration;0;0;0
+搭;dā;to match, to take;0;0;0
+搭档;dādàng;partner;0;0;0
+搭配;dāpèi;arrange;0;0;0
+答辩;dábiàn;reply;0;0;0
+答复;dáfù;Reply;0;0;0
+达成;dáchéng;Reach;0;0;0
+打包;dǎbāo;Pack;0;0;0
+打官司;dǎguānsi;To engage in a lawsuit;0;0;0
+打击;dǎjī;strike;0;0;0
+打架;dǎjià;Fight;0;0;0
+打量;dǎliang;look sb. up and down;0;0;0
+打猎;dǎliè;Go hunting;0;0;0
+打仗;dǎzhàng;To war;0;0;0
+大不了;dàbuliǎo;Big deal;0;0;0
+大臣;dàchén;Minister;0;0;0
+大伙儿;dàhuǒr;you all;0;0;0
+大厦;dàshà;Large building;0;0;0
+大肆;dàsì;Wantonly;0;0;0
+大体;dàtǐ;general;0;0;0
+大意;dàyi;Careless;0;0;0
+大致;dàzhì;roughly;0;0;0
+呆;dāi;stay;0;0;0
+歹徒;dǎitú;gangster;0;0;0
+带领;dàilǐng;lead;0;0;0
+代价;dàijià;cost;0;0;0
+代理;dàilǐ;agent;0;0;0
+逮捕;dàibǔ;Arrest;0;0;0
+怠慢;dàimàn;cold-shoulder;0;0;0
+担保;dānbǎo;assure;0;0;0
+胆怯;dǎnqiè;coward, fear;0;0;0
+淡季;dànjì;Low Season;0;0;0
+淡水;dànshuǐ;fresh water;0;0;0
+蛋白质;dànbáizhì;Protein;0;0;0
+诞辰;dànchén;Birthday;0;0;0
+诞生;dànshēng;Be born;0;0;0
+当场;dāngchǎng;On the spot;0;0;0
+当初;dāngchū;Original;0;0;0
+当面;dāngmiàn;Face to face;0;0;0
+当前;dāngqián;current;0;0;0
+当事人;dāngshìrén;client;0;0;0
+当务之急;dāngwùzhījí;A pressing matter of the moment;0;0;0
+当心;dāngxīn;Watch out;0;0;0
+当选;dāngxuǎn;be elected;0;0;0
+档案;dàng'àn;archives;0;0;0
+档次;dàngcì;grade;0;0;0
+刀;dāo;knife;0;0;0
+岛;dǎo;island;0;0;0
+岛屿;dǎoyǔ;Islands;0;0;0
+倒闭;dǎobì;Collapse;0;0;0
+导弹;dǎodàn;Missile;0;0;0
+导航;dǎoháng;navigate;0;0;0
+导向;dǎoxiàng;guide;0;0;0
+捣乱;dǎoluàn;Trouble;0;0;0
+倒;dào;inverted;0;0;0
+到;dào;reach;0;0;0
+稻谷;dàogǔ;Unhusked rice;0;0;0
+盗窃;dàoqiè;steal;0;0;0
+得不偿失;débùchángshī;be not worth the candle;0;0;0
+得力;délì;right-hand;0;0;0
+得天独厚;détiāndúhòu;Be richly endowed by nature;0;0;0
+得罪;dézuì;Offend;0;0;0
+地;de;;0;0;0
+的;de;;0;0;0
+得;dé;;0;0;0
+得;děi;have to;0;0;0
+蹬;dēng;thrust;0;0;0
+灯;dēng;lamp;0;0;0
+灯笼;dēnglong;lantern;0;0;0
+登陆;dēnglù;disembark;0;0;0
+登录;dēnglù;Sign in;0;0;0
+等级;děngjí;grade;0;0;0
+堤坝;dībà;Dam;0;0;0
+敌视;díshì;be hostile to;0;0;0
+抵达;dǐdá;Arrive;0;0;0
+抵抗;dǐkàng;resistance;0;0;0
+抵制;dǐzhì;resist;0;0;0
+递增;dìzēng;Increasing;0;0;0
+地步;dìbù;condition;0;0;0
+地势;dìshì;Terrain;0;0;0
+地质;dìzhì;geology;0;0;0
+颠簸;diānbǒ;bump;0;0;0
+颠倒;diāndǎo;Upside down;0;0;0
+点;diǎn;spot;0;0;0
+点缀;diǎnzhuì;Embellishment;0;0;0
+典礼;diǎnlǐ;Ceremony;0;0;0
+典型;diǎnxíng;typical;0;0;0
+垫;diàn;pad;0;0;0
+电源;diànyuán;power supply;0;0;0
+奠定;diàndìng;Establish;0;0;0
+惦记;diànjì;Miss;0;0;0
+叼;diāo;hold in mouth;0;0;0
+雕刻;diāokè;carving;0;0;0
+雕塑;diāosù;Sculpture;0;0;0
+吊;diào;crane;0;0;0
+钓;diào;Fishing;0;0;0
+掉;diào;fall;0;0;0
+调动;diàodòng;transfer;0;0;0
+跌;diē;fall;0;0;0
+盯;dīng;stare at;0;0;0
+叮嘱;dīngzhǔ;urge again and again;0;0;0
+顶;dǐng;top;0;0;0
+定期;dìngqī;regular;0;0;0
+定义;dìngyì;Definition;0;0;0
+丢;diū;lose;0;0;0
+丢人;diūrén;lose face;0;0;0
+丢三落四;diūsānlàsì;Miss or lose this and that;0;0;0
+东;dōng;east;0;0;0
+东道主;dōngdàozhǔ;Host;0;0;0
+东张西望;dōngzhāngxīwàng;Look around;0;0;0
+懂;dǒng;understand;0;0;0
+董事长;dǒngshìzhǎng;Chairman;0;0;0
+栋;dòng;Building (measure word);0;0;0
+冻;dòng;freeze;0;0;0
+冻结;dòngjié;Frozen;0;0;0
+洞;dòng;hole;0;0;0
+洞穴;dòngxué;Cave;0;0;0
+动荡;dòngdàng;turbulence;0;0;0
+动机;dòngjī;motivation;0;0;0
+动静;dòngjing;Movement;0;0;0
+动力;dònglì;power, motivation;0;0;0
+动脉;dòngmài;artery;0;0;0
+动身;dòngshēn;Leave;0;0;0
+动手;dòngshǒu;DIY;0;0;0
+动态;dòngtài;dynamic;0;0;0
+动员;dòngyuán;mobilization;0;0;0
+陡峭;dǒuqiào;Steep;0;0;0
+逗;dòu;Funny;0;0;0
+斗争;dòuzhēng;Struggle;0;0;0
+督促;dūcù;supervise and urge;0;0;0
+都市;dūshì;urban;0;0;0
+读;dú;read;0;0;0
+独裁;dúcái;autocracy;0;0;0
+毒品;dúpǐn;narcotics;0;0;0
+赌博;dǔbó;gambling;0;0;0
+堵塞;dǔsè;blocking;0;0;0
+杜绝;dùjué;Stop， ban;0;0;0
+端午节;uānwǔjié;The Dragon Boat Festival;0;0;0
+端正;duānzhèng;correct;0;0;0
+短;duǎn;short;0;0;0
+短促;duǎncù;very brief;0;0;0
+断定;duàndìng;be sure;0;0;0
+断断续续;duànduànxùxù;off and on;0;0;0
+断绝;duànjué;be sure;0;0;0
+堆积;duījī;Accumulation;0;0;0
+对;duì;Pair, couple;0;0;0
+对;duì;to, for;0;0;0
+对策;duìcè;countermeasure;0;0;0
+对称;duìchèn;symmetrical;0;0;0
+对付;duìfu;deal with;0;0;0
+对抗;duìkàng;Combat;0;0;0
+对立;duìlì;Opposition;0;0;0
+对联;duìlián;Antithetical couplet;0;0;0
+对应;duìyìng;Corresponding;0;0;0
+对照;duìzhào;compare;0;0;0
+兑换;duìhuàn;exchange;0;0;0
+兑现;duìxiàn;Cash;0;0;0
+队伍;duìwu;Ranks;0;0;0
+吨;dūn;ton;0;0;0
+蹲;dūn;squat;0;0;0
+顿;dùn;Meal;0;0;0
+顿时;dùnshí;Suddenly;0;0;0
+多;duō;many;0;0;0
+多元化;duōyuánhuà;Diversification;0;0;0
+哆嗦;duōsuo;Shiver;0;0;0
+朵;duǒ;classifier of flower;0;0;0
+堕落;duòluò;Degenerate;0;0;0
+额外;éwài;extra;0;0;0
+恶心;ěxin;disgusting;0;0;0
+饿;è;hungry;0;0;0
+恶化;èhuà;deteriorate;0;0;0
+遏制;èzhì;contain;0;0;0
+恩怨;ēnyuàn;Resentment;0;0;0
+而;ér;and;0;0;0
+而已;éryǐ;Nothing more;0;0;0
+耳环;ěrhuán;Earrings;0;0;0
+二;èr;Two;0;0;0
+二氧化碳;èryǎnghuàtàn;Carbon dioxide;0;0;0
+发;fā;hair;0;0;0
+发布;fābù;Release;0;0;0
+发财;fācái;make a fortune;0;0;0
+发呆;fādāi;In a daze;0;0;0
+发动;fādòng;Launch;0;0;0
+发火;fāhuǒ;get angry;0;0;0
+发觉;fājué;find;0;0;0
+发射;fāshè;launch;0;0;0
+发誓;fāshì;swear;0;0;0
+发行;fāxíng;issue;0;0;0
+发炎;fāyán;inflammation;0;0;0
+发扬;fāyáng;carry forward;0;0;0
+发育;fāyù;Development, growth;0;0;0
+法人;fǎrén;juridical person;0;0;0
+繁华;fánhuá;Bustling;0;0;0
+繁忙;fánmáng;busy;0;0;0
+繁体字;fántǐzì;the traditional Chinese character;0;0;0
+繁殖;fánzhí;Reproduction;0;0;0
+反驳;fǎnbó;refute;0;0;0
+反常;fǎncháng;abnormal;0;0;0
+反倒;fǎndào;Instead;0;0;0
+反动;fǎndòng;Reactionary;0;0;0
+反感;fǎngǎn;Disgusted;0;0;0
+反抗;fǎnkàng;Resistance;0;0;0
+反馈;fǎnkuì;feedback;0;0;0
+反面;fǎnmiàn;The other side;0;0;0
+反射;fǎnshè;echo;0;0;0
+反思;fǎnsī;Reflect;0;0;0
+反问;fǎnwèn;rhetorical question;0;0;0
+反之;fǎnzhī;on the contrary;0;0;0
+范畴;fànchóu;category;0;0;0
+泛滥;fànlàn;Flood;0;0;0
+贩卖;fànmài;Trafficking;0;0;0
+方;fāng;square;0;0;0
+方位;fāngwèi;Position;0;0;0
+方言;fāngyán;dialect;0;0;0
+方针;fāngzhēn;policy;0;0;0
+防守;fángshǒu;Defense;0;0;0
+防疫;fángyì;epidemic prevention;0;0;0
+防御;fángyù;defense;0;0;0
+防止;fángzhǐ;Prevent;0;0;0
+防治;fángzhì;Prevention and cure;0;0;0
+纺织;fǎngzhī;Spin;0;0;0
+放;fàng;discharge;0;0;0
+放大;fàngdà;enlarge;0;0;0
+放射;fàngshè;radiation;0;0;0
+放手;fàngshǒu;Let go;0;0;0
+非法;fēifǎ;illegal;0;0;0
+飞禽走兽;fēiqínzǒushòu;Birds and animals;0;0;0
+飞翔;fēixiáng;flight;0;0;0
+飞跃;fēiyuè;leap;0;0;0
+肥沃;féiwò;fertile;0;0;0
+诽谤;fěibàng;slander;0;0;0
+匪徒;fěitú;The bandits;0;0;0
+肺;fèi;lung;0;0;0
+废除;fèichú;Abolish;0;0;0
+废墟;fèixū;Ruins;0;0;0
+沸腾;fèiténg;boiling;0;0;0
+分辨;fēnbiàn;Distinguish;0;0;0
+分寸;fēncùn;Sense of propriety;0;0;0
+分红;fēnhóng;bonus;0;0;0
+分解;fēnjiě;decompose;0;0;0
+分裂;fēnliè;division;0;0;0
+分泌;fēnmì;secretion;0;0;0
+分明;fēnmíng;clear;0;0;0
+分歧;fēnqí;divergence;0;0;0
+分散;fēnsàn;Dispersed;0;0;0
+分手;fēnshǒu;Break up;0;0;0
+吩咐;fēnfù;Tell;0;0;0
+坟墓;fénmù;Grave;0;0;0
+粉末;fěnmò;powder;0;0;0
+粉色;fěnsè;Pink;0;0;0
+粉碎;fěnsuì;smash;0;0;0
+份;fèn;share;0;0;0
+分量;fènliàng;Weight;0;0;0
+风暴;fēngbào;Storm;0;0;0
+风度;fēngdù;Manner;0;0;0
+风光;fēngguāng;Scenery;0;0;0
+风气;fēngqì;atmosphere;0;0;0
+风趣;fēngqù;Funny;0;0;0
+风土人情;fēngtǔrénqíng;Local customs and practices;0;0;0
+风味;fēngwèi;flavor;0;0;0
+封闭;fēngbì;close;0;0;0
+封建;fēngjiàn;Feudal;0;0;0
+封锁;fēngsuǒ;blockade;0;0;0
+丰满;fēngmǎn;Plump;0;0;0
+丰盛;fēngshèng;rich;0;0;0
+丰收;fēngshōu;Have bumper harvest;0;0;0
+锋利;fēnglì;sharp;0;0;0
+逢;féng;meet;0;0;0
+奉献;fèngxiàn;dedicate;0;0;0
+否决;fǒujué;veto;0;0;0
+夫妇;fūfù;couple;0;0;0
+夫人;fūrén;Madam;0;0;0
+敷衍;fūyǎn;play at;0;0;0
+扶;fú;hold up;0;0;0
+幅;fú;classifier of picture;0;0;0
+幅度;fúdù;range;0;0;0
+服气;fúqì;Be convinced;0;0;0
+符号;fúhào;Symbol;0;0;0
+福利;fúlì;welfare;0;0;0
+福气;fúqi;good luck;0;0;0
+俘虏;fúlǔ;captive;0;0;0
+辐射;fúshè;radiation;0;0;0
+腐败;fǔbài;corrupt;0;0;0
+腐烂;fǔlàn;Decay;0;0;0
+腐蚀;fǔshí;corrosion;0;0;0
+腐朽;fǔxiǔ;Decadent;0;0;0
+辅助;fǔzhù;auxiliary;0;0;0
+抚养;fǔyǎng;Raise;0;0;0
+俯仰;fǔyǎng;pitch;0;0;0
+富;fù;rich;0;0;0
+富裕;fùyù;Affluent;0;0;0
+副;fù;Vice副作用 fùzuòyòng side effect;0;0;0
+负担;fùdān;burden;0;0;0
+覆盖;fùgài;overlay;0;0;0
+附和;fùhè;chime in with;0;0;0
+附件;fùjiàn;Enclosure;0;0;0
+附属;fùshǔ;attach appertain;0;0;0
+复活;fùhuó;Resurrection;0;0;0
+复兴;fùxīng;Revival;0;0;0
+腹泻;fùxiè;diarrhea;0;0;0
+赋予;fùyǔ;give;0;0;0
+改良;gǎiliáng;Improvement;0;0;0
+盖章;gàizhāng;Seal;0;0;0
+干旱;gānhàn;drought;0;0;0
+干扰;gānrǎo;interfere;0;0;0
+干涉;gānshè;interference;0;0;0
+干预;gānyù;intervene;0;0;0
+尴尬;gāngà;awkward;0;0;0
+甘心;gānxīn;Willing;0;0;0
+敢;gǎn;dare;0;0;0
+感慨;gǎnkǎi;Feeling;0;0;0
+感染;gǎnrǎn;Infected;0;0;0
+干劲;gànjìn;Drive;0;0;0
+纲领;gānglǐng;Programme;0;0;0
+港口;gǎngkǒu;Port;0;0;0
+港湾;gǎngwān;Harbour;0;0;0
+岗位;gǎngwèi;post;0;0;0
+杠杆;gànggǎn;lever;0;0;0
+高;gāo;high;0;0;0
+高超;gāochāo;outstanding;0;0;0
+高潮;gāocháo;climax;0;0;0
+高峰;gāofēng;peak;0;0;0
+高考;gāokǎo;the exam for entering universities;0;0;0
+高明;gāomíng;brilliant;0;0;0
+高尚;gāoshàng;noble;0;0;0
+高涨;gāozhǎng;Upsurge;0;0;0
+搞;gǎo;get;0;0;0
+稿件;gǎojiàn;manuscript;0;0;0
+告辞;gàocí;Take leave;0;0;0
+告诫;gàojiè;warn;0;0;0
+疙瘩;gēda;lump;0;0;0
+歌颂;gēsòng;Sing;0;0;0
+隔阂;géhé;Estrangement;0;0;0
+隔离;gélí;quarantine;0;0;0
+格局;géjú;situation;0;0;0
+格式;géshi;format;0;0;0
+个体;gètǐ;individual;0;0;0
+各抒己见;gèshūjǐjiàn;Each airs his own views;0;0;0
+根深蒂固;gēnshēndìgù;being deeply rooted;0;0;0
+根源;gēnyuán;root;0;0;0
+跟;gēn;with;0;0;0
+跟前;gēnqián;In front of;0;0;0
+跟随;gēnsuí;follow;0;0;0
+跟踪;gēnzōng;run after;0;0;0
+耕地;gēngdì;Cultivated land;0;0;0
+更新;gēngxīn;renovate;0;0;0
+更正;gēngzhèng;correct;0;0;0
+更;gèng;more;0;0;0
+公安局;gōng'ānjú;Bureau of public security;0;0;0
+公道;gōngdao;fair;0;0;0
+公告;gōnggào;Notice;0;0;0
+公关;gōngguān;public relations;0;0;0
+公民;gōngmín;citizen;0;0;0
+公婆;gōngpó;Parents-in-law;0;0;0
+公然;gōngrán;to the teeth;0;0;0
+公认;gōngrèn;Accepted;0;0;0
+公式;gōngshì;formula;0;0;0
+公务;gōngwù;Official business;0;0;0
+公正;gōngzhèng;fair;0;0;0
+公证;gōngzhèng;Notarization;0;0;0
+供不应求;gōngbúyìngqiú;Demand exceeds supply;0;0;0
+供给;gōngjǐ;supply;0;0;0
+工夫;gōngfu;time;0;0;0
+工艺品;gōngyìpǐn;Arts and Crafts;0;0;0
+宫殿;gōngdiàn;Palace;0;0;0
+功课;gōngkè;lessons;0;0;0
+功劳;gōngláo;credit;0;0;0
+功效;gōngxiào;Effect;0;0;0
+攻击;gōngjī;attack;0;0;0
+攻克;gōngkè;Conquer;0;0;0
+恭敬;gōngjìng;dutiful;0;0;0
+巩固;gǒnggù;consolidate;0;0;0
+共和国;gònghéguó;Republic;0;0;0
+共计;gòngjì;count up to;0;0;0
+共鸣;gòngmíng;resonance;0;0;0
+勾结;gōujié;Collusion;0;0;0
+钩子;gōuzi;hook;0;0;0
+狗;gǒu;Dog;0;0;0
+够;gòu;enough;0;0;0
+构思;gòusī;Design;0;0;0
+孤独;gūdú;lonely;0;0;0
+孤立;gūlì;isolated;0;0;0
+辜负;gūfù;Live up to;0;0;0
+姑且;gūqiě;Tentatively;0;0;0
+古董;gǔdǒng;antique;0;0;0
+古怪;gǔguài;cranky;0;0;0
+股东;gǔdōng;stockholder;0;0;0
+股份;gǔfèn;Shares;0;0;0
+鼓动;gǔdòng;Agitation;0;0;0
+骨干;gǔgàn;backbone;0;0;0
+固然;gùrán;Of course;0;0;0
+固有;gùyǒu;Inherent;0;0;0
+固执;gùzhi;stubborn;0;0;0
+顾虑;gùlǜ;misgive;0;0;0
+顾问;gùwèn;adviser;0;0;0
+故乡;gùxiāng;Hometown;0;0;0
+故障;gùzhàng;fault;0;0;0
+拐杖;guǎizhàng;cane;0;0;0
+关照;guānzhào;Take care of;0;0;0
+官;guān;officer;0;0;0
+官方;guānfāng;by the government official;0;0;0
+观光;guānguāng;Sightseeing;0;0;0
+管辖;guǎnxiá;dominate;0;0;0
+贯彻;guànchè;implement;0;0;0
+灌溉;guàngài;irrigation;0;0;0
+惯例;guànlì;convention;0;0;0
+光;guāng;light;0;0;0
+光彩;guāngcǎi;Brilliance;0;0;0
+光辉;guānghuī;Glory;0;0;0
+光芒;guāngmáng;Shine;0;0;0
+广阔;guǎngkuò;wide;0;0;0
+逛;guàng;Stroll;0;0;0
+规范;guīfàn;criterion;0;0;0
+规格;guīgé;standard;0;0;0
+规划;guīhuà;Plan;0;0;0
+规章;guīzhāng;Rules;0;0;0
+归根到底;guīgēndàodǐ;at all time and place;0;0;0
+归还;guīhuán;return;0;0;0
+归纳;guīnà;Induce;0;0;0
+轨道;guǐdào;track;0;0;0
+跪;guì;kneel;0;0;0
+贵;guì;noble;0;0;0
+贵族;guìzú;noble;0;0;0
+棍棒;gùnbàng;club;0;0;0
+国防;guófáng;national defense;0;0;0
+国务院;guówùyuàn;The State Council;0;0;0
+果断;guǒduàn;decisive;0;0;0
+过度;guòdù;excessive;0;0;0
+过渡;guòdù;transition;0;0;0
+过奖;guòjiǎng;you flatter;0;0;0
+过滤;guòlǜ;filter;0;0;0
+过失;guòshī;fault;0;0;0
+过问;guòwèn;Ask;0;0;0
+过瘾;guòyǐn;Fun;0;0;0
+过于;guòyú;too;0;0;0
+海拔;hǎibá;altitude;0;0;0
+海滨;hǎibīn;Seaside;0;0;0
+含糊;hánhu;vague;0;0;0
+含义;hányì;signification;0;0;0
+寒暄;hánxuān;exchange of conventional greetings;0;0;0
+喊;hǎn;shout;0;0;0
+罕见;hǎnjiàn;peculiar;0;0;0
+捍卫;hànwèi;defend;0;0;0
+航空;hángkōng;aviation;0;0;0
+航天;hángtiān;Space flight;0;0;0
+航行;hángxíng;Sail;0;0;0
+行列;hángliè;Ranks;0;0;0
+豪迈;háomài;Heroic;0;0;0
+毫米;háomǐ;millimeter;0;0;0
+毫无;háowú;nothing;0;0;0
+好;hǎo;good;0;0;0
+号召;hàozhào;call;0;0;0
+耗费;hàofèi;cost;0;0;0
+好客;hàokè;Hospitable;0;0;0
+和蔼;hé'ǎi;Kindly;0;0;0
+和解;héjiě;compromise;0;0;0
+和睦;hémù;harmony;0;0;0
+和气;héqi;kind;0;0;0
+和谐;héxié;Harmonious;0;0;0
+合并;hébìng;merge;0;0;0
+合成;héchéng;Synthesis;0;0;0
+合乎;héhū;accord with;0;0;0
+合伙;héhuǒ;cooperate;0;0;0
+合身;héshēn;Fit;0;0;0
+合算;hésuàn;Cost-effective;0;0;0
+痕迹;hénjì;mark;0;0;0
+很;hěn;very;0;0;0
+狠心;hěnxīn;cruel hearted;0;0;0
+恨;hèn;hate;0;0;0
+恨不得;hènbude;Hate not;0;0;0
+哼;hēng;Hum;0;0;0
+横;héng;harsh and unreasonable;0;0;0
+哄;hōng;fool;0;0;0
+烘;hōng;Bake;0;0;0
+轰动;hōngdòng;make a sensation;0;0;0
+红包;hóngbāo;Red envelope;0;0;0
+宏观;hóngguān;Macroscopic;0;0;0
+宏伟;hóngwěi;grand;0;0;0
+洪水;hóngshuǐ;Flood;0;0;0
+喉咙;hóulóng;throat;0;0;0
+后代;hòudài;Offspring;0;0;0
+后顾之忧;hòugùzhīyōu;Any menace from the;0;0;0
+后勤;hòuqín;logistics;0;0;0
+候选;hòuxuǎn;candidate;0;0;0
+忽略;hūlüè;ignore;0;0;0
+呼啸;hūxiào;Whistling;0;0;0
+呼吁;hūyù;call on;0;0;0
+胡乱;húluàn;Casually;0;0;0
+湖泊;húpō;lake;0;0;0
+互联网;hùliánwǎng;Internet;0;0;0
+花瓣;huābàn;Petal;0;0;0
+华丽;huálì;design;0;0;0
+华侨;huáqiáo;overseas Chinese;0;0;0
+画蛇添足;huàshétiānzú;Superfluous;0;0;0
+化肥;huàféi;chemical fertilizer;0;0;0
+化石;huàshí;Fossil;0;0;0
+化验;huàyàn;Test;0;0;0
+化妆;huàzhuāng;prink;0;0;0
+划分;huàfēn;Divide;0;0;0
+话筒;huàtǒng;Microphone;0;0;0
+怀孕;huáiyùn;become pregnant;0;0;0
+坏;huài;bad;0;0;0
+欢乐;huānlè;Happy;0;0;0
+还原;huányuán;reduction;0;0;0
+环节;huánjié;link;0;0;0
+缓和;huǎnhé;To moderate;0;0;0
+患者;huànzhě;Patient;0;0;0
+荒凉;huāngliáng;Desolate;0;0;0
+荒谬;huāngmiù;ridiculous;0;0;0
+荒唐;huāngtáng;absurd;0;0;0
+慌忙;huāngmáng;Hurriedly;0;0;0
+黄昏;huánghūn;Dusk;0;0;0
+恍然大悟;huǎngrándàwù;See light suddenly;0;0;0
+灰;huī;ash;0;0;0
+挥霍;huīhuò;splurge;0;0;0
+辉煌;huīhuáng;brilliant;0;0;0
+回;huí;return;0;0;0
+回报;huíbào;Return;0;0;0
+回避;huíbì;obviate;0;0;0
+回顾;huígù;review;0;0;0
+回收;huíshōu;recovery;0;0;0
+悔恨;huǐhèn;Regret;0;0;0
+毁灭;huǐmiè;Ruin;0;0;0
+会晤;huìwù;Meet;0;0;0
+汇报;huìbào;report;0;0;0
+贿赂;huìlù;bribery;0;0;0
+昏迷;hūnmí;coma;0;0;0
+浑身;húnshēn;All;0;0;0
+混合;hùnhé;blend;0;0;0
+混乱;hùnluàn;confusion;0;0;0
+混淆;hùnxiáo;confusion;0;0;0
+混浊;hùnzhuó;Turbidity;0;0;0
+活该;huógāi;You deserves it;0;0;0
+活力;huólì;energy;0;0;0
+火箭;huǒjiàn;rocket;0;0;0
+火焰;huǒyàn;flame;0;0;0
+火药;huǒyào;gunpowder;0;0;0
+货币;huòbì;currency;0;0;0
+或许;huòxǔ;maybe;0;0;0
+基地;jīdì;base;0;0;0
+基金;jījīn;fund;0;0;0
+基因;jīyīn;gene;0;0;0
+机动;jīdòng;Maneuver;0;0;0
+机构;jīgòu;mechanism;0;0;0
+机关;jīguān;office;0;0;0
+机灵;jīling;wise;0;0;0
+机密;jīmì;Confidential;0;0;0
+机械;jīxiè;Mechanics;0;0;0
+机遇;jīyù;Opportunity;0;0;0
+机智;jīzhì;tactful;0;0;0
+激发;jīfā;inspire;0;0;0
+激励;jīlì;inspirit;0;0;0
+激情;jīqíng;Passion;0;0;0
+饥饿;jī'è;hunger;0;0;0
+讥笑;jīxiào;fleer;0;0;0
+极;jí;extremely;0;0;0
+极端;jíduān;extreme;0;0;0
+极限;jíxiàn;limit;0;0;0
+即便;jíbiàn;even if;0;0;0
+即将;jíjiāng;soon;0;0;0
+级别;jíbié;level;0;0;0
+疾病;jíbìng;disease;0;0;0
+嫉妒;jídù;Envy;0;0;0
+及早;jízǎo;as soon as possible;0;0;0
+急功近利;jígōngjìnlì;Be anxious to achieve quick success and get instant;0;0;0
+急剧;jíjù;sharp;0;0;0
+急切;jíqiè;impatient eager;0;0;0
+急于求成;jíyúqiúchéng;Be anxious for success;0;0;0
+急躁;jízào;Impatient;0;0;0
+籍贯;jíguàn;Place of origin;0;0;0
+集团;jítuán;group;0;0;0
+吉祥;jíxiáng;lucky;0;0;0
+给予;jǐyǔ;give;0;0;0
+寄;jì;send;0;0;0
+寄托;jìtuō;place on;0;0;0
+继承;jìchéng;inherit;0;0;0
+继往开来;jìwǎngkāilái;Carry forward the cause pioneered by one's;0;0;0
+记性;jìxing;memory;0;0;0
+记载;jìzǎi;Record;0;0;0
+季度;jìdù;quarter (of a year);0;0;0
+季军;jìjūn;Third place;0;0;0
+计较;jìjiào;Regardless of;0;0;0
+忌讳;jìhuì;Taboo;0;0;0
+寂静;jìjìng;Silent;0;0;0
+纪要;jìyào;summary;0;0;0
+技能;jìnéng;Skill;0;0;0
+技巧;jìqiǎo;Skill;0;0;0
+迹象;jìxiàng;Sign;0;0;0
+家;jiā;home;0;0;0
+家常;jiācháng;the daily life of a family;0;0;0
+家伙;jiāhuo;Fellow;0;0;0
+家属;jiāshǔ;family members;0;0;0
+家喻户晓;jiāyùhùxiǎo;widely known;0;0;0
+加工;jiāgōng;machining;0;0;0
+加剧;jiājù;exacerbate;0;0;0
+佳肴;jiāyáo;Delicacy;0;0;0
+夹杂;jiāzá;Inclusion;0;0;0
+假设;jiǎshè;in case of;0;0;0
+假使;jiǎshǐ;If;0;0;0
+坚定;jiāndìng;Firm, steadfast;0;0;0
+坚固;jiāngù;strong;0;0;0
+坚韧;jiānrèn;gritty;0;0;0
+坚实;jiānshí;solid;0;0;0
+坚硬;jiānyìng;hard;0;0;0
+监督;jiāndū;supervise;0;0;0
+监视;jiānshì;Monitor;0;0;0
+监狱;jiānyù;Prison;0;0;0
+尖端;jiānduān;top end;0;0;0
+艰难;jiānnán;difficult;0;0;0
+兼职;jiānzhí;Part-time job;0;0;0
+拣;jiǎn;Pick;0;0;0
+捡;jiǎn;pick up;0;0;0
+剪彩;jiǎncǎi;Ribbon-cutting;0;0;0
+检讨;jiǎntǎo;A review;0;0;0
+检验;jiǎnyàn;test;0;0;0
+简化;jiǎnhuà;predigest;0;0;0
+简陋;jiǎnlòu;simple and crude;0;0;0
+简体字;jiǎntǐzì;simplified character;0;0;0
+简要;jiǎnyào;in brief;0;0;0
+鉴别;jiànbié;differentiate;0;0;0
+鉴定;jiàndìng;Appraisal;0;0;0
+鉴于;jiànyú;In view of the fact that;0;0;0
+间谍;jiàndié;espionage;0;0;0
+间隔;jiàngé;interval;0;0;0
+间接;jiànjiē;indirect;0;0;0
+见多识广;jiànduōshíguǎng;Have great experience;0;0;0
+见解;jiànjiě;Opinion;0;0;0
+见闻;jiànwén;Informative;0;0;0
+见义勇为;jiànyìyǒngwéi;Do boldly what is righteous;0;0;0
+健全;jiànquán;sound;0;0;0
+践踏;jiàntà;override;0;0;0
+舰艇;jiàntǐng;Naval vessels;0;0;0
+将近;jiāngjìn;nearly;0;0;0
+将军;jiāngjūn;General;0;0;0
+僵硬;jiāngyìng;stiff;0;0;0
+桨;jiǎng;propeller;0;0;0
+讲;jiǎng;speak;0;0;0
+奖励;jiǎnglì;reward;0;0;0
+奖赏;jiǎngshǎng;reward;0;0;0
+降临;jiànglín;become of;0;0;0
+交叉;jiāochā;intercross;0;0;0
+交代;jiāodài;hand over;0;0;0
+交涉;jiāoshè;Negotiate;0;0;0
+交往;jiāowǎng;affiliate with;0;0;0
+交易;jiāoyì;transaction;0;0;0
+焦点;jiāodiǎn;focus;0;0;0
+焦急;jiāojí;anxious;0;0;0
+娇气;jiāoqì;effeminate;0;0;0
+角落;jiǎoluò;corner;0;0;0
+搅拌;jiǎobàn;mix up;0;0;0
+缴纳;jiǎonà;Pay;0;0;0
+教养;jiàoyǎng;train;0;0;0
+较量;jiàoliàng;Contest;0;0;0
+皆;jiē;all;0;0;0
+接;jiē;meet， pick;0;0;0
+接连;jiēlián;One after another;0;0;0
+阶层;jiēcéng;stratum;0;0;0
+揭发;jiēfā;Expose;0;0;0
+揭露;jiēlù;Expose;0;0;0
+节奏;jiézòu;rhythm;0;0;0
+杰出;jiéchū;outstanding;0;0;0
+结晶;jiéjīng;result;0;0;0
+结局;jiéjú;Ending;0;0;0
+结算;jiésuàn;Settlement;0;0;0
+竭尽全力;jiéjìnquánlì;Strain every nerve;0;0;0
+截至;jiézhì;By (time）;0;0;0
+解除;jiěchú;Relieve;0;0;0
+解雇;jiěgù;fire;0;0;0
+解剖;jiěpōu;anatomy;0;0;0
+解散;jiěsàn;dissolution;0;0;0
+解体;jiětǐ;Disintegrate;0;0;0
+借鉴;jièjiàn;take example by;0;0;0
+借助;jièzhù;With the help of;0;0;0
+戒备;jièbèi;Alert;0;0;0
+界限;jièxiàn;limit;0;0;0
+津津有味;jīnjīnyǒuwèi;Eat with appetite;0;0;0
+金融;jīnróng;Finance;0;0;0
+紧密;jǐnmì;Close together;0;0;0
+紧迫;jǐnpò;urgent;0;0;0
+尽快;jǐnkuài;as soon as possible;0;0;0
+锦绣前程;jǐnxiùqiánchéng;Bright future;0;0;0
+进;jìn;enter;0;0;0
+进而;jìn'ér;and then;0;0;0
+进攻;jìngōng;attack;0;0;0
+进化;jìnhuà;evolution;0;0;0
+进展;jìnzhǎn;evolve;0;0;0
+近来;jìnlái;recently;0;0;0
+近视;jìnshì;myopia;0;0;0
+浸泡;jìnpào;soak;0;0;0
+晋升;jìnshēng;Promotion;0;0;0
+劲头;jìntóu;Momentum;0;0;0
+精打细算;jīngdǎxìsuàn;pinch pennies;0;0;0
+精华;jīnghuá;elite;0;0;0
+精简;jīngjiǎn;simplify;0;0;0
+精密;jīngmì;exact;0;0;0
+精确;jīngquè;accurate;0;0;0
+精通;jīngtōng;Master, be good at;0;0;0
+精心;jīngxīn;Elaborate;0;0;0
+精益求精;jīngyìqiújīng;keep improving;0;0;0
+精致;jīngzhì;delicate;0;0;0
+经费;jīngfèi;funds;0;0;0
+经商;jīngshāng;be in business;0;0;0
+经纬;jīngwěi;longitude and latitude;0;0;0
+惊动;jīngdòng;Disturb;0;0;0
+惊奇;jīngqí;Be surprised;0;0;0
+惊讶;jīngyà;surprised;0;0;0
+兢兢业业;jīngjīngyèyè;cautious and conscientious;0;0;0
+警告;jǐnggào;warning;0;0;0
+警惕;jǐngtì;Be vigilant;0;0;0
+颈椎;jǐngzhuī;cervical vertebra;0;0;0
+敬礼;jìnglǐ;Salute;0;0;0
+境界;jìngjiè;realm;0;0;0
+竞赛;jìngsài;competition;0;0;0
+竞选;jìngxuǎn;Campaign for;0;0;0
+镜头;jìngtóu;Camera lens;0;0;0
+纠纷;jiūfēn;dissension;0;0;0
+纠正;jiūzhèng;correct;0;0;0
+酒精;jiǔjīng;alcohol;0;0;0
+旧;jiù;used;0;0;0
+救;jiù;save;0;0;0
+救济;jiùjì;redress;0;0;0
+就近;jiùjìn;Nearby;0;0;0
+就业;jiùyè;take up an occupation;0;0;0
+就职;jiùzhí;Inauguration;0;0;0
+鞠躬;jūgōng;Bow;0;0;0
+拘留;jūliú;detain;0;0;0
+拘束;jūshù;constrained;0;0;0
+居住;jūzhù;live;0;0;0
+局部;júbù;local;0;0;0
+局面;júmiàn;situation;0;0;0
+局势;júshì;Situation;0;0;0
+局限;júxiàn;limit;0;0;0
+举动;jǔdòng;Move;0;0;0
+举世闻名;jǔshìwénmíng;of world known;0;0;0
+举世瞩目;jǔshìzhǔmù;attract worldwide attention;0;0;0
+举足轻重;jǔzúqīngzhòng;Play a decisive role;0;0;0
+咀嚼;jǔjué;Chew;0;0;0
+沮丧;jǔsàng;depressed;0;0;0
+剧本;jùběn;Script;0;0;0
+剧烈;jùliè;Severe;0;0;0
+聚精会神;jùjīnghuìshén;Concentrate one's attention on;0;0;0
+据悉;jùxī;it is reported;0;0;0
+决策;juécè;make policy;0;0;0
+觉悟;juéwù;consciousness;0;0;0
+觉醒;juéxǐng;rouse;0;0;0
+绝望;juéwàng;Despair;0;0;0
+军队;jūnduì;army;0;0;0
+卡通;kǎtōng;Cartoon;0;0;0
+开;kāi;open;0;0;0
+开采;kāicǎi;exploit (mine);0;0;0
+开除;kāichú;Expel;0;0;0
+开阔;kāikuò;open;0;0;0
+开朗;kāilǎng;Optimistic;0;0;0
+开明;kāimíng;enlightened;0;0;0
+开辟;kāipì;open up;0;0;0
+开水;kāishuǐ;Boiling water;0;0;0
+开拓;kāituò;open up;0;0;0
+开展;kāizhǎn;Develop;0;0;0
+开支;kāizhī;expenditure;0;0;0
+刊登;kāndēng;publish in a newspaper;0;0;0
+刊物;kānwù;Publication;0;0;0
+勘探;kāntàn;prospect for;0;0;0
+看待;kàndài;To view;0;0;0
+看望;kànwàng;visit;0;0;0
+慷慨;kāngkǎi;generous;0;0;0
+扛;káng;Carry;0;0;0
+考察;kǎochá;Investigate;0;0;0
+考古;kǎogǔ;Archaeology;0;0;0
+考核;kǎohé;examine;0;0;0
+考验;kǎoyàn;test;0;0;0
+靠拢;kàolǒng;Close to;0;0;0
+棵;kē;Tree (measure word);0;0;0
+磕;kē;Knock;0;0;0
+颗;kē;grain (measure word);0;0;0
+颗粒;kēlì;Grain;0;0;0
+科目;kēmù;Subject;0;0;0
+渴望;kěwàng;Yearn;0;0;0
+可观;kěguān;considerable;0;0;0
+可口;kěkǒu;Delicious;0;0;0
+可恶;kěwù;loathsome;0;0;0
+可笑;kěxiào;ridiculous;0;0;0
+可行;kěxíng;feasible;0;0;0
+刻不容缓;kèbùrónghuǎn;Brook no delay;0;0;0
+课题;kètí;topic;0;0;0
+克;kè;gram;0;0;0
+客户;kèhù;Customer;0;0;0
+恳切;kěnqiè;fair-spoken;0;0;0
+坑;kēng;pit;0;0;0
+空洞;kōngdòng;empty;0;0;0
+空前绝后;kōngqiánjuéhòu;Unprecedented;0;0;0
+空想;kōngxiǎng;escapism;0;0;0
+空虚;kōngxū;vain;0;0;0
+恐吓;kǒnghè;intimidate;0;0;0
+恐惧;kǒngjù;Fear;0;0;0
+空白;kòngbái;blank;0;0;0
+空隙;kòngxì;interspaced;0;0;0
+口气;kǒuqì;tone;0;0;0
+口腔;kǒuqiāng;mouth;0;0;0
+口头;kǒutóu;oral;0;0;0
+口音;kǒuyīn;accent;0;0;0
+哭;kū;cry;0;0;0
+枯竭;kūjié;Exhausted;0;0;0
+枯燥;kūzào;Boring;0;0;0
+苦;kǔ;bitter;0;0;0
+苦尽甘来;kǔjìngānlái;All sufferings have their reward;0;0;0
+夸;kuā;boast, praise;0;0;0
+挎;kuà;carry on the arm;0;0;0
+跨;kuà;Cross;0;0;0
+块;kuài;block;0;0;0
+快;kuài;fast;0;0;0
+快活;kuàihuo;happy;0;0;0
+宽敞;kuānchang;spacious;0;0;0
+款待;kuǎndài;Entertain;0;0;0
+款式;kuǎnshì;style;0;0;0
+筐;kuāng;basket;0;0;0
+旷课;kuàngkè;Absenteeism;0;0;0
+框架;kuàngjià;frame;0;0;0
+况且;kuàngqiě;moreover;0;0;0
+亏待;kuīdài;Treat;0;0;0
+亏损;kuīsǔn;loss;0;0;0
+昆虫;kūnchóng;insect;0;0;0
+捆绑;kǔnbǎng;binding;0;0;0
+困;kùn;sleepy;0;0;0
+扩充;kuòchōng;extend;0;0;0
+扩散;kuòsàn;spread;0;0;0
+扩张;kuòzhāng;expand;0;0;0
+喇叭;lǎba;horn;0;0;0
+辣;là;hot, spicy;0;0;0
+来历;láilì;Origin;0;0;0
+来源;láiyuán;source;0;0;0
+栏目;lánmù;column;0;0;0
+懒;lǎn;lazy;0;0;0
+懒惰;lǎnduò;lazy;0;0;0
+烂;làn;rotten;0;0;0
+狼;láng;wolf;0;0;0
+狼狈;lángbèi;in sore straits;0;0;0
+朗读;lǎngdú;Reading aloud;0;0;0
+唠叨;láodao;To nag;0;0;0
+牢固;láogù;solid;0;0;0
+牢骚;láosāo;Complain;0;0;0
+老;lǎo;old;0;0;0
+乐趣;lèqù;pleasure;0;0;0
+乐意;lèyì;Happy;0;0;0
+了;le;;0;0;0
+雷;léi;Thunder;0;0;0
+雷达;léidá;radar;0;0;0
+累;lèi;tired;0;0;0
+类;lèi;class;0;0;0
+类似;lèisì;Similar;0;0;0
+冷;lěng;cold;0;0;0
+冷淡;lěngdàn;cool attitude;0;0;0
+冷酷;lěngkù;cool;0;0;0
+冷却;lěngquè;cooling;0;0;0
+愣;lèng;distracted;0;0;0
+梨;lí;pear;0;0;0
+离;lí;leave;0;0;0
+黎明;límíng;Dawn;0;0;0
+里;lǐ;in;0;0;0
+里程碑;lǐchéngbēi;Milepost;0;0;0
+礼节;lǐjié;etiquette;0;0;0
+理睬;lǐcǎi;Acknowledge;0;0;0
+理所当然;lǐsuǒdāngrán;go without saying;0;0;0
+理直气壮;lǐzhíqìzhuàng;one is assured and bold with justice;0;0;0
+理智;lǐzhì;reasonable;0;0;0
+粒;lì;grain (measure word);0;0;0
+立场;lìchǎng;position;0;0;0
+立交桥;lìjiāoqiáo;Overpass;0;0;0
+立体;lìtǐ;Three-dimensional;0;0;0
+立足;lìzú;Based on the;0;0;0
+历代;lìdài;past dynasties;0;0;0
+历来;lìlái;always;0;0;0
+利害;lìhài;Interest;0;0;0
+利率;lìlǜ;interest rate;0;0;0
+力所能及;lìsuǒnéngjí;Do everything in one's power;0;0;0
+力图;lìtú;Try to;0;0;0
+力争;lìzhēng;Strive to;0;0;0
+例外;lìwài;exception;0;0;0
+连年;liánnián;in successive years;0;0;0
+连锁;liánsuǒ;chain;0;0;0
+连同;liántóng;together with;0;0;0
+联欢;liánhuān;Gala;0;0;0
+联络;liánluò;liaison;0;0;0
+联盟;liánméng;union;0;0;0
+联想;liánxiǎng;association;0;0;0
+廉洁;liánjié;uncorrupted;0;0;0
+良心;liángxīn;conscience;0;0;0
+晾;liàng;Dry;0;0;0
+谅解;liàngjiě;understanding;0;0;0
+辽阔;liáokuò;Vast;0;0;0
+列举;lièjǔ;list;0;0;0
+淋;lín;Shower;0;0;0
+临床;línchuáng;clinical;0;0;0
+吝啬;lìnsè;Stingy;0;0;0
+铃;líng;bell;0;0;0
+零;líng;Zero;0;0;0
+零星;língxīng;Sporadic;0;0;0
+凌晨;língchén;Before dawn;0;0;0
+灵感;línggǎn;inspiration;0;0;0
+灵魂;línghún;soul;0;0;0
+灵敏;língmǐn;sensitive;0;0;0
+伶俐;línglì;Clever;0;0;0
+领会;lǐnghuì;Understand;0;0;0
+领事馆;lǐngshìguǎn;Consulate;0;0;0
+领土;lǐngtǔ;territory;0;0;0
+领悟;lǐngwù;Understand;0;0;0
+领先;lǐngxiān;keep ahead;0;0;0
+领袖;lǐngxiù;leader;0;0;0
+留恋;liúliàn;be reluctant to leave;0;0;0
+留念;liúniàn;As a souvenir;0;0;0
+留神;liúshén;Watch;0;0;0
+流浪;liúlàng;lead a vagrant life;0;0;0
+流露;liúlù;reveal;0;0;0
+流氓;liúmáng;rogue;0;0;0
+流通;liútōng;circulation;0;0;0
+聋哑;lóngyǎ;Deaf-mute;0;0;0
+隆重;lóngzhòng;ceremonious;0;0;0
+垄断;lǒngduàn;monopoly;0;0;0
+笼罩;lǒngzhào;Shrouded;0;0;0
+楼;lóu;floor;0;0;0
+搂;lǒu;Hug;0;0;0
+漏;lòu;leak;0;0;0
+炉灶;lúzào;A kitchen stove;0;0;0
+路;lù;road;0;0;0
+露;lù;dew;0;0;0
+轮船;lúnchuán;Ship;0;0;0
+轮廓;lúnkuò;outline;0;0;0
+轮胎;lúntāi;tyre;0;0;0
+论坛;lùntán;forum;0;0;0
+论证;lùnzhèng;Demonstration;0;0;0
+啰唆;luōsuo;troublesome, wordy;0;0;0
+螺丝钉;luósīdīng;Screw;0;0;0
+落成;luòchéng;Completion;0;0;0
+落实;luòshí;put into effect;0;0;0
+络绎不绝;luòyìbùjué;Go and fro in constant streams;0;0;0
+屡次;lǚcì;Repeatedly;0;0;0
+履行;lǚxíng;Perform;0;0;0
+掠夺;lüèduó;plunder;0;0;0
+略微;lüèwēi;slightly;0;0;0
+麻痹;mábì;lull;0;0;0
+麻木;mámù;numbness;0;0;0
+麻醉;mázuì;narcosis;0;0;0
+马;mǎ;Horse;0;0;0
+码头;mǎtóu;wharf;0;0;0
+骂;mà;scold;0;0;0
+吗;ma;;0;0;0
+埋伏;máifú;Ambush;0;0;0
+埋没;máimò;immerse oneself in;0;0;0
+埋葬;máizàng;bury;0;0;0
+脉搏;màibó;pulse;0;0;0
+埋怨;mányuàn;Complain;0;0;0
+满;mǎn;full;0;0;0
+慢性;mànxìng;chronic;0;0;0
+漫长;màncháng;Very long;0;0;0
+漫画;mànhuà;Cartoon;0;0;0
+蔓延;mànyán;spread;0;0;0
+忙碌;mánglù;Be busy;0;0;0
+茫茫;mángmáng;vast;0;0;0
+茫然;mángrán;Blank;0;0;0
+盲目;mángmù;blind;0;0;0
+猫;māo;cat;0;0;0
+毛;máo;hair;0;0;0
+冒充;màochōng;Posing;0;0;0
+茂盛;màoshèng;Lush;0;0;0
+没辙;méizhé;have no idea;0;0;0
+媒介;méijiè;agent;0;0;0
+媒体;méitǐ;media;0;0;0
+美观;měiguān;Beautiful;0;0;0
+美满;měimǎn;happy;0;0;0
+美妙;měimiào;wonderful;0;0;0
+门诊;ménzhěn;Outpatient Department;0;0;0
+蒙;méng;cover, encounter;0;0;0
+萌芽;méngyá;bud;0;0;0
+猛烈;měngliè;violent;0;0;0
+梦;mèng;dream;0;0;0
+梦想;mèngxiǎng;Dream;0;0;0
+眯;mī;take a nap;0;0;0
+弥补;míbǔ;remedy;0;0;0
+弥漫;mímàn;permeate;0;0;0
+迷惑;míhuò;puzzle;0;0;0
+迷人;mírén;charming;0;0;0
+迷失;míshī;maze;0;0;0
+迷信;míxìn;superstition;0;0;0
+密度;mìdù;density;0;0;0
+密封;mìfēng;Seal up;0;0;0
+免得;miǎndé;lest;0;0;0
+免疫;miǎnyì;immune;0;0;0
+勉励;miǎnlì;Encourage;0;0;0
+勉强;miǎnqiǎng;reluctantly;0;0;0
+面貌;miànmào;face;0;0;0
+面子;miànzi;prestige;0;0;0
+描绘;miáohuì;describe;0;0;0
+渺小;miǎoxiǎo;Tiny;0;0;0
+蔑视;mièshì;disparage;0;0;0
+灭亡;mièwáng;perish;0;0;0
+民间;mínjiān;nongovernmental;0;0;0
+民用;mínyòng;civil;0;0;0
+敏感;mǐngǎn;Sensitive;0;0;0
+敏捷;mǐnjié;agile;0;0;0
+敏锐;mǐnruì;keen;0;0;0
+明明;míngmíng;Obviously;0;0;0
+名次;míngcì;Ranking;0;0;0
+名额;míng'é;Places;0;0;0
+名副其实;míngfùqíshí;Be worthy of the name;0;0;0
+名誉;míngyù;reputation;0;0;0
+命名;mìngmíng;call;0;0;0
+摸索;mōsuǒ;fumble;0;0;0
+膜;mó;membrane;0;0;0
+摩擦;mócā;rub;0;0;0
+磨合;móhé;running-in;0;0;0
+模范;mófàn;model;0;0;0
+模式;móshì;mode;0;0;0
+模型;móxíng;Model;0;0;0
+魔鬼;móguǐ;devil;0;0;0
+魔术;móshù;Magic;0;0;0
+抹杀;mǒshā;write off;0;0;0
+莫名其妙;mòmíng-qímiào;without rhyme or reason;0;0;0
+默默;mòmò;silently;0;0;0
+墨水儿;mòshuǐr;book learning;0;0;0
+谋求;móuqiú;seek;0;0;0
+模样;múyàng;Appearance;0;0;0
+母语;mǔyǔ;Mother tongue;0;0;0
+目睹;mùdǔ;witness;0;0;0
+目光;mùguāng;Eye;0;0;0
+沐浴;mùyù;Bath;0;0;0
+拿手;náshǒu;Good;0;0;0
+纳闷儿;nàmènr;feel puzzle;0;0;0
+耐用;nàiyòng;durable;0;0;0
+南;nán;south;0;0;0
+难;nán;disaster;0;0;0
+难得;nándé;rare;0;0;0
+难堪;nánkān;Embarrassed;0;0;0
+难免;nánmiǎn;Unavoidable;0;0;0
+难能可贵;nánnéngkěguì;Praiseworthy for one's excellent conduct;0;0;0
+恼火;nǎohuǒ;angry;0;0;0
+内涵;nèihán;connotation;0;0;0
+内幕;nèimù;Insider;0;0;0
+内在;nèizài;inherent;0;0;0
+嫩;nèn;tender;0;0;0
+能;néng;can;0;0;0
+能量;néngliàng;energy;0;0;0
+拟定;nǐdìng;study out;0;0;0
+年;nián;year;0;0;0
+年度;niándù;year;0;0;0
+凝固;nínggù;freezing;0;0;0
+凝聚;níngjù;condensation;0;0;0
+凝视;níngshì;gaze;0;0;0
+宁肯;nìngkěn;would rather than;0;0;0
+宁愿;nìngyuàn;would rather;0;0;0
+纽扣儿;niǔkòur;button;0;0;0
+扭转;niǔzhuǎn;Reverse;0;0;0
+浓;nóng;strong;0;0;0
+浓厚;nónghòu;dense;0;0;0
+农历;nónglì;Lunar calendar;0;0;0
+奴隶;núlì;slave;0;0;0
+虐待;nüèdài;To abuse;0;0;0
+哦;o;Oh;0;0;0
+殴打;ōudǎ;beat up;0;0;0
+呕吐;ǒutù;vomit;0;0;0
+趴;pā;Lie;0;0;0
+排斥;páichì;exclude;0;0;0
+排除;páichú;eliminate;0;0;0
+排放;páifàng;discharge;0;0;0
+徘徊;páihuái;wander;0;0;0
+派;pài;send;0;0;0
+派别;pàibié;faction;0;0;0
+派遣;pàiqiǎn;send;0;0;0
+攀登;pāndēng;Climb;0;0;0
+盘旋;pánxuán;convolute;0;0;0
+判决;pànjué;Sentence;0;0;0
+庞大;pángdà;enormous;0;0;0
+胖;pàng;fat;0;0;0
+抛弃;pāoqì;throw over;0;0;0
+泡沫;pàomò;bubble;0;0;0
+培训;péixùn;Train;0;0;0
+培育;péiyù;Cultivation;0;0;0
+配备;pèibèi;Equipment;0;0;0
+配偶;pèi'ǒu;consort;0;0;0
+配套;pèitào;form a complete set;0;0;0
+盆地;péndì;basin;0;0;0
+烹饪;pēngrèn;cooking;0;0;0
+批发;pīfā;wholesale;0;0;0
+批判;pīpàn;critique;0;0;0
+疲惫;píbèi;tired out;0;0;0
+疲倦;píjuàn;Tired;0;0;0
+皮革;pígé;leather;0;0;0
+屁股;pìgu;Butt;0;0;0
+譬如;pìrú;for example;0;0;0
+篇;piān;piece;0;0;0
+偏差;piānchā;error;0;0;0
+偏见;piānjiàn;prejudice;0;0;0
+偏僻;piānpì;out of the way;0;0;0
+偏偏;piānpiān;Just;0;0;0
+片断;piànduàn;Fragment;0;0;0
+片刻;piànkè;a while;0;0;0
+飘;piāo;gone with the wind;0;0;0
+飘扬;piāoyáng;Flying;0;0;0
+漂浮;piāofú;Float;0;0;0
+票;piào;ticket;0;0;0
+拼搏;pīnbó;go all out in work;0;0;0
+拼命;pīnmìng;Try my best;0;0;0
+频繁;pínfán;frequently;0;0;0
+频率;pínlǜ;frequency;0;0;0
+贫乏;pínfá;poor;0;0;0
+贫困;pínkùn;Poor;0;0;0
+品尝;pǐncháng;Taste;0;0;0
+品德;pǐndé;Character;0;0;0
+品行;pǐnxíng;conduct;0;0;0
+品质;pǐnzhì;quality;0;0;0
+平凡;píngfán;ordinary;0;0;0
+平面;píngmiàn;plane;0;0;0
+平坦;píngtǎn;flat;0;0;0
+平行;píngxíng;Parallel;0;0;0
+平原;píngyuán;plain;0;0;0
+评估;pínggū;evaluate;0;0;0
+评论;pínglùn;comment;0;0;0
+屏障;píngzhàng;wall;0;0;0
+破例;pòlì;Make an exception;0;0;0
+迫不及待;pòbùjídài;Unable to hold oneself back;0;0;0
+迫害;pòhài;persecution;0;0;0
+魄力;pòlì;Courage;0;0;0
+扑;pū;Flutter;0;0;0
+铺;pū;spread;0;0;0
+普及;pǔjí;Universal;0;0;0
+朴实;pǔshí;simple;0;0;0
+瀑布;pùbù;Waterfall;0;0;0
+七;qī;Seven;0;0;0
+期望;qīwàng;Expect;0;0;0
+期限;qīxiàn;term;0;0;0
+欺负;qīfu;bully;0;0;0
+欺骗;qīpiàn;Deception;0;0;0
+凄凉;qīliáng;Desolate;0;0;0
+奇妙;qímiào;wonderful;0;0;0
+旗袍;qípáo;cheongsam;0;0;0
+旗帜;qízhì;flag;0;0;0
+齐全;qíquán;complete;0;0;0
+齐心协力;qíxīn-xiélì;Make concerted efforts;0;0;0
+歧视;qíshì;discrimination;0;0;0
+起草;qǐcǎo;Draft;0;0;0
+起初;qǐchū;at first;0;0;0
+起伏;qǐfú;undulate;0;0;0
+起哄;qǐhòng;kick up a row;0;0;0
+起码;qǐmǎ;Minimum, at least;0;0;0
+起义;qǐyì;Uprising;0;0;0
+起源;qǐyuán;origin;0;0;0
+启程;qǐchéng;set out;0;0;0
+启示;qǐshì;enlightenment;0;0;0
+启事;qǐshì;Notice;0;0;0
+乞丐;qǐgài;Beggar;0;0;0
+岂有此理;qǐyǒu-cǐlǐ;outrageous;0;0;0
+器材;qìcái;equipment;0;0;0
+器官;qìguān;organ;0;0;0
+气概;qìgài;Spirit;0;0;0
+气功;qìgōng;Qigong (a system of breathing technique);0;0;0
+气魄;qìpò;Verve;0;0;0
+气色;qìsè;Look;0;0;0
+气势;qìshì;vigor;0;0;0
+气味;qìwèi;smell;0;0;0
+气象;qìxiàng;Meteorological;0;0;0
+气压;qìyā;pressure;0;0;0
+迄今为止;qìjīn-wéizhǐ;So far;0;0;0
+恰当;qiàdàng;appropriate;0;0;0
+恰到好处;qiàdàohǎochù;just right;0;0;0
+恰巧;qiàqiǎo;Just;0;0;0
+洽谈;qiàtán;talk over with;0;0;0
+牵;qiān;Pull;0;0;0
+牵扯;qiānchě;Involved;0;0;0
+牵制;qiānzhì;hold down;0;0;0
+千;qiān;thousand;0;0;0
+千方百计;qiānfāng-bǎijì;Make every attempt;0;0;0
+签订;qiāndìng;conclude and sign;0;0;0
+签署;qiānshǔ;sign;0;0;0
+迁就;qiānjiù;indulge;0;0;0
+迁徙;qiānxǐ;migrate;0;0;0
+谦逊;qiānxùn;Modest;0;0;0
+钱;qián;money;0;0;0
+前景;qiánjǐng;prospect;0;0;0
+前提;qiántí;precondition;0;0;0
+潜力;qiánlì;potential;0;0;0
+潜水;qiánshuǐ;Diving;0;0;0
+潜移默化;qiányí-mòhuà;Influence character by environment;0;0;0
+浅;qiǎn;shallow;0;0;0
+谴责;qiǎnzé;condemn;0;0;0
+强制;qiángzhì;force;0;0;0
+抢劫;qiǎngjié;Robbery;0;0;0
+抢救;qiǎngjiù;rescue;0;0;0
+强迫;qiǎngpò;Force;0;0;0
+敲;qiāo;knock;0;0;0
+桥梁;qiáoliáng;bridge;0;0;0
+锲而不舍;qiè'érbùshě;Keep on carving;0;0;0
+切实;qièshí;practical;0;0;0
+亲热;qīnrè;Affectionate;0;0;0
+亲身;qīnshēn;Personally;0;0;0
+侵犯;qīnfàn;Violation;0;0;0
+钦佩;qīnpèi;admire;0;0;0
+勤俭;qínjiǎn;hardworking and thrifty;0;0;0
+勤恳;qínkěn;earnest and assiduous;0;0;0
+轻而易举;qīng'éryìjǔ;It 's a piece of cake;0;0;0
+清澈;qīngchè;clear;0;0;0
+清晨;qīngchén;Early morning;0;0;0
+清除;qīngchú;Eliminate;0;0;0
+清洁;qīngjié;clean;0;0;0
+清理;qīnglǐ;Clear;0;0;0
+清晰;qīngxī;clear;0;0;0
+清醒;qīngxǐng;Sober;0;0;0
+清真;qīngzhēn;Muslim;0;0;0
+倾听;qīngtīng;Listen for;0;0;0
+倾向;qīngxiàng;inclination;0;0;0
+倾斜;qīngxié;tilt;0;0;0
+晴;qíng;Sunny;0;0;0
+晴朗;qínglǎng;sunny;0;0;0
+情报;qíngbào;intelligence;0;0;0
+情节;qíngjié;plot;0;0;0
+情理;qínglǐ;Reason;0;0;0
+情形;qíngxíng;Situation;0;0;0
+请柬;qǐngjiǎn;Invitation card;0;0;0
+请教;qǐngjiào;Consult;0;0;0
+请示;qǐngshì;For instructions;0;0;0
+请帖;qǐngtiě;Invitation;0;0;0
+丘陵;qiūlíng;hill;0;0;0
+区分;qūfēn;Distinguish;0;0;0
+区域;qūyù;region;0;0;0
+屈服;qūfú;submit;0;0;0
+曲折;qūzhé;Tortuous;0;0;0
+驱逐;qūzhú;drive out;0;0;0
+渠道;qúdào;channel;0;0;0
+娶;qǔ;get married to;0;0;0
+取;qǔ;take;0;0;0
+取缔;qǔdì;Ban;0;0;0
+曲子;qǔzi;Tune;0;0;0
+去;qù;go;0;0;0
+趣味;qùwèi;Interest;0;0;0
+圈;quān;circle;0;0;0
+圈套;quāntào;trap;0;0;0
+全局;quánjú;Overall situation;0;0;0
+全力以赴;quánlìyǐfù;do one's level best;0;0;0
+权衡;quánhéng;Balance;0;0;0
+权威;quánwēi;authority;0;0;0
+权益;quányì;Rights and interests;0;0;0
+拳头;quántou;fist;0;0;0
+犬;quǎn;dog;0;0;0
+劝;quàn;persuade;0;0;0
+缺口;quēkǒu;breach;0;0;0
+缺席;quēxí;Absent;0;0;0
+缺陷;quēxiàn;defect;0;0;0
+瘸;qué;Lame;0;0;0
+却;què;but;0;0;0
+确保;quèbǎo;ensure;0;0;0
+确立;quèlì;establish;0;0;0
+确切;quèqiè;exact;0;0;0
+确信;quèxìn;Sure;0;0;0
+群;qún;group;0;0;0
+群众;qúnzhòng;The masses;0;0;0
+让步;ràngbù;give in;0;0;0
+饶恕;ráoshù;Forgive;0;0;0
+扰乱;rǎoluàn;Disturb;0;0;0
+绕;rào;Around;0;0;0
+惹祸;rěhuò;Trouble;0;0;0
+热;rè;heat;0;0;0
+热泪盈眶;rèlèi-yíngkuàng;one's eyes brimming with tears;0;0;0
+热门;rèmén;Hot;0;0;0
+人道;réndào;Humanity;0;0;0
+人格;réngé;personality;0;0;0
+人工;réngōng;artificial;0;0;0
+人家;rénjiā;family;0;0;0
+人间;rénjiān;Human world;0;0;0
+人士;rénshì;Personage;0;0;0
+人为;rénwéi;artificial;0;0;0
+人性;rénxìng;human nature;0;0;0
+人质;rénzhì;Hostage;0;0;0
+仁慈;réncí;Kind;0;0;0
+忍耐;rěnnài;Exercise patience;0;0;0
+忍受;rěnshòu;bear;0;0;0
+认定;rèndìng;cognizance;0;0;0
+认可;rènkě;certificate;0;0;0
+任命;rènmìng;Appointment;0;0;0
+任性;rènxìng;Wayward;0;0;0
+任意;rènyì;Arbitrarily;0;0;0
+任重道远;rènzhòng-dàoyuǎn;Take a heavy burden and embark on a long road;0;0;0
+扔;rēng;throw;0;0;0
+仍旧;réngjiù;still;0;0;0
+日新月异;rìxīn-yuèyì;Change rapidly;0;0;0
+日益;rìyì;increasingly;0;0;0
+融洽;róngqià;harmonious;0;0;0
+溶解;róngjiě;dissolve;0;0;0
+容貌;róngmào;appearance;0;0;0
+容纳;róngnà;accommodate;0;0;0
+容器;róngqì;container;0;0;0
+容忍;róngrěn;tolerate;0;0;0
+揉;róu;Knead;0;0;0
+柔和;róuhé;soft;0;0;0
+软;ruǎn;soft;0;0;0
+弱;ruò;weak;0;0;0
+弱点;ruòdiǎn;weakness;0;0;0
+若干;ruògān;a certain number or amount;0;0;0
+撒谎;sāhuǎng;Lie;0;0;0
+洒;sǎ;sprinkle;0;0;0
+腮;sāi;Cheek;0;0;0
+三;sān;Three;0;0;0
+三角;sānjiǎo;triangle;0;0;0
+伞;sǎn;umbrella;0;0;0
+散文;sǎnwén;Prose;0;0;0
+散布;sànbù;spread;0;0;0
+散发;sànfā;Emission;0;0;0
+丧失;sàngshī;lose;0;0;0
+嫂子;sǎozi;Sister-in-law;0;0;0
+色彩;sècǎi;color;0;0;0
+刹车;shāchē;brake;0;0;0
+筛选;shāixuǎn;screen;0;0;0
+晒;shài;The sun;0;0;0
+山脉;shānmài;Mountain range;0;0;0
+闪烁;shǎnshuò;Twinkle;0;0;0
+擅长;shàncháng;Be good at;0;0;0
+擅自;shànzì;do sth, without authorization;0;0;0
+商标;shāngbiāo;trademark;0;0;0
+伤脑筋;shāngnǎojīn;troublesome;0;0;0
+上级;shàngjí;Superior;0;0;0
+上进心;shàngjìnxīn;Desire to advance;0;0;0
+上任;shàngrèn;take up an official post;0;0;0
+上瘾;shàngyǐn;Addiction;0;0;0
+上游;shàngyóu;Upper reaches;0;0;0
+捎;shāo;take along sth. to sb;0;0;0
+梢;shāo;end;0;0;0
+奢侈;shēchǐ;luxurious;0;0;0
+蛇;shé;snake;0;0;0
+设立;shèlì;Establish;0;0;0
+设想;shèxiǎng;imagine， conceive;0;0;0
+设置;shèzhì;Set up;0;0;0
+社区;shèqū;Community;0;0;0
+涉及;shèjí;Involve;0;0;0
+摄取;shèqǔ;absorb;0;0;0
+摄氏度;shèshìdù;Centigrade;0;0;0
+深奥;shēn'ào;profound;0;0;0
+深沉;shēnchén;deep;0;0;0
+深情厚谊;shēnqíng-hòuyì;Profound sentiments of friendship;0;0;0
+申报;shēnbào;declare;0;0;0
+绅士;shēnshì;gentleman;0;0;0
+呻吟;shēnyín;moan;0;0;0
+神奇;shénqí;Magical;0;0;0
+神气;shénqì;Air, expression;0;0;0
+神情;shénqíng;Look;0;0;0
+神色;shénsè;expression;0;0;0
+神圣;shénshèng;sacred;0;0;0
+神态;shéntài;expression;0;0;0
+神仙;shénxiān;supernatural being;0;0;0
+审查;shěnchá;Examination;0;0;0
+审理;shěnlǐ;hear;0;0;0
+审美;shěnměi;taste;0;0;0
+审判;shěnpàn;Trial;0;0;0
+渗透;shèntòu;Infiltration;0;0;0
+慎重;shènzhòng;careful;0;0;0
+升;shēng;rise;0;0;0
+生存;shēngcún;Existence;0;0;0
+生机;shēngjī;vitality;0;0;0
+生理;shēnglǐ;Physiology;0;0;0
+生疏;shēngshū;Strange;0;0;0
+生态;shēngtài;ecology;0;0;0
+生物;shēngwù;Biology;0;0;0
+生效;shēngxiào;Take effect;0;0;0
+生锈;shēngxiù;Rust;0;0;0
+生育;shēngyù;Birth;0;0;0
+牲畜;shēngchù;livestock;0;0;0
+声明;shēngmíng;statement;0;0;0
+声势;shēngshì;impetus;0;0;0
+声誉;shēngyù;reputation;0;0;0
+省会;shěnghuì;provincial capital;0;0;0
+盛产;shèngchǎn;abound in;0;0;0
+盛开;shèngkāi;In full bloom;0;0;0
+盛情;shèngqíng;boundless hospitality;0;0;0
+盛行;shèngxíng;Prevalence;0;0;0
+胜负;shèngfù;victory and defeat;0;0;0
+失误;shīwù;An error;0;0;0
+失踪;shīzōng;disappear;0;0;0
+师范;shīfàn;Normal school;0;0;0
+施加;shījiā;Exert;0;0;0
+施展;shīzhǎn;Display;0;0;0
+尸体;shītǐ;body;0;0;0
+十足;shízú;100 percent;0;0;0
+识别;shíbié;Distinguish;0;0;0
+时差;shíchā;time difference;0;0;0
+时常;shícháng;often;0;0;0
+时而;shí'ér;from time to time;0;0;0
+时光;shíguāng;time;0;0;0
+时机;shíjī;Opportunity;0;0;0
+时事;shíshì;current affairs;0;0;0
+时装;shízhuāng;fashion dress;0;0;0
+实惠;shíhuì;substantial;0;0;0
+实力;shílì;Strength;0;0;0
+实施;shíshī;Implementation;0;0;0
+实事求是;shíshìqiúshì;Seek truth from facts;0;0;0
+实质;shízhì;essence;0;0;0
+石油;shíyóu;petroleum;0;0;0
+使;shǐ;make;0;0;0
+使命;shǐmìng;Mission;0;0;0
+是非;shìfēi;right and wrong;0;0;0
+试图;shìtú;Try;0;0;0
+试验;shìyàn;test;0;0;0
+势必;shìbì;Certainly will;0;0;0
+势力;shìlì;Power;0;0;0
+世代;shìdài;generation;0;0;0
+世界观;shìjièguān;World outlook;0;0;0
+示范;shìfàn;lead the way;0;0;0
+示威;shìwēi;Demonstration;0;0;0
+示意;shìyì;hint，signal;0;0;0
+释放;shìfàng;release;0;0;0
+事故;shìgù;Accident;0;0;0
+事迹;shìjì;Deed， story;0;0;0
+事件;shìjiàn;Event;0;0;0
+事态;shìtài;situation;0;0;0
+事务;shìwù;affair;0;0;0
+事项;shìxiàng;Matter;0;0;0
+事业;shìyè;career;0;0;0
+适宜;shìyí;suitable;0;0;0
+视力;shìlì;Vision;0;0;0
+视线;shìxiàn;sight;0;0;0
+视野;shìyě;View;0;0;0
+逝世;shìshì;Death;0;0;0
+收;shōu;collect;0;0;0
+收藏;shōucáng;Collection;0;0;0
+收缩;shōusuō;shrink;0;0;0
+收益;shōuyì;income;0;0;0
+收音机;shōuyīnjī;radio;0;0;0
+手法;shǒufǎ;technique;0;0;0
+手势;shǒushì;gesture;0;0;0
+手艺;shǒuyì;craft;0;0;0
+首要;shǒuyào;chief;0;0;0
+守护;shǒuhù;Guard;0;0;0
+瘦;shòu;thin;0;0;0
+受罪;shòuzuì;Suffer;0;0;0
+授予;shòuyǔ;grant;0;0;0
+书;shū;book;0;0;0
+书法;shūfǎ;Calligraphy;0;0;0
+书籍;shūjí;book;0;0;0
+书记;shūjì;secretary;0;0;0
+书面;shūmiàn;in written form;0;0;0
+输;shū;lose;0;0;0
+舒畅;shūchàng;Happy, entirely free from worry;0;0;0
+疏忽;shūhū;neglect;0;0;0
+束缚;shùfù;Shackles;0;0;0
+树;shù;tree;0;0;0
+树立;shùlì;Establish;0;0;0
+数额;shù'é;Amount;0;0;0
+数目;shùmù;Number;0;0;0
+摔;shuāi;fall;0;0;0
+衰老;shuāilǎo;Be senile, grow old;0;0;0
+衰退;shuāituì;decline;0;0;0
+甩;shuǎi;Rejection;0;0;0
+帅;shuài;Handsome;0;0;0
+率领;shuàilǐng;Lead;0;0;0
+涮火锅;shuànhuǒguō;have hotpot;0;0;0
+双;shuāng;double;0;0;0
+双胞胎;shuāngbāotāi;Horse hooves;0;0;0
+爽快;shuǎngkuài;Frank;0;0;0
+水;shuǐ;water;0;0;0
+水利;shuǐlì;Water conservancy;0;0;0
+水龙头;shuǐlóngtóu;Water tap;0;0;0
+水泥;shuǐní;cement;0;0;0
+司法;sīfǎ;judicial;0;0;0
+司令;sīlìng;commander;0;0;0
+思念;sīniàn;miss;0;0;0
+思索;sīsuǒ;Thinking;0;0;0
+思维;sīwéi;thinking;0;0;0
+思绪;sīxù;Thoughts;0;0;0
+私自;sīzì;Secretly;0;0;0
+斯文;sīwen;Gentle;0;0;0
+死;sǐ;die;0;0;0
+死亡;sǐwáng;death;0;0;0
+四;sì;Four;0;0;0
+四肢;sìzhī;limb;0;0;0
+肆无忌惮;sìwújìdàn;Act recklessly and care for nobody;0;0;0
+饲养;sìyǎng;Raise;0;0;0
+耸;sǒng;Shrug;0;0;0
+送;sòng;give;0;0;0
+艘;sōu;ship;0;0;0
+搜索;sōusuǒ;search;0;0;0
+苏醒;sūxǐng;Wake up;0;0;0
+俗话;súhuà;common saying;0;0;0
+塑造;sùzào;Model;0;0;0
+素食主义;sùshízhǔyì;Vegetarian;0;0;0
+素质;sùzhì;quality;0;0;0
+诉讼;sùsòng;litigation;0;0;0
+酸;suān;acid;0;0;0
+算;suàn;count;0;0;0
+算了;suànle;Forget it;0;0;0
+算数;suànshù;Count;0;0;0
+随即;suíjí;immediately;0;0;0
+随身;suíshēn;Carry on;0;0;0
+随手;suíshǒu;Readily;0;0;0
+随意;suíyì;random;0;0;0
+岁月;suìyuè;Years;0;0;0
+隧道;suìdào;Tunnel;0;0;0
+损坏;sǔnhuài;damage;0;0;0
+索赔;suǒpéi;Claim demage;0;0;0
+索性;suǒxìng;Simply;0;0;0
+他;tā;he;0;0;0
+她;tā;she;0;0;0
+它;tā;it;0;0;0
+塌;tā;collapse;0;0;0
+踏实;tāshi;earnest, steady and sure;0;0;0
+塔;tǎ;tower;0;0;0
+抬;tái;Lift;0;0;0
+台;tái;platform;0;0;0
+台风;táifēng;Typhoon;0;0;0
+太空;tàikōng;Space;0;0;0
+泰斗;tàidǒu;leading authority;0;0;0
+瘫痪;tānhuàn;paralysis;0;0;0
+贪婪;tānlán;Greedy;0;0;0
+贪污;tānwū;corruption;0;0;0
+摊儿;tānr;stall;0;0;0
+谈;tán;talk;0;0;0
+弹性;tánxìng;elastic;0;0;0
+坦白;tǎnbái;Frank;0;0;0
+探测;tàncè;Probe;0;0;0
+探索;tànsuǒ;explore;0;0;0
+探讨;tàntǎo;discuss;0;0;0
+探望;tànwàng;Visit;0;0;0
+叹气;tànqì;Sigh;0;0;0
+汤;tāng;soup;0;0;0
+糖;táng;sugar;0;0;0
+糖葫芦;tánghúlu;Tomatoes on sticks;0;0;0
+躺;tǎng;lie;0;0;0
+倘若;tǎngruò;If;0;0;0
+烫;tàng;Hot;0;0;0
+趟;tàng;Trip;0;0;0
+掏;tāo;Dig;0;0;0
+滔滔不绝;tāotāobùjué;dash along;0;0;0
+陶瓷;táocí;ceramics;0;0;0
+淘气;táoqì;naughty;0;0;0
+淘汰;táotài;eliminate;0;0;0
+讨价还价;tǎojiàhuánjià;bargain;0;0;0
+特长;tècháng;Specialty;0;0;0
+特定;tèdìng;given;0;0;0
+特色;tèsè;characteristic;0;0;0
+提拔;tíbá;elevate;0;0;0
+提炼;tíliàn;abstract;0;0;0
+提示;tíshì;hint;0;0;0
+提议;tíyì;proposal;0;0;0
+题;tí;topic;0;0;0
+题材;tícái;theme;0;0;0
+体谅;tǐliàng;understand;0;0;0
+体面;tǐmiàn;Respectable;0;0;0
+体系;tǐxì;system;0;0;0
+天才;tiāncái;genius;0;0;0
+天伦之乐;tiānlúnzhīlè;The happiness of a family union;0;0;0
+天然气;tiānránqì;Natural gas;0;0;0
+天生;tiānshēng;Born;0;0;0
+天堂;tiāntáng;heaven;0;0;0
+天文;tiānwén;Astronomy;0;0;0
+田径;tiánjìng;Athletics;0;0;0
+挑剔;tiāoti;Fastidious;0;0;0
+条;tiáo;strip;0;0;0
+条款;tiáokuǎn;clause;0;0;0
+条理;tiáolǐ;Organized;0;0;0
+条约;tiáoyuē;Treaty;0;0;0
+调和;tiáohé;Reconcile;0;0;0
+调剂;tiáojì;relief;0;0;0
+调节;tiáojié;adjust;0;0;0
+调解;tiáojiě;mediate;0;0;0
+调料;tiáoliào;Seasoning;0;0;0
+挑拨;tiǎobō;Provoke;0;0;0
+挑衅;tiǎoxìn;provocation;0;0;0
+跳跃;tiàoyuè;jump;0;0;0
+停泊;tíngbó;Anchor;0;0;0
+停顿;tíngdùn;pause;0;0;0
+停滞;tíngzhì;stagnation;0;0;0
+亭子;tíngzi;Pavilion;0;0;0
+挺;tǐng;quite;0;0;0
+挺拔;tǐngbá;Tall and straight;0;0;0
+通货膨胀;tōnghuòpéngzhàng;Inflation;0;0;0
+通俗;tōngsú;popular, common;0;0;0
+通用;tōngyòng;currency;0;0;0
+铜;tóng;copper;0;0;0
+铜矿;tóngkuàng;copper mine;0;0;0
+同胞;tóngbāo;Compatriot;0;0;0
+同志;tóngzhì;comrade;0;0;0
+童话;tónghuà;fairy tale;0;0;0
+统筹兼顾;tǒngchóujiāngù;Take into consideration both needs of the state and;0;0;0
+统计;tǒngjì;Statistics;0;0;0
+统统;tǒngtǒng;All;0;0;0
+投机;tóujī;Speculation;0;0;0
+投票;tóupiào;vote;0;0;0
+投降;tóuxiáng;surrender;0;0;0
+投掷;tóuzhì;Throw;0;0;0
+秃;tū;Bald;0;0;0
+突破;tūpò;Breach;0;0;0
+图案;tú'àn;pattern;0;0;0
+徒弟;túdì;Apprentice;0;0;0
+途径;tújìng;channel;0;0;0
+涂抹;túmǒ;Apply;0;0;0
+土壤;tǔrǎng;soil;0;0;0
+吐;tù;spit;0;0;0
+团结;tuánjié;Unite;0;0;0
+团体;tuántǐ;group;0;0;0
+团圆;tuányuán;reunion;0;0;0
+推;tuī;push;0;0;0
+推测;tuīcè;Speculation;0;0;0
+推翻;tuīfān;overthrow;0;0;0
+推理;tuīlǐ;reasoning;0;0;0
+推论;tuīlùn;inference;0;0;0
+推销;tuīxiāo;promote sales;0;0;0
+腿;tuǐ;leg;0;0;0
+退;tuì;retreat;0;0;0
+吞咽;tūnyàn;Swallow;0;0;0
+脱;tuō;take off;0;0;0
+脱离;tuōlí;Be divorced from;0;0;0
+拖延;tuōyán;delay;0;0;0
+托运;tuōyùn;Consignment;0;0;0
+妥当;tuǒdang;appropriate;0;0;0
+妥善;tuǒshàn;proper;0;0;0
+妥协;tuǒxié;compromise;0;0;0
+椭圆;tuǒyuán;Ellipse;0;0;0
+唾沫;tuòmo;Spit;0;0;0
+挖掘;wājué;Excavate;0;0;0
+娃娃;wáwa;A doll;0;0;0
+瓦解;wǎjiě;collapse;0;0;0
+歪曲;wāiqū;distort;0;0;0
+外;wài;abroad, outside;0;0;0
+外表;wàibiǎo;appearance;0;0;0
+外行;wàiháng;Layman;0;0;0
+外界;wàijiè;outside;0;0;0
+外向;wàixiàng;Extroversion;0;0;0
+弯;wān;curved;0;0;0
+丸;wán;pill;0;0;0
+完;wán;finish;0;0;0
+完备;wánbèi;complete, maturity;0;0;0
+完毕;wánbì;Complete;0;0;0
+玩弄;wánnòng;Play with;0;0;0
+玩意儿;wányìr;Thing;0;0;0
+顽固;wángù;stubborn;0;0;0
+顽强;wánqiáng;Tenacious;0;0;0
+碗;wǎn;bowl;0;0;0
+挽回;wǎnhuí;To save;0;0;0
+挽救;wǎnjiù;save;0;0;0
+惋惜;wǎnxī;Sorry;0;0;0
+万;wàn;ten thousand;0;0;0
+万分;wànfēn;Extremely;0;0;0
+往常;wǎngcháng;The usual;0;0;0
+往事;wǎngshì;Past;0;0;0
+网络;wǎngluò;network;0;0;0
+妄想;wàngxiǎng;mirage;0;0;0
+微不足道;wēibùzúdào;Not worth mentioning;0;0;0
+微观;wēiguān;Microcosmic;0;0;0
+威风;wēifēng;Prestige;0;0;0
+威力;wēilì;power;0;0;0
+威望;wēiwàng;prestige;0;0;0
+威信;wēixìn;Authority;0;0;0
+危机;wēijī;crisis;0;0;0
+违背;wéibèi;Violation;0;0;0
+维持;wéichí;maintain;0;0;0
+维生素;wéishēngsù;Vitamin;0;0;0
+维修;wéixiū;Repair;0;0;0
+唯独;wéidú;Only;0;0;0
+为难;wéinán;Embarrassed;0;0;0
+为期;wéiqī;by a definite date;0;0;0
+为首;wéishǒu;To be led by;0;0;0
+委员;wěiyuán;Committee member;0;0;0
+伪造;wěizào;Forge;0;0;0
+喂;wèi;feed;0;0;0
+胃;wèi;stomach;0;0;0
+胃口;wèikǒu;Appetite;0;0;0
+为;wèi;by;0;0;0
+位于;wèiyú;Be located;0;0;0
+未免;wèimiǎn;Rather;0;0;0
+畏惧;wèijù;Fear;0;0;0
+卫星;wèixīng;satellite;0;0;0
+慰问;wèiwèn;Condolences;0;0;0
+温带;wēndài;The temperate zone;0;0;0
+温和;wēnhé;mild;0;0;0
+文凭;wénpíng;diploma;0;0;0
+文物;wénwù;Cultural relic;0;0;0
+文献;wénxiàn;literature;0;0;0
+文雅;wényǎ;Elegant;0;0;0
+文艺;wényì;literature;0;0;0
+问世;wènshì;The advent of;0;0;0
+窝;wō;nest;0;0;0
+乌黑;wūhēi;Black;0;0;0
+污蔑;wūmiè;Slander;0;0;0
+诬陷;wūxiàn;Framed;0;0;0
+无;wú;nothing;0;0;0
+无比;wúbǐ;extremely;0;0;0
+无偿;wúcháng;for free;0;0;0
+无耻;wúchǐ;shameless;0;0;0
+无从;wúcóng;have no way;0;0;0
+无动于衷;wúdòngyúzhōng;Completely indifferent;0;0;0
+无非;wúfēi;Nothing more than;0;0;0
+无精打采;wújīngdǎcǎi;Be in the blues;0;0;0
+无可奉告;wúkěfènggào;No comment;0;0;0
+无可奈何;wúkěnàihé;Feel helpless;0;0;0
+无赖;wúlài;Rogue;0;0;0
+无理取闹;wúlǐqǔnào;Make trouble out of nothing;0;0;0
+无能为力;wúnéngwéilì;Incapable of action;0;0;0
+无穷无尽;wúqióngwújìn;Inexhaustible;0;0;0
+无微不至;wúwēibúzhì;Considerate right down to the most trivial detail;0;0;0
+无忧无虑;wúyōuwúlǜ;Be light of heart from care;0;0;0
+无知;wúzhī;ignorance;0;0;0
+舞蹈;wǔdǎo;Dance;0;0;0
+武侠;wǔxiá;Martial arts;0;0;0
+武装;wǔzhuāng;Armed forces;0;0;0
+侮辱;wǔrǔ;insult;0;0;0
+勿;wù;Not;0;0;0
+雾;wù;Fog;0;0;0
+务必;wùbì;must;0;0;0
+务实;wùshí;Pragmatic;0;0;0
+误差;wùchā;error;0;0;0
+误解;wùjiě;misunderstand;0;0;0
+物美价廉;wùměijiàlián;High quality and inexpensive;0;0;0
+物资;wùzī;goods and materials;0;0;0
+溪;xī;brook;0;0;0
+西;xī;west;0;0;0
+膝盖;xīgài;knee;0;0;0
+熄灭;xīmiè;crush out;0;0;0
+吸取;xīqǔ;Draw;0;0;0
+昔日;xīrì;The past;0;0;0
+牺牲;xīshēng;sacrifice;0;0;0
+夕阳;xīyáng;Setting sun;0;0;0
+媳妇;xífu;daughter-in-law;0;0;0
+习俗;xísú;custom;0;0;0
+袭击;xíjī;A surprise attack;0;0;0
+洗;xǐ;wash;0;0;0
+喜闻乐见;xǐwénlèjiàn;Love to see and hear;0;0;0
+喜悦;xǐyuè;Joy;0;0;0
+系;xì;department;0;0;0
+系列;xìliè;series;0;0;0
+细胞;xìbāo;Cells;0;0;0
+细菌;xìjūn;Bacteria;0;0;0
+细致;xìzhì;careful;0;0;0
+狭隘;xiá'ài;narrow and limited;0;0;0
+狭窄;xiázhǎi;Narrow;0;0;0
+峡谷;xiágǔ;Canyon;0;0;0
+吓;xià;scare;0;0;0
+夏;xià;summer;0;0;0
+夏令营;xiàlìngyíng;Summer camp;0;0;0
+下;xià;lower;0;0;0
+下属;xiàshǔ;subordinate;0;0;0
+先进;xiānjìn;advanced;0;0;0
+先前;xiānqián;previously;0;0;0
+鲜明;xiānmíng;distinct;0;0;0
+掀起;xiānqǐ;Set off;0;0;0
+纤维;xiānwéi;fibre;0;0;0
+弦;xián;string;0;0;0
+咸;xián;salty;0;0;0
+嫌;xián;dislike and avoid;0;0;0
+嫌疑;xiányí;suspicion;0;0;0
+闲话;xiánhuà;gossip;0;0;0
+贤惠;xiánhuì;Virtuous;0;0;0
+衔接;xiánjiē;joint;0;0;0
+显著;xiǎnzhù;remarkable;0;0;0
+县;xiàn;county;0;0;0
+现场;xiànchǎng;scene;0;0;0
+现成;xiànchéng;Ready-made;0;0;0
+现状;xiànzhuàng;Present situation;0;0;0
+宪法;xiànfǎ;Constitution;0;0;0
+陷害;xiànhài;Framed;0;0;0
+陷入;xiànrù;fall into;0;0;0
+馅儿;xiànr;Filling;0;0;0
+线索;xiànsuǒ;Clue;0;0;0
+香;xiāng;fragrant;0;0;0
+相差;xiāngchà;Differ;0;0;0
+相等;xiāngděng;Equal;0;0;0
+相辅相成;xiāngfǔxiāngchéng;Exist side by side and play a part together;0;0;0
+相应;xiāngyìng;Corresponding;0;0;0
+镶嵌;xiāngqiàn;Set, inlay;0;0;0
+乡镇;xiāngzhèn;Town;0;0;0
+想方设法;xiǎngfāngshèfǎ;Try various devices to;0;0;0
+响;xiǎng;loud;0;0;0
+响亮;xiǎngliàng;loud and clear;0;0;0
+响应;xiǎngyìng;response;0;0;0
+向导;xiàngdǎo;Guide;0;0;0
+向来;xiànglái;always;0;0;0
+向往;xiàngwǎng;Yearn for;0;0;0
+项;xiàng;term;0;0;0
+消除;xiāochú;eliminate;0;0;0
+消毒;xiāodú;Disinfection;0;0;0
+消防;xiāofáng;Fire control;0;0;0
+消耗;xiāohào;consume;0;0;0
+消极;xiāojí;negative;0;0;0
+销毁;xiāohuǐ;destroy by melting or burning;0;0;0
+小心翼翼;xiǎoxīnyìyì;With great care;0;0;0
+笑;xiào;laugh;0;0;0
+效益;xiàoyì;benefit;0;0;0
+肖像;xiàoxiàng;portrait;0;0;0
+携带;xiédài;carry;0;0;0
+协会;xiéhuì;association;0;0;0
+协商;xiéshāng;consult;0;0;0
+协议;xiéyì;Agreement;0;0;0
+协助;xiézhù;assist;0;0;0
+写;xiě;write;0;0;0
+写作;xiězuò;writing;0;0;0
+屑;xiè;Chip;0;0;0
+谢绝;xièjué;decline with thanks;0;0;0
+泄露;xièlòu;leakage;0;0;0
+泄气;xièqì;Feel discouraged;0;0;0
+新;xīn;new;0;0;0
+新陈代谢;xīnchéndàixiè;The new supersedes the old;0;0;0
+新郎;xīnláng;Groom;0;0;0
+新娘;xīnniáng;Bride;0;0;0
+新颖;xīnyǐng;novel;0;0;0
+心得;xīndé;Experience;0;0;0
+心灵;xīnlíng;Heart;0;0;0
+心态;xīntài;mentality;0;0;0
+心疼;xīnténg;Distressed;0;0;0
+心血;xīnxuè;Blood;0;0;0
+心眼儿;xīnyǎnr;Heart, mind, intention;0;0;0
+辛勤;xīnqín;Hardworking;0;0;0
+欣慰;xīnwèi;Gratified;0;0;0
+欣欣向荣;xīnxīnxiàngróng;Thriving;0;0;0
+薪水;xīnshui;salary;0;0;0
+信;xìn;letter;0;0;0
+信赖;xìnlài;trust;0;0;0
+信念;xìnniàn;belief;0;0;0
+信仰;xìnyǎng;Faith;0;0;0
+信誉;xìnyù;reputation;0;0;0
+腥;xīng;Fishy;0;0;0
+兴隆;xīnglóng;Prosperous;0;0;0
+兴旺;xīngwàng;Prosperous;0;0;0
+行政;xíngzhèng;Administration;0;0;0
+形态;xíngtài;Form;0;0;0
+刑事;xíngshì;criminal;0;0;0
+醒;xǐng;wake up;0;0;0
+姓;xìng;surname;0;0;0
+性感;xìnggǎn;sexy;0;0;0
+性命;xìngmìng;life;0;0;0
+性能;xìngnéng;performance;0;0;0
+性情;xìngqíng;Temperament;0;0;0
+幸好;xìnghǎo;fortunately;0;0;0
+兴高采烈;xìnggāocǎiliè;Be jubilant;0;0;0
+兴致勃勃;xìngzhìbóbó;Be in the best of spirits;0;0;0
+胸;xiōng;chest;0;0;0
+胸怀;xiōnghuái;mind;0;0;0
+胸膛;xiōngtáng;chest;0;0;0
+凶恶;xiōng'è;Ferocious;0;0;0
+凶手;xiōngshǒu;Murderer;0;0;0
+雄厚;xiónghòu;Abundant;0;0;0
+修复;xiūfù;repair;0;0;0
+修建;xiūjiàn;build;0;0;0
+修理;xiūlǐ;repair;0;0;0
+羞耻;xiūchǐ;Shame;0;0;0
+休养;xiūyǎng;Rest;0;0;0
+绣;xiù;embroidery;0;0;0
+嗅觉;xiùjué;smell;0;0;0
+虚假;xūjiǎ;false sham;0;0;0
+虚荣;xūróng;vanity;0;0;0
+虚伪;xūwěi;hypocrisy;0;0;0
+需求;xūqiú;demand;0;0;0
+须知;xūzhī;Notice;0;0;0
+许可;xǔkě;Permit;0;0;0
+酗酒;xùjiǔ;Alcohol;0;0;0
+畜牧;xùmù;Animal husbandry;0;0;0
+序言;xùyán;Preface;0;0;0
+宣誓;xuānshì;Swear an oath;0;0;0
+宣扬;xuānyáng;Preach;0;0;0
+悬挂;xuánguà;suspension;0;0;0
+悬念;xuánniàn;suspense;0;0;0
+悬崖峭壁;xuányáqiàobì;Steep cliff;0;0;0
+旋律;xuánlǜ;Melody;0;0;0
+旋转;xuánzhuǎn;rotate;0;0;0
+选拔;xuǎnbá;Selection;0;0;0
+选手;xuǎnshǒu;Player;0;0;0
+削弱;xuēruò;weaken;0;0;0
+学历;xuélì;education degree;0;0;0
+学说;xuéshuō;theory;0;0;0
+学位;xuéwèi;Academic degree;0;0;0
+雪上加霜;xuěshàngjiāshuāng;One disaster after another;0;0;0
+血;xuè;blood;0;0;0
+血压;xuèyā;blood pressure;0;0;0
+熏陶;xūntáo;The influence of;0;0;0
+循环;xúnhuán;loop;0;0;0
+循序渐进;xúnxùjiànjìn;follow in order and advance step by step;0;0;0
+巡逻;xúnluó;patrol;0;0;0
+寻觅;xúnmì;Looking for;0;0;0
+押金;yājīn;deposit;0;0;0
+压迫;yāpò;Oppression;0;0;0
+压岁钱;yāsuìqián;Lucky money in new year;0;0;0
+压缩;yāsuō;compress;0;0;0
+压抑;yāyì;oppress;0;0;0
+压榨;yāzhà;press;0;0;0
+压制;yāzhì;Suppress;0;0;0
+亚军;yàjūn;Runner-up;0;0;0
+烟花爆竹;yānhuābàozhú;Fireworks and firecrackers;0;0;0
+淹没;yānmò;Flood;0;0;0
+盐;yán;salt;0;0;0
+延期;yánqī;Delay;0;0;0
+延伸;yánshēn;extend;0;0;0
+延续;yánxù;continue;0;0;0
+严寒;yánhán;Severe cold;0;0;0
+严禁;yánjìn;Strictly prohibit;0;0;0
+严峻;yánjùn;stern;0;0;0
+严厉;yánlì;severe;0;0;0
+严密;yánmì;tight;0;0;0
+沿海;yánhǎi;coastal;0;0;0
+言论;yánlùn;speech;0;0;0
+炎热;yánrè;Scorching hot;0;0;0
+岩石;yánshí;rock;0;0;0
+演变;yǎnbiàn;evolution;0;0;0
+演讲;yǎnjiǎng;speech;0;0;0
+演习;yǎnxí;exercise;0;0;0
+演绎;yǎnyì;deduction;0;0;0
+演奏;yǎnzòu;Play;0;0;0
+掩盖;yǎngài;cover up;0;0;0
+掩护;yǎnhù;cover;0;0;0
+掩饰;yǎnshì;Conceal;0;0;0
+眼光;yǎnguāng;Eye;0;0;0
+眼色;yǎnsè;meaningful glance;0;0;0
+眼神;yǎnshén;expression in one's eyes;0;0;0
+眼下;yǎnxià;Right now;0;0;0
+验收;yànshōu;Check before acceptance;0;0;0
+验证;yànzhèng;Verification;0;0;0
+厌恶;yànwù;Hate;0;0;0
+氧气;yǎngqì;oxygen;0;0;0
+样品;yàngpǐn;sample;0;0;0
+摇摆;yáobǎi;swing;0;0;0
+摇滚;yáogǔn;Rock;0;0;0
+摇晃;yáohuàng;Shake;0;0;0
+遥控;yáokòng;remote control;0;0;0
+遥远;yáoyuǎn;distant;0;0;0
+谣言;yáoyán;Rumor;0;0;0
+咬;yǎo;bite;0;0;0
+咬牙切齿;yǎoyáqièchǐ;Gnash the teeth in anger;0;0;0
+药;yào;drug;0;0;0
+要;yào;want;0;0;0
+要不然;yàoburán;Otherwise;0;0;0
+要点;yàodiǎn;Main points;0;0;0
+要命;yàomìng;kill, extremely;0;0;0
+要素;yàosù;Essential factor;0;0;0
+耀眼;yàoyǎn;dazzling;0;0;0
+野蛮;yěmán;barbarism;0;0;0
+野心;yěxīn;ambition;0;0;0
+页;yè;page;0;0;0
+夜;yè;night;0;0;0
+一流;yīliú;First-class;0;0;0
+依次;yīcì;successively;0;0;0
+依旧;yījiù;still;0;0;0
+依据;yījù;Basis;0;0;0
+依靠;yīkào;rely on;0;0;0
+依赖;yīlài;rely on;0;0;0
+依托;yītuō;rely on;0;0;0
+衣裳;yīshang;clothes;0;0;0
+一度;yídù;once;0;0;0
+一贯;yíguàn;consistent;0;0;0
+一律;yílǜ;all and singular;0;0;0
+一目了然;yímùliǎorán;Stick out a mile;0;0;0
+一向;yíxiàng;Always;0;0;0
+一再;yízài;repeatedly;0;0;0
+遗产;yíchǎn;heritage;0;0;0
+遗传;yíchuán;inheritance;0;0;0
+遗留;yíliú;Left;0;0;0
+遗失;yíshī;Loss;0;0;0
+疑惑;yíhuò;doubt;0;0;0
+仪器;yíqì;instrument;0;0;0
+仪式;yíshì;Ceremony;0;0;0
+乙;yǐ;;0;0;0
+以;yǐ;with;0;0;0
+以便;yǐbiàn;so that;0;0;0
+以免;yǐmiǎn;in case;0;0;0
+以往;yǐwǎng;Past;0;0;0
+以至;yǐzhì;So that;0;0;0
+以致;yǐzhì;so that;0;0;0
+一帆风顺;yìfānfēngshùn;Everything is going smoothly;0;0;0
+一举两得;yìjǔliǎngdé;Shoot two hawks with one arrow;0;0;0
+一如既往;yìrújìwǎng;As always;0;0;0
+一丝不苟;yìsībùgǒu;Be strict in one's demands;0;0;0
+异常;yìcháng;abnormal;0;0;0
+意料;yìliào;expect;0;0;0
+意识;yìshí;consciousness;0;0;0
+意图;yìtú;intention;0;0;0
+意味着;yìwèizhe;Signify;0;0;0
+意向;yìxiàng;intention;0;0;0
+意志;yìzhì;will;0;0;0
+毅力;yìlì;Will;0;0;0
+毅然;yìrán;Resolutely;0;0;0
+抑制;yìzhì;Inhibition;0;0;0
+阴;yīn;Yin;0;0;0
+阴谋;yīnmóu;conspiracy;0;0;0
+音响;yīnxiǎng;sound;0;0;0
+隐蔽;yǐnbì;Concealment;0;0;0
+隐患;yǐnhuàn;hidden danger;0;0;0
+隐瞒;yǐnmán;hide;0;0;0
+隐私;yǐnsī;Privacy;0;0;0
+隐约;yǐnyuē;Vaguely;0;0;0
+引导;yǐndǎo;guide;0;0;0
+引擎;yǐnqíng;engine;0;0;0
+引用;yǐnyòng;Quote;0;0;0
+饮食;yǐnshí;diet;0;0;0
+印刷;yìnshuā;printing;0;0;0
+婴儿;yīng'ér;baby;0;0;0
+英明;yīngmíng;wise;0;0;0
+英勇;yīngyǒng;heroic;0;0;0
+迎面;yíngmiàn;Head-on;0;0;0
+盈利;yínglì;profit;0;0;0
+荧屏;yíngpíng;screen;0;0;0
+应酬;yìngchou;Entertainment;0;0;0
+应邀;yìngyāo;Invited;0;0;0
+拥护;yōnghù;support;0;0;0
+拥有;yōngyǒu;Have;0;0;0
+庸俗;yōngsú;philistine;0;0;0
+勇于;yǒngyú;The courage to;0;0;0
+永恒;yǒnghéng;Eternal;0;0;0
+涌现;yǒngxiàn;The emergence of;0;0;0
+踊跃;yǒngyuè;Enthusiastically;0;0;0
+用;yòng;use;0;0;0
+用功;yònggōng;Diligent;0;0;0
+用户;yònghù;user;0;0;0
+优胜劣汰;yōushèngliètài;Survival of the fittest;0;0;0
+优先;yōuxiān;first;0;0;0
+优异;yōuyì;excellent;0;0;0
+优越;yōuyuè;superior;0;0;0
+忧郁;yōuyù;heavy-hearted;0;0;0
+由;yóu;from;0;0;0
+油腻;yóunì;greasy;0;0;0
+油漆;yóuqī;paint;0;0;0
+犹如;yóurú;like;0;0;0
+有条不紊;yǒutiáobùwěn;Everything in good order and well arranged;0;0;0
+幼稚;yòuzhì;Immature;0;0;0
+诱惑;yòuhuò;tempt;0;0;0
+愚蠢;yúchǔn;stupid;0;0;0
+愚昧;yúmèi;Foolish;0;0;0
+舆论;yúlùn;public opinion;0;0;0
+渔民;yúmín;Fisherman;0;0;0
+与日俱增;yǔrìjùzēng;Grow with each passing day;0;0;0
+羽绒服;yǔróngfú;Down Jackets;0;0;0
+予以;yǔyǐ;Give;0;0;0
+预料;yùliào;Expect;0;0;0
+预期;yùqī;expect;0;0;0
+预赛;yùsài;preliminary match;0;0;0
+预算;yùsuàn;budget;0;0;0
+预先;yùxiān;beforehand;0;0;0
+预言;yùyán;Prophesy;0;0;0
+预兆;yùzhào;Omen;0;0;0
+欲望;yùwàng;desire;0;0;0
+寓言;yùyán;fable;0;0;0
+冤枉;yuānwang;Wrong;0;0;0
+元首;yuánshǒu;The heads of a state;0;0;0
+元素;yuánsù;element;0;0;0
+元宵节;yuánxiāojié;The Lantern Festival;0;0;0
+圆;yuán;circular;0;0;0
+圆满;yuánmǎn;Satisfactorily;0;0;0
+原告;yuángào;accuser;0;0;0
+原理;yuánlǐ;principle;0;0;0
+原始;yuánshǐ;Original;0;0;0
+原先;yuánxiān;Original;0;0;0
+园林;yuánlín;Gardens;0;0;0
+源泉;yuánquán;headspring;0;0;0
+远;yuǎn;far;0;0;0
+约束;yuēshù;bind;0;0;0
+岳父;yuèfù;father-in-law;0;0;0
+乐谱;yuèpǔ;Music score;0;0;0
+晕;yūn;faint;0;0;0
+云;yún;cloud;0;0;0
+蕴藏;yùncáng;hold in store;0;0;0
+运算;yùnsuàn;operation;0;0;0
+运行;yùnxíng;run;0;0;0
+酝酿;yùnniàng;Brewing;0;0;0
+孕育;yùnyù;inoculation;0;0;0
+杂技;zájì;acrobatics;0;0;0
+杂交;zájiāo;Hybridization;0;0;0
+灾难;zāinàn;disaster;0;0;0
+栽培;zāipéi;cultivate;0;0;0
+宰;zǎi;Slaughter;0;0;0
+在;zài;stay;0;0;0
+在乎;zàihu;care about;0;0;0
+在意;zàiyì;care about;0;0;0
+再;zài;again;0;0;0
+再接再厉;zàijiēzàilì;Make persistent efforts;0;0;0
+赞叹;zàntàn;Praise;0;0;0
+赞同;zàntóng;agree with;0;0;0
+赞扬;zànyáng;Praise;0;0;0
+赞助;zànzhù;Sponsor;0;0;0
+暂且;zànqiě;For the time being;0;0;0
+糟蹋;zāotà;waste;0;0;0
+遭受;zāoshòu;Suffer;0;0;0
+遭殃;zāoyāng;Suffer;0;0;0
+遭遇;zāoyù;encounter;0;0;0
+造反;zàofǎn;Rebel;0;0;0
+造型;zàoxíng;style;0;0;0
+噪音;zàoyīn;noise;0;0;0
+则;zé;rule;0;0;0
+责怪;zéguài;Blame;0;0;0
+增添;zēngtiān;Add;0;0;0
+赠送;zèngsòng;Give;0;0;0
+渣;zhā;residue;0;0;0
+扎;zhā;Tie;0;0;0
+扎实;zhāshi;solid;0;0;0
+眨;zhǎ;Blink;0;0;0
+诈骗;zhàpiàn;Fraud;0;0;0
+摘;zhāi;pick;0;0;0
+摘要;zhāiyào;abstract;0;0;0
+窄;zhǎi;narrow;0;0;0
+债券;zhàiquàn;bond;0;0;0
+沾光;zhānguāng;gain some advantage from another;0;0;0
+瞻仰;zhānyǎng;look at with reverence;0;0;0
+斩钉截铁;zhǎndīngjiétiě;Resolute and decisive;0;0;0
+展示;zhǎnshì;Exhibit;0;0;0
+展望;zhǎnwàng;expectation;0;0;0
+展现;zhǎnxiàn;To show;0;0;0
+崭新;zhǎnxīn;Completely new;0;0;0
+站;zhàn;station;0;0;0
+战斗;zhàndòu;Battle;0;0;0
+战略;zhànlüè;strategy;0;0;0
+战术;zhànshù;tactics;0;0;0
+战役;zhànyì;Battle;0;0;0
+占据;zhànjù;Occupy;0;0;0
+占领;zhànlǐng;occupy;0;0;0
+占有;zhànyǒu;occupy;0;0;0
+张;zhāng;Zhang;0;0;0
+章程;zhāngchéng;Constitution, regulations;0;0;0
+涨;zhǎng;rise;0;0;0
+长;zhǎng;grow;0;0;0
+长辈;zhǎngbèi;Elder;0;0;0
+障碍;zhàng'ài;obstacle;0;0;0
+帐篷;zhàngpeng;Tent;0;0;0
+招收;zhāoshōu;recruit;0;0;0
+招投标;zhāotóubiāo;Bidding;0;0;0
+朝气蓬勃;zhāoqìpéngbó;Full of youthful spirit;0;0;0
+着迷;zháomí;Be fascinated;0;0;0
+找;zhǎo;look for;0;0;0
+沼泽;zhǎozé;Swamp;0;0;0
+照料;zhàoliào;Take care of;0;0;0
+照耀;zhàoyào;Shine;0;0;0
+照应;zhàoyìng;Take care of;0;0;0
+遮挡;zhēdǎng;keep out;0;0;0
+折腾;zhēteng;Toss;0;0;0
+折;zhé;fracture;0;0;0
+折磨;zhémó;torture;0;0;0
+着;zhe;in process of;0;0;0
+真;zhēn;really;0;0;0
+真相;zhēnxiàng;fact;0;0;0
+真挚;zhēnzhì;sincere;0;0;0
+珍贵;zhēnguì;precious;0;0;0
+珍稀;zhēnxī;Rare;0;0;0
+珍珠;zhēnzhū;Pearl;0;0;0
+侦探;zhēntàn;Detective;0;0;0
+斟酌;zhēnzhuó;Consider;0;0;0
+阵;zhèn;front;0;0;0
+阵地;zhèndì;position;0;0;0
+阵容;zhènróng;Lineup;0;0;0
+镇定;zhèndìng;Calm;0;0;0
+镇静;zhènjìng;Calm;0;0;0
+镇压;zhènyā;Suppress;0;0;0
+振奋;zhènfèn;Exciting;0;0;0
+振兴;zhènxīng;The revitalization of;0;0;0
+震惊;zhènjīng;shock;0;0;0
+睁;zhēng;open (eyes);0;0;0
+争端;zhēngduān;Dispute;0;0;0
+争夺;zhēngduó;Fight for;0;0;0
+争气;zhēngqì;try to win credit for;0;0;0
+争先恐后;zhēngxiānkǒnghòu;strive to be the first;0;0;0
+争议;zhēngyì;dispute;0;0;0
+蒸发;zhēngfā;evaporation;0;0;0
+征服;zhēngfú;Conquer;0;0;0
+征收;zhēngshōu;collection;0;0;0
+正月;zhēngyuè;January (moon calendar);0;0;0
+挣扎;zhēngzhá;Struggle;0;0;0
+整顿;zhěngdùn;rectify;0;0;0
+正当;zhèngdāng;proper;0;0;0
+正负;zhèngfù;Positive and negative;0;0;0
+正规;zhèngguī;regular;0;0;0
+正经;zhèngjing;Serious;0;0;0
+正气;zhèngqì;Righteousness;0;0;0
+正义;zhèngyì;justice;0;0;0
+政权;zhèngquán;regime;0;0;0
+证实;zhèngshí;Confirm;0;0;0
+证书;zhèngshū;certificate;0;0;0
+郑重;zhèngzhòng;Solemnly;0;0;0
+症状;zhèngzhuàng;Symptom;0;0;0
+只;zhī;only;0;0;0
+之;zhī;of;0;0;0
+枝;zhī;branch;0;0;0
+支;zhī;branch (measure word);0;0;0
+支撑;zhīchēng;brace;0;0;0
+支出;zhīchū;payout;0;0;0
+支流;zhīliú;Tributary;0;0;0
+支配;zhīpèi;Control;0;0;0
+支援;zhīyuán;support;0;0;0
+支柱;zhīzhù;mainstay;0;0;0
+知觉;zhījué;perception;0;0;0
+知足常乐;zhīzúchánglè;Happy is he who is content;0;0;0
+脂肪;zhīfáng;Fat;0;0;0
+直;zhí;straight;0;0;0
+直播;zhíbō;on live;0;0;0
+值班;zhíbān;Be on duty;0;0;0
+殖民地;zhímíndì;Colony;0;0;0
+职能;zhínéng;function;0;0;0
+职位;zhíwèi;position;0;0;0
+职务;zhíwù;post;0;0;0
+指标;zhǐbiāo;index;0;0;0
+指定;zhǐdìng;Appoint;0;0;0
+指甲;zhǐjia;nail;0;0;0
+指令;zhǐlìng;instructions;0;0;0
+指南针;zhǐnánzhēn;Compass;0;0;0
+指示;zhǐshì;Instructions;0;0;0
+指望;zhǐwàng;expect;0;0;0
+指责;zhǐzé;Accuse;0;0;0
+只;zhǐ;only;0;0;0
+治安;zhì'ān;public security;0;0;0
+治理;zhìlǐ;Government;0;0;0
+制裁;zhìcái;Sanction;0;0;0
+制订;zhìdìng;formulate;0;0;0
+制服;zhìfú;uniform;0;0;0
+制约;zhìyuē;restrict;0;0;0
+制止;zhìzhǐ;Stop it;0;0;0
+致辞;zhìcí;Speech;0;0;0
+致力于;zhìlìyú;devote oneself to;0;0;0
+致使;zhìshǐ;cause;0;0;0
+智力;zhìlì;intelligence;0;0;0
+智能;zhìnéng;Intelligence;0;0;0
+智商;zhìshāng;intelligence quotient;0;0;0
+滞留;zhìliú;retention;0;0;0
+志气;zhìqì;Ambition;0;0;0
+忠诚;zhōngchéng;loyal;0;0;0
+忠实;zhōngshí;Faithful;0;0;0
+终点;zhōngdiǎn;End;0;0;0
+终究;zhōngjiū;after all;0;0;0
+终年;zhōngnián;All the year round;0;0;0
+终身;zhōngshēn;lifelong;0;0;0
+终止;zhōngzhǐ;termination;0;0;0
+中断;zhōngduàn;interrupt;0;0;0
+中立;zhōnglì;neutral;0;0;0
+中央;zhōngyāng;center;0;0;0
+衷心;zhōngxīn;Heartfelt;0;0;0
+种;zhǒng;species;0;0;0
+种子;zhǒngzi;seed;0;0;0
+种族;zhǒngzú;race;0;0;0
+肿瘤;zhǒngliú;tumour;0;0;0
+重;zhòng;heavy;0;0;0
+重心;zhòngxīn;Focus;0;0;0
+众所周知;zhòngsuǒzhōuzhī;As everyone knows;0;0;0
+州;zhōu;State;0;0;0
+舟;zhōu;boat;0;0;0
+粥;zhōu;Porridge;0;0;0
+周边;zhōubiān;periphery;0;0;0
+周密;zhōumì;thorough;0;0;0
+周年;zhōunián;anniversary;0;0;0
+周期;zhōuqī;period cycle;0;0;0
+周折;zhōuzhé;Twists and turns;0;0;0
+周转;zhōuzhuǎn;turnover;0;0;0
+皱纹;zhòuwén;Wrinkle;0;0;0
+昼夜;zhòuyè;Day and night;0;0;0
+株;zhū;plant (measure word);0;0;0
+猪;zhū;pig;0;0;0
+诸位;zhūwèi;every one;0;0;0
+逐年;zhúnián;year by year;0;0;0
+主办;zhǔbàn;Host;0;0;0
+主导;zhǔdǎo;leading;0;0;0
+主管;zhǔguǎn;Executive director;0;0;0
+主流;zhǔliú;Main stream;0;0;0
+主权;zhǔquán;sovereignty;0;0;0
+主题;zhǔtí;theme;0;0;0
+住宅;zhùzhái;residence;0;0;0
+注射;zhùshè;injection;0;0;0
+注视;zhùshì;Gaze;0;0;0
+注释;zhùshì;note;0;0;0
+注重;zhùzhòng;pay attention to;0;0;0
+助理;zhùlǐ;assistant;0;0;0
+助手;zhùshǒu;assistant;0;0;0
+著作;zhùzuò;Work;0;0;0
+驻扎;zhùzhā;Be stationed;0;0;0
+铸造;zhùzào;casting, foundry;0;0;0
+专长;zhuāncháng;Expertise;0;0;0
+专程;zhuānchéng;Special-purpose trip;0;0;0
+专科;zhuānkē;Specialty;0;0;0
+专利;zhuānlì;patent;0;0;0
+专题;zhuāntí;special collection;0;0;0
+砖瓦;zhuānwǎ;Brick and tile;0;0;0
+转达;zhuǎndá;Convey;0;0;0
+转让;zhuǎnràng;make over;0;0;0
+转移;zhuǎnyí;transfer;0;0;0
+转折;zhuǎnzhé;Transition;0;0;0
+赚;zhuàn;earn;0;0;0
+传记;zhuànjì;biography;0;0;0
+装;zhuāng;pretend;0;0;0
+装备;zhuāngbèi;equipment;0;0;0
+装卸;zhuāngxiè;Loading and unloading;0;0;0
+庄严;zhuāngyán;solemn;0;0;0
+庄重;zhuāngzhòng;grand;0;0;0
+壮观;zhuàngguān;grand;0;0;0
+壮丽;zhuànglì;Magnificent;0;0;0
+壮烈;zhuàngliè;brave;0;0;0
+追悼;zhuīdào;mour for;0;0;0
+追究;zhuījiū;Investigate;0;0;0
+准则;zhǔnzé;criterion;0;0;0
+琢磨;zhuómó;Pondering;0;0;0
+着手;zhuóshǒu;To start;0;0;0
+着想;zhuóxiǎng;consider;0;0;0
+着重;zhuózhòng;Emphasize;0;0;0
+卓越;zhuóyuè;Excellent;0;0;0
+资本;zīběn;capital;0;0;0
+资产;zīchǎn;capital;0;0;0
+资深;zīshēn;senior;0;0;0
+资助;zīzhù;give financial aid;0;0;0
+姿态;zītài;attitude;0;0;0
+滋味;zīwèi;Taste;0;0;0
+滋长;zīzhǎng;Grow;0;0;0
+紫;zǐ;purple;0;0;0
+子弹;zǐdàn;Bullet;0;0;0
+字母;zìmǔ;Letter;0;0;0
+自卑;zìbēi;inferiority;0;0;0
+自发;zìfā;spontaneous;0;0;0
+自力更生;zìlìgēngshēng;Rely through one's own efforts;0;0;0
+自满;zìmǎn;Complacent;0;0;0
+自主;zìzhǔ;Autonomy;0;0;0
+踪迹;zōngjì;tail;0;0;0
+宗旨;zōngzhǐ;Purpose;0;0;0
+棕色;zōngsè;brown;0;0;0
+总而言之;zǒng'éryánzhī;To make a long story short;0;0;0
+总和;zǒnghé;summation;0;0;0
+纵横;zònghéng;in length and breadth;0;0;0
+走;zǒu;go, walk;0;0;0
+走廊;zǒuláng;corridor;0;0;0
+走漏;zǒulòu;leak out;0;0;0
+走私;zǒusī;smuggle;0;0;0
+揍;zòu;Beat;0;0;0
+租;zū;rent;0;0;0
+租赁;zūlìn;Lease;0;0;0
+足以;zúyǐ;Enough;0;0;0
+组;zǔ;group;0;0;0
+阻碍;zǔ'ài;hinder;0;0;0
+阻拦;zǔlán;block off;0;0;0
+阻挠;zǔnáo;obstruct;0;0;0
+祖父;zǔfù;grandfather;0;0;0
+钻研;zuānyán;Study intensively;0;0;0
+钻石;zuànshí;Diamonds;0;0;0
+嘴;zuǐ;mouth;0;0;0
+嘴唇;zuǐchún;Lips;0;0;0
+醉;zuì;drunk;0;0;0
+最;zuì;most;0;0;0
+尊严;zūnyán;dignity;0;0;0
+遵循;zūnxún;follow;0;0;0
+左右;zuǒyòu;About;0;0;0
+做东;zuòdōng;Host, treat;0;0;0
+做主;zuòzhǔ;decide;0;0;0
+座右铭;zuòyòumíng;Motto;0;0;0
+作弊;zuòbì;Cheat;0;0;0
+作废;zuòfèi;cancel, blank out;0;0;0
+作风;zuòfēng;style;0;0;0
+作息;zuòxī;work and rest;0;0;0
